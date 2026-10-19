@@ -1,0 +1,441 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Proportional symbol map: each university at its main campus. Circle area = students enrolled at the selected course level (2024). Colour = 2025 overall-experience rating relative to the national university benchmark.",
+  "width": "container",
+  "height": 540,
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
+  "params": [
+    {
+      "name": "level",
+      "value": "Undergraduate",
+      "bind": {
+        "input": "radio",
+        "options": [
+          "Undergraduate",
+          "Postgraduate coursework"
+        ],
+        "labels": [
+          "Undergraduates",
+          "Postgraduates (coursework)"
+        ],
+        "name": "Students: "
+      }
+    },
+    {
+      "name": "focus",
+      "value": "Australia",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Australia",
+          "Sydney",
+          "Melbourne",
+          "Brisbane",
+          "Perth",
+          "Adelaide"
+        ],
+        "labels": [
+          "All of Australia",
+          "Sydney region",
+          "Melbourne",
+          "South-east Queensland",
+          "Perth",
+          "Adelaide"
+        ],
+        "name": "Zoom to: "
+      }
+    },
+    {
+      "name": "benchmark",
+      "expr": "level == 'Undergraduate' ? 76.2 : 77.1"
+    },
+    {
+      "name": "view",
+      "expr": "{'Australia': [134.0, -27.5, 0], 'Sydney': [151.08, -33.86, 48], 'Melbourne': [145.0, -37.83, 22], 'Brisbane': [153.1, -27.4, 95], 'Perth': [115.83, -31.92, 20], 'Adelaide': [138.59, -34.95, 10]}[focus]"
+    },
+    {
+      "name": "zoomed",
+      "expr": "focus != 'Australia'"
+    },
+    {
+      "name": "mapScale",
+      "expr": "zoomed ? (min(width, height) / 2) / (view[2] / 6371) : min(width * 0.95 / 0.62, height * 0.95 / 0.60)"
+    }
+  ],
+  "projection": {
+    "type": "conicEqualArea",
+    "parallels": [
+      -18,
+      -36
+    ],
+    "rotate": {
+      "expr": "[-view[0], 0]"
+    },
+    "center": {
+      "expr": "[0, view[1]]"
+    },
+    "scale": {
+      "expr": "mapScale"
+    },
+    "translate": {
+      "expr": "[width / 2, height / 2]"
+    }
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/geo/au_states_detailed.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#f0eee8",
+        "stroke": "#ffffff",
+        "strokeWidth": 1.2,
+        "clip": true
+      }
+    },
+    {
+      "data": {
+        "url": "data/university_scores.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.year == 2025 && datum.metric == 'overall' && datum.level == level"
+        },
+        {
+          "lookup": "institution",
+          "from": {
+            "data": {
+              "url": "data/geo/university_locations.csv"
+            },
+            "key": "institution",
+            "fields": [
+              "enrolment_name",
+              "short_name",
+              "campus",
+              "state",
+              "longitude",
+              "latitude",
+              "location_note"
+            ]
+          }
+        },
+        {
+          "lookup": "enrolment_name",
+          "from": {
+            "data": {
+              "url": "data/institution_enrolments.csv"
+            },
+            "key": "institution",
+            "fields": [
+              "bachelor",
+              "postgraduate_coursework"
+            ]
+          }
+        },
+        {
+          "calculate": "level == 'Undergraduate' ? datum.bachelor : datum.postgraduate_coursework",
+          "as": "students"
+        },
+        {
+          "calculate": "datum.positive_pct - benchmark",
+          "as": "gap"
+        },
+        {
+          "calculate": "isValid(datum.ci_low) ? format(datum.ci_low, '.1f') + '–' + format(datum.ci_high, '.1f') + '%' : 'not published'",
+          "as": "likely_range"
+        },
+        {
+          "calculate": "(datum.gap >= 0 ? '+' : '') + format(datum.gap, '.1f') + ' points vs national (' + format(benchmark, '.1f') + '%)'",
+          "as": "gap_label"
+        },
+        {
+          "calculate": "isValid(datum.students) ? format(datum.students, ',') : 'not published'",
+          "as": "students_label"
+        },
+        {
+          "calculate": "datum.location_note ? datum.location_note : ''",
+          "as": "note"
+        }
+      ],
+      "layer": [
+        {
+          "transform": [
+            {
+              "filter": "isValid(datum.students)"
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            "opacity": 0.88,
+            "stroke": "#ffffff",
+            "strokeWidth": 1,
+            "clip": true
+          },
+          "encoding": {
+            "longitude": {
+              "field": "longitude",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "latitude",
+              "type": "quantitative"
+            },
+            "size": {
+              "field": "students",
+              "type": "quantitative",
+              "scale": {
+                "domain": [
+                  0,
+                  50000
+                ],
+                "range": [
+                  0,
+                  1500
+                ]
+              },
+              "legend": {
+                "title": "Students enrolled (2024)",
+                "values": [
+                  5000,
+                  20000,
+                  40000
+                ],
+                "symbolFillColor": "#bdbbb3",
+                "symbolStrokeColor": "#ffffff",
+                "orient": "bottom-left",
+                "direction": "horizontal",
+                "labelExpr": "format(datum.value, ',')"
+              }
+            },
+            "color": {
+              "field": "gap",
+              "type": "quantitative",
+              "scale": {
+                "domain": [
+                  -10,
+                  -5,
+                  0,
+                  5,
+                  10
+                ],
+                "range": [
+                  "#b5481c",
+                  "#e0906b",
+                  "#c9c7bf",
+                  "#6da7ec",
+                  "#1c5cab"
+                ],
+                "interpolate": "rgb",
+                "clamp": true
+              },
+              "legend": {
+                "title": "Overall experience vs national average (points)",
+                "orient": "top-left",
+                "direction": "horizontal",
+                "gradientLength": 180,
+                "values": [
+                  -10,
+                  -5,
+                  0,
+                  5,
+                  10
+                ],
+                "type": "gradient",
+                "labelExpr": "datum.value > 0 ? '+' + datum.value : datum.value"
+              }
+            },
+            "order": {
+              "field": "students",
+              "sort": "descending"
+            },
+            "tooltip": [
+              {
+                "field": "institution",
+                "title": "University"
+              },
+              {
+                "field": "campus",
+                "title": "Plotted at"
+              },
+              {
+                "field": "positive_pct",
+                "title": "Rated their overall experience positively (%)",
+                "format": ".1f"
+              },
+              {
+                "field": "gap_label",
+                "title": "Compared with all universities"
+              },
+              {
+                "field": "likely_range",
+                "title": "Likely range (survey margin)"
+              },
+              {
+                "field": "students_label",
+                "title": "Students at this level (2024)"
+              },
+              {
+                "field": "note",
+                "title": "Note"
+              }
+            ]
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "!isValid(datum.students)"
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            "size": 70,
+            "filled": false,
+            "strokeWidth": 2,
+            "clip": true
+          },
+          "encoding": {
+            "longitude": {
+              "field": "longitude",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "latitude",
+              "type": "quantitative"
+            },
+            "stroke": {
+              "field": "gap",
+              "type": "quantitative",
+              "scale": {
+                "domain": [
+                  -10,
+                  -5,
+                  0,
+                  5,
+                  10
+                ],
+                "range": [
+                  "#b5481c",
+                  "#e0906b",
+                  "#c9c7bf",
+                  "#6da7ec",
+                  "#1c5cab"
+                ],
+                "interpolate": "rgb",
+                "clamp": true
+              },
+              "legend": null
+            },
+            "tooltip": [
+              {
+                "field": "institution",
+                "title": "University"
+              },
+              {
+                "field": "campus",
+                "title": "Plotted at"
+              },
+              {
+                "field": "positive_pct",
+                "title": "Rated their overall experience positively (%)",
+                "format": ".1f"
+              },
+              {
+                "field": "gap_label",
+                "title": "Compared with all universities"
+              },
+              {
+                "field": "likely_range",
+                "title": "Likely range (survey margin)"
+              },
+              {
+                "field": "students_label",
+                "title": "Students at this level (2024)"
+              },
+              {
+                "field": "note",
+                "title": "Note"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "dx": 9,
+            "dy": -6,
+            "fontSize": 11.5,
+            "fontWeight": 600,
+            "fill": "#2b2a27",
+            "stroke": "#ffffff",
+            "strokeWidth": 3,
+            "strokeOpacity": 0.85,
+            "strokeJoin": "round",
+            "clip": true
+          },
+          "encoding": {
+            "longitude": {
+              "field": "longitude",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "latitude",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "short_name"
+            },
+            "opacity": {
+              "condition": {
+                "test": "zoomed",
+                "value": 1
+              },
+              "value": 0
+            }
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "dx": 9,
+            "dy": -6,
+            "fontSize": 11.5,
+            "fontWeight": 600,
+            "fill": "#2b2a27",
+            "clip": true
+          },
+          "encoding": {
+            "longitude": {
+              "field": "longitude",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "latitude",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "short_name"
+            },
+            "opacity": {
+              "condition": {
+                "test": "zoomed",
+                "value": 1
+              },
+              "value": 0
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Choropleth: share of domestic students, by permanent home state, who are enrolled with an institution registered in that same state (2024).",
+  "width": "container",
+  "height": 460,
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
+  "projection": {
+    "type": "conicEqualArea",
+    "parallels": [
+      -18,
+      -36
+    ],
+    "rotate": [
+      -132,
+      0
+    ]
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/geo/au_states.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "transform": [
+        {
+          "lookup": "properties.name",
+          "from": {
+            "data": {
+              "url": "data/home_state_shares.csv"
+            },
+            "key": "home_state",
+            "fields": [
+              "same_state_pct",
+              "same_state_students",
+              "total_students"
+            ]
+          }
+        },
+        {
+          "calculate": "100 - datum.same_state_pct",
+          "as": "elsewhere_pct"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#ffffff"
+      },
+      "encoding": {
+        "color": {
+          "field": "same_state_pct",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              40,
+              85
+            ],
+            "range": [
+              "#cde2fb",
+              "#104281"
+            ]
+          },
+          "legend": {
+            "title": "Studying with a home-state institution (%)",
+            "orient": "bottom-left",
+            "direction": "horizontal",
+            "gradientLength": 200,
+            "values": [
+              40,
+              60,
+              80
+            ],
+            "labelExpr": "datum.value + '%'"
+          }
+        },
+        "strokeWidth": {
+          "condition": {
+            "param": "hover",
+            "empty": false,
+            "value": 3
+          },
+          "value": 1.2
+        },
+        "tooltip": [
+          {
+            "field": "properties.name",
+            "title": "Home state"
+          },
+          {
+            "field": "same_state_pct",
+            "title": "Enrolled with a home-state institution (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "same_state_students",
+            "title": "Students with a home-state institution",
+            "format": ","
+          },
+          {
+            "field": "total_students",
+            "title": "All students from this state",
+            "format": ","
+          },
+          {
+            "field": "elsewhere_pct",
+            "title": "Enrolled interstate or with a multi-state provider (%)",
+            "format": ".1f"
+          }
+        ]
+      },
+      "params": [
+        {
+          "name": "hover",
+          "select": {
+            "type": "point",
+            "on": "pointerover",
+            "clear": "pointerout",
+            "fields": [
+              "properties.name"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "data": {
+        "url": "data/geo/state_anchors.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.code == 'ACT'"
+        }
+      ],
+      "mark": {
+        "type": "rule",
+        "color": "#52514e",
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "longitude2": {
+          "field": "label_longitude"
+        },
+        "latitude2": {
+          "field": "label_latitude"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "data/geo/state_anchors.csv"
+      },
+      "transform": [
+        {
+          "lookup": "state",
+          "from": {
+            "data": {
+              "url": "data/home_state_shares.csv"
+            },
+            "key": "home_state",
+            "fields": [
+              "same_state_pct"
+            ]
+          }
+        },
+        {
+          "calculate": "datum.code + ' ' + format(datum.same_state_pct, '.0f') + '%'",
+          "as": "label"
+        },
+        {
+          "calculate": "datum.same_state_pct > 66 && datum.code != 'ACT' && datum.code != 'TAS'",
+          "as": "on_dark"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "fontSize": 13,
+        "fontWeight": 700,
+        "align": "center",
+        "baseline": "middle"
+      },
+      "encoding": {
+        "longitude": {
+          "field": "label_longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "label_latitude",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "label"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.on_dark",
+            "value": "#ffffff"
+          },
+          "value": "#1f1e1c"
+        }
+      }
+    }
+  ]
+}

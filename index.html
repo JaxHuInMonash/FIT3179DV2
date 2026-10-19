@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The University Experience — Australian student satisfaction, 2025</title>
+  <meta name="description" content="A visual story about what Australian university students say about teaching, support, belonging and their overall experience, using the 2025 Student Experience Survey.">
+  <meta name="author" content="Huankang Hu">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.30.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.21.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0"></script>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <p class="kicker">Australian university students, 2025</p>
+    <h1>The University Experience</h1>
+    <p class="lede">More than 3 in 4 undergraduates rate their university experience positively. Fewer than half feel they belong. This story looks at where universities meet students' expectations, and where the gaps are.</p>
+    <nav class="toc" aria-label="Sections">
+      <a href="#national">1 · The big picture</a>
+      <a href="#where">2 · Where students study</a>
+      <a href="#compare">3 · Universities and study areas</a>
+      <a href="#everyday">4 · Everyday experience</a>
+      <a href="#about">About the data</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <!-- ============ 1. NATIONAL ============ -->
+  <section id="national" class="section">
+    <div class="wrap">
+      <p class="section-num">1</p>
+      <h2>The big picture</h2>
+      <div class="prose">
+        <p>Every year, the national <strong>Student Experience Survey</strong> asks a large sample of current students to rate their course. In this story, a <em>positive rating</em> means a student chose one of the top answers on the survey's scale, such as "good" or "excellent".</p>
+      </div>
+
+      <div class="grid-2">
+        <figure class="chart placeholder" id="chart-waffle">
+          <figcaption>
+            <h3>About 76 in every 100 undergraduates rate their overall experience positively</h3>
+            <p class="sub">Each square is one student in 100 · Universities, 2025</p>
+          </figcaption>
+          <div class="todo">Planned: waffle chart (100 squares), 76.2% filled</div>
+        </figure>
+        <figure class="chart placeholder" id="chart-trend">
+          <figcaption>
+            <h3>Overall experience and belonging have both slipped since 2019</h3>
+            <p class="sub">Positive ratings, undergraduates at universities, 2017–2025</p>
+          </figcaption>
+          <div class="todo">Planned: annotated line chart (overall experience vs sense of belonging)</div>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 2. WHERE ============ -->
+  <section id="where" class="section alt">
+    <div class="wrap">
+      <p class="section-num">2</p>
+      <h2>Where students study</h2>
+      <div class="prose">
+        <p>Most Australians enrol with a university in their own state, so it helps to know how the local universities compare. The national results are not evenly spread across the map.</p>
+      </div>
+
+      <figure class="chart wide" id="fig-home-state">
+        <figcaption>
+          <h3>Eight in ten students in the big states stay with a home-state institution; in the territories it is far fewer</h3>
+          <p class="sub">Share of domestic higher-education students enrolled with an institution registered in their home state, 2024</p>
+        </figcaption>
+        <div class="split">
+          <div class="vis" id="map-home-state"></div>
+          <aside class="annotation">
+            <p class="big-num">43%</p>
+            <p>of students from the <strong>Northern Territory</strong> are enrolled with a Territory institution, the lowest share in the country.</p>
+            <p>The <strong>ACT</strong> (58%) and <strong>Tasmania</strong> (69%) are also below the mainland states, where about 76–82% stay local.</p>
+            <p class="small">Students may study online or at a campus outside the institution's home state, so this shows enrolment, not where students physically go.</p>
+          </aside>
+        </div>
+        <p class="source">Source: Australian Government Department of Education, 2024 Student Data, Section 2 (Table 2.4). <a href="specs/map_home_state.vl.json">Chart spec</a></p>
+      </figure>
+
+      <figure class="chart wide" id="fig-flows">
+        <figcaption>
+          <h3>One in three interstate enrolments is with a New South Wales institution</h3>
+          <p class="sub">Students whose permanent home is in one state but who are enrolled with an institution registered in another, 2024. Choose a state, then switch direction.</p>
+        </figcaption>
+        <div class="vis" id="map-flows"></div>
+        <p class="note">Lines join capital cities as a stand-in for each state, and their thickness shows the number of students. Several large online and regional providers are registered in New South Wales, which helps explain its strong pull. The map leaves out multi-state providers such as Australian Catholic University, overseas students, and a few small links that are not published.</p>
+        <p class="source">Source: Department of Education, 2024 Student Data, Section 2 (Table 2.4). <a href="specs/map_flows.vl.json">Chart spec</a></p>
+      </figure>
+
+      <figure class="chart wide" id="fig-universities">
+        <figcaption>
+          <h3>Smaller and regional universities tend to score above the national average; large city universities tend to score below it</h3>
+          <p class="sub">Overall experience rating at each university, 2025, compared with the national university average. Circle size shows how many students study at that level (2024).</p>
+        </figcaption>
+        <div class="vis" id="map-universities"></div>
+        <div class="callouts">
+          <div><span class="dot above"></span><strong>Above average:</strong> two small theological universities top the undergraduate ratings: the Australian University of Theology (96.0%) and the University of Divinity (94.4%). Next come Avondale (91.9%), Bond (87.0%) and the University of New England (83.1%).</div>
+          <div><span class="dot below"></span><strong>Below average:</strong> several of the largest city universities, including Sydney (71.5%), Melbourne (72.6%) and ANU (70.9%), sit about 3.5 to 5.5 points under the 76.2% national figure.</div>
+        </div>
+        <p class="note">Hover over a circle for its exact rating and its likely range. The survey asks a sample of students, so each score has a margin of uncertainty, and differences of a point or two should not be read as a real gap. Hollow circles are institutions with no published enrolment figure. Use <em>Zoom to</em> to separate universities in the same city.</p>
+        <p class="source">Sources: QILT Student Experience Survey 2025 National Report Tables (Social Research Centre for the Department of Education); Department of Education 2024 Student Data, Section 2 (Table 2.5). Campus locations are approximate main campuses. <a href="specs/map_universities.vl.json">Chart spec</a></p>
+      </figure>
+    </div>
+  </section>
+
+  <!-- ============ 3. COMPARE ============ -->
+  <section id="compare" class="section">
+    <div class="wrap">
+      <p class="section-num">3</p>
+      <h2>Universities and study areas</h2>
+      <div class="prose">
+        <p>Nationally, learning resources (83.9%) and teaching (80.0%) earn the highest positive ratings from undergraduates. Peer engagement, meaning how much students connect with each other, earns the lowest (59.9%).</p>
+      </div>
+      <figure class="chart placeholder wide" id="chart-heatmap">
+        <figcaption><h3>Study areas share the same strengths and the same weak spot</h3>
+        <p class="sub">Positive ratings by study area and part of the experience, undergraduates, 2025</p></figcaption>
+        <div class="todo">Planned: heatmap, 21 study areas × 6 measures</div>
+      </figure>
+      <div class="grid-2">
+        <figure class="chart placeholder" id="chart-box">
+          <figcaption><h3>Universities differ most on peer engagement and support</h3><p class="sub">Spread of university scores for each measure, 2025</p></figcaption>
+          <div class="todo">Planned: box plot with every university as a point</div>
+        </figure>
+        <figure class="chart placeholder" id="chart-parallel">
+          <figcaption><h3>Compare the profile of any two universities</h3><p class="sub">Six measures, 2025 · pick universities to highlight</p></figcaption>
+          <div class="todo">Planned: parallel coordinates with highlighting</div>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 4. EVERYDAY ============ -->
+  <section id="everyday" class="section alt">
+    <div class="wrap">
+      <p class="section-num">4</p>
+      <h2>Everyday experience</h2>
+      <div class="prose">
+        <p>The broad ratings hide the details of daily student life: getting help, meeting other students, and deciding whether to stay.</p>
+      </div>
+      <div class="grid-2">
+        <figure class="chart placeholder" id="chart-stage">
+          <figcaption><h3>First-year and later-year students rate their experience differently</h3><p class="sub">Commencing vs later-year undergraduates, 2025</p></figcaption>
+          <div class="todo">Planned: dumbbell chart</div>
+        </figure>
+        <figure class="chart placeholder" id="chart-support">
+          <figcaption><h3>Which support services students find helpful</h3><p class="sub">Individual survey items, 2025</p></figcaption>
+          <div class="todo">Planned: ranked bars</div>
+        </figure>
+      </div>
+      <figure class="chart placeholder wide" id="chart-leaving">
+        <figcaption><h3>Why students think about leaving</h3><p class="sub">Among students who considered leaving, 2025 (students could give more than one reason)</p></figcaption>
+        <div class="todo">Planned: isotype / pictogram chart</div>
+      </figure>
+    </div>
+  </section>
+
+  <!-- ============ ABOUT ============ -->
+  <section id="about" class="section about">
+    <div class="wrap">
+      <h2>About the data</h2>
+      <div class="about-grid">
+        <div>
+          <h3>Sources</h3>
+          <ul>
+            <li><a href="https://www.qilt.edu.au/surveys/student-experience-survey-(ses)">Student Experience Survey 2025, National Report Tables</a>. Quality Indicators for Learning and Teaching (QILT), Social Research Centre for the Australian Government Department of Education, published 2026.</li>
+            <li><a href="https://www.education.gov.au/higher-education-statistics/resources/2024-section-2-all-students">Higher Education Student Data 2024, Section 2: All students</a>. Australian Government Department of Education, published September 2025.</li>
+            <li>State boundaries: <a href="https://www.naturalearthdata.com/">Natural Earth</a> 1:50m admin-1 (public domain), simplified.</li>
+            <li>Campus locations: approximate main-campus coordinates, compiled by the author.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Reading the numbers</h3>
+          <ul>
+            <li>Survey results are from 2025 and enrolment counts from 2024, the latest years available.</li>
+            <li>A "positive rating" is the share of respondents choosing the top answers for a question or group of questions.</li>
+            <li>"Points" means percentage points: 78% is 2 points above 76%.</li>
+            <li>The survey asks a sample of students, so each result has a margin of uncertainty. Small differences between universities may not be real.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Credits</h3>
+          <p>Designed and built by <strong>Huankang Hu</strong> for FIT3179 Data Visualisation, Monash University, October 2026.</p>
+          <p>Charts made with <a href="https://vega.github.io/vega-lite/">Vega-Lite</a>. Each chart's specification is linked under the chart and stored in the <a href="https://github.com/JaxHuInMonash/FIT3179DV2">GitHub repository</a>.</p>
+          <p>Generative AI (Claude, Anthropic) was used to help write chart code, prepare data and edit text. All design decisions and final content were reviewed by the author.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script src="js/main.js"></script>
+</body>
+</html>

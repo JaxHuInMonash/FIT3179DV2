@@ -1,0 +1,366 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Flow map: students whose permanent home is in one state but who are enrolled with an institution registered in another state (2024). Lines run between capital cities as anchors; line width = number of students.",
+  "width": "container",
+  "height": 500,
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
+  "params": [
+    {
+      "name": "chosen",
+      "value": "Victoria",
+      "bind": {
+        "input": "select",
+        "options": [
+          "New South Wales",
+          "Victoria",
+          "Queensland",
+          "Western Australia",
+          "South Australia",
+          "Tasmania",
+          "Northern Territory",
+          "Australian Capital Territory"
+        ],
+        "name": "State: "
+      }
+    },
+    {
+      "name": "direction",
+      "value": "out",
+      "bind": {
+        "input": "radio",
+        "options": [
+          "out",
+          "in"
+        ],
+        "labels": [
+          "Where its residents study",
+          "Where its institutions' students live"
+        ],
+        "name": "Show: "
+      }
+    }
+  ],
+  "projection": {
+    "type": "conicEqualArea",
+    "parallels": [
+      -18,
+      -36
+    ],
+    "rotate": [
+      -132,
+      0
+    ]
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/geo/au_states.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#ffffff",
+        "strokeWidth": 1.2
+      },
+      "encoding": {
+        "fill": {
+          "condition": {
+            "test": "datum.properties.name == chosen",
+            "value": "#cbd9ec"
+          },
+          "value": "#f0eee8"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "data/home_institution_flows.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.status == 'published'"
+        },
+        {
+          "filter": "datum.home_state != datum.institution_state"
+        },
+        {
+          "filter": "direction == 'out' ? datum.home_state == chosen : datum.institution_state == chosen"
+        },
+        {
+          "lookup": "home_state",
+          "from": {
+            "data": {
+              "url": "data/geo/state_anchors.csv"
+            },
+            "key": "state",
+            "fields": [
+              "longitude",
+              "latitude",
+              "code"
+            ]
+          },
+          "as": [
+            "home_lon",
+            "home_lat",
+            "home_code"
+          ]
+        },
+        {
+          "lookup": "institution_state",
+          "from": {
+            "data": {
+              "url": "data/geo/state_anchors.csv"
+            },
+            "key": "state",
+            "fields": [
+              "longitude",
+              "latitude",
+              "code"
+            ]
+          },
+          "as": [
+            "inst_lon",
+            "inst_lat",
+            "inst_code"
+          ]
+        },
+        {
+          "filter": "isValid(datum.home_lon) && isValid(datum.inst_lon)"
+        },
+        {
+          "calculate": "direction == 'out' ? datum.inst_lon : datum.home_lon",
+          "as": "partner_lon"
+        },
+        {
+          "calculate": "direction == 'out' ? datum.inst_lat : datum.home_lat",
+          "as": "partner_lat"
+        },
+        {
+          "calculate": "direction == 'out' ? datum.institution_state : datum.home_state",
+          "as": "partner"
+        },
+        {
+          "calculate": "direction == 'out' ? datum.inst_code : datum.home_code",
+          "as": "partner_code"
+        },
+        {
+          "calculate": "direction == 'out' ? datum.home_lon : datum.inst_lon",
+          "as": "chosen_lon"
+        },
+        {
+          "calculate": "direction == 'out' ? datum.home_lat : datum.inst_lat",
+          "as": "chosen_lat"
+        },
+        {
+          "calculate": "'Home: ' + datum.home_state + '  →  Institution: ' + datum.institution_state",
+          "as": "route"
+        }
+      ],
+      "layer": [
+        {
+          "mark": {
+            "type": "rule",
+            "color": "#1c5cab",
+            "opacity": 0.55,
+            "strokeCap": "round"
+          },
+          "encoding": {
+            "longitude": {
+              "field": "chosen_lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "chosen_lat",
+              "type": "quantitative"
+            },
+            "longitude2": {
+              "field": "partner_lon"
+            },
+            "latitude2": {
+              "field": "partner_lat"
+            },
+            "strokeWidth": {
+              "field": "students",
+              "type": "quantitative",
+              "scale": {
+                "domain": [
+                  0,
+                  25000
+                ],
+                "range": [
+                  0.75,
+                  16
+                ]
+              },
+              "legend": {
+                "title": "Students (2024)",
+                "values": [
+                  1000,
+                  5000,
+                  10000,
+                  20000
+                ],
+                "orient": "bottom-left",
+                "symbolType": "stroke",
+                "symbolStrokeColor": "#1c5cab",
+                "labelExpr": "format(datum.value, ',')"
+              }
+            },
+            "tooltip": [
+              {
+                "field": "route",
+                "title": "Link"
+              },
+              {
+                "field": "students",
+                "title": "Students",
+                "format": ","
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "circle",
+            "color": "#1c5cab",
+            "opacity": 1,
+            "stroke": "#ffffff",
+            "strokeWidth": 1.5
+          },
+          "encoding": {
+            "longitude": {
+              "field": "partner_lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "partner_lat",
+              "type": "quantitative"
+            },
+            "size": {
+              "value": 60
+            },
+            "tooltip": [
+              {
+                "field": "route",
+                "title": "Link"
+              },
+              {
+                "field": "students",
+                "title": "Students",
+                "format": ","
+              }
+            ]
+          }
+        },
+        {
+          "transform": [
+            {
+              "calculate": "datum.partner_code + '  ' + format(datum.students, ',')",
+              "as": "label"
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "dx": 8,
+            "dy": 12,
+            "fontSize": 12,
+            "fontWeight": 600,
+            "fill": "#2b2a27",
+            "stroke": "#ffffff",
+            "strokeWidth": 3.5,
+            "strokeOpacity": 0.9,
+            "strokeJoin": "round"
+          },
+          "encoding": {
+            "longitude": {
+              "field": "partner_lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "partner_lat",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "label"
+            }
+          }
+        },
+        {
+          "transform": [
+            {
+              "calculate": "datum.partner_code + '  ' + format(datum.students, ',')",
+              "as": "label"
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "dx": 8,
+            "dy": 12,
+            "fontSize": 12,
+            "fontWeight": 600,
+            "fill": "#2b2a27"
+          },
+          "encoding": {
+            "longitude": {
+              "field": "partner_lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "partner_lat",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "label"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "data": {
+        "url": "data/geo/state_anchors.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.state == chosen"
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "size": 150,
+        "color": "#0d366b",
+        "stroke": "#ffffff",
+        "strokeWidth": 2,
+        "opacity": 1
+      },
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "state",
+            "title": "Selected state"
+          },
+          {
+            "field": "capital",
+            "title": "Anchored at"
+          }
+        ]
+      }
+    }
+  ]
+}

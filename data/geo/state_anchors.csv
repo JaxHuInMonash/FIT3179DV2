@@ -1,0 +1,9 @@
+state,code,capital,longitude,latitude,label_longitude,label_latitude
+New South Wales,NSW,Sydney,151.2093,-33.8688,146.9,-32.2
+Victoria,VIC,Melbourne,144.9631,-37.8136,144.2,-36.6
+Queensland,QLD,Brisbane,153.0251,-27.4698,144.5,-22.5
+Western Australia,WA,Perth,115.8605,-31.9505,122.0,-26.0
+South Australia,SA,Adelaide,138.6007,-34.9285,135.5,-30.0
+Tasmania,TAS,Hobart,147.3272,-42.8821,146.7,-44.6
+Northern Territory,NT,Darwin,130.8456,-12.4634,133.4,-19.5
+Australian Capital Territory,ACT,Canberra,149.1300,-35.2809,152.4,-36.4
