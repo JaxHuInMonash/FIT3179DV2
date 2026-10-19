@@ -1,0 +1,325 @@
+provider_type,level,year,metric,positive_pct,ci_low,ci_high,status,source_sheet,source_cell
+NUHEIs,Undergraduate,2017,skills,81.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,C5
+NUHEIs,Undergraduate,2018,skills,82.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,D5
+NUHEIs,Undergraduate,2019,skills,81.8,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,E5
+NUHEIs,Undergraduate,2020,skills,79.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,F5
+NUHEIs,Undergraduate,2021,skills,80.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,G5
+NUHEIs,Undergraduate,2022,skills,82.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,H5
+NUHEIs,Undergraduate,2023,skills,83.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,I5
+NUHEIs,Undergraduate,2024,skills,83.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,J5
+NUHEIs,Undergraduate,2025,skills,85.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,K5
+NUHEIs,Undergraduate,2017,peer_engagement,60.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,L5
+NUHEIs,Undergraduate,2018,peer_engagement,61.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,M5
+NUHEIs,Undergraduate,2019,peer_engagement,63.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,N5
+NUHEIs,Undergraduate,2020,peer_engagement,55.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,O5
+NUHEIs,Undergraduate,2021,peer_engagement,57.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,P5
+NUHEIs,Undergraduate,2022,peer_engagement,61.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,Q5
+NUHEIs,Undergraduate,2023,peer_engagement,67.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,R5
+NUHEIs,Undergraduate,2024,peer_engagement,70.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,S5
+NUHEIs,Undergraduate,2025,peer_engagement,73.8,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,T5
+NUHEIs,Undergraduate,2017,teaching,82.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,U5
+NUHEIs,Undergraduate,2018,teaching,83.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,V5
+NUHEIs,Undergraduate,2019,teaching,82.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,W5
+NUHEIs,Undergraduate,2020,teaching,80.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,X5
+NUHEIs,Undergraduate,2021,teaching,81.3,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,Y5
+NUHEIs,Undergraduate,2022,teaching,83.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,Z5
+NUHEIs,Undergraduate,2023,teaching,84.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AA5
+NUHEIs,Undergraduate,2024,teaching,83.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AB5
+NUHEIs,Undergraduate,2025,teaching,85.2,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AC5
+NUHEIs,Undergraduate,2017,support,77.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AD5
+NUHEIs,Undergraduate,2018,support,77.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AE5
+NUHEIs,Undergraduate,2019,support,77.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AF5
+NUHEIs,Undergraduate,2020,support,78.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AG5
+NUHEIs,Undergraduate,2021,support,78.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AH5
+NUHEIs,Undergraduate,2022,support,80.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AI5
+NUHEIs,Undergraduate,2023,support,77.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AJ5
+NUHEIs,Undergraduate,2024,support,76.8,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AK5
+NUHEIs,Undergraduate,2025,support,78.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AL5
+NUHEIs,Undergraduate,2017,resources,73.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AM5
+NUHEIs,Undergraduate,2018,resources,76.2,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AN5
+NUHEIs,Undergraduate,2019,resources,76.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AO5
+NUHEIs,Undergraduate,2020,resources,72.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AP5
+NUHEIs,Undergraduate,2021,resources,73.8,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AQ5
+NUHEIs,Undergraduate,2022,resources,78.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AR5
+NUHEIs,Undergraduate,2023,resources,78.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AS5
+NUHEIs,Undergraduate,2024,resources,76.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AT5
+NUHEIs,Undergraduate,2025,resources,78.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AU5
+NUHEIs,Undergraduate,2017,overall,79.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AV5
+NUHEIs,Undergraduate,2018,overall,79.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AW5
+NUHEIs,Undergraduate,2019,overall,78.8,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AX5
+NUHEIs,Undergraduate,2020,overall,71.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AY5
+NUHEIs,Undergraduate,2021,overall,74.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AZ5
+NUHEIs,Undergraduate,2022,overall,78.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,BA5
+NUHEIs,Undergraduate,2023,overall,78.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,BB5
+NUHEIs,Undergraduate,2024,overall,77.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,BC5
+NUHEIs,Undergraduate,2025,overall,79.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,BD5
+Universities,Undergraduate,2017,skills,80.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,C6
+Universities,Undergraduate,2018,skills,81.2,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,D6
+Universities,Undergraduate,2019,skills,81.3,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,E6
+Universities,Undergraduate,2020,skills,77.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,F6
+Universities,Undergraduate,2021,skills,79.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,G6
+Universities,Undergraduate,2022,skills,80.3,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,H6
+Universities,Undergraduate,2023,skills,80.8,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,I6
+Universities,Undergraduate,2024,skills,80.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,J6
+Universities,Undergraduate,2025,skills,80.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,K6
+Universities,Undergraduate,2017,peer_engagement,59.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,L6
+Universities,Undergraduate,2018,peer_engagement,59.8,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,M6
+Universities,Undergraduate,2019,peer_engagement,59.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,N6
+Universities,Undergraduate,2020,peer_engagement,43.2,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,O6
+Universities,Undergraduate,2021,peer_engagement,47.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,P6
+Universities,Undergraduate,2022,peer_engagement,54.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,Q6
+Universities,Undergraduate,2023,peer_engagement,57.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,R6
+Universities,Undergraduate,2024,peer_engagement,58.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,S6
+Universities,Undergraduate,2025,peer_engagement,59.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,T6
+Universities,Undergraduate,2017,teaching,80.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,U6
+Universities,Undergraduate,2018,teaching,81.3,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,V6
+Universities,Undergraduate,2019,teaching,80.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,W6
+Universities,Undergraduate,2020,teaching,77.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,X6
+Universities,Undergraduate,2021,teaching,79.2,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,Y6
+Universities,Undergraduate,2022,teaching,79.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,Z6
+Universities,Undergraduate,2023,teaching,80.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AA6
+Universities,Undergraduate,2024,teaching,79.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AB6
+Universities,Undergraduate,2025,teaching,80.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AC6
+Universities,Undergraduate,2017,support,72.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AD6
+Universities,Undergraduate,2018,support,73.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AE6
+Universities,Undergraduate,2019,support,73.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AF6
+Universities,Undergraduate,2020,support,73.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AG6
+Universities,Undergraduate,2021,support,71.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AH6
+Universities,Undergraduate,2022,support,72.2,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AI6
+Universities,Undergraduate,2023,support,70.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AJ6
+Universities,Undergraduate,2024,support,70.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AK6
+Universities,Undergraduate,2025,support,70.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AL6
+Universities,Undergraduate,2017,resources,84.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AM6
+Universities,Undergraduate,2018,resources,85.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AN6
+Universities,Undergraduate,2019,resources,84.8,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AO6
+Universities,Undergraduate,2020,resources,76.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AP6
+Universities,Undergraduate,2021,resources,80.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AQ6
+Universities,Undergraduate,2022,resources,84.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AR6
+Universities,Undergraduate,2023,resources,84.3,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AS6
+Universities,Undergraduate,2024,resources,83.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AT6
+Universities,Undergraduate,2025,resources,83.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AU6
+Universities,Undergraduate,2017,overall,78.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AV6
+Universities,Undergraduate,2018,overall,79.2,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AW6
+Universities,Undergraduate,2019,overall,78.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AX6
+Universities,Undergraduate,2020,overall,68.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AY6
+Universities,Undergraduate,2021,overall,73.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AZ6
+Universities,Undergraduate,2022,overall,75.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,BA6
+Universities,Undergraduate,2023,overall,76.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,BB6
+Universities,Undergraduate,2024,overall,76.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,BC6
+Universities,Undergraduate,2025,overall,76.2,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,BD6
+All institutions,Undergraduate,2017,skills,80.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,C7
+All institutions,Undergraduate,2018,skills,81.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,D7
+All institutions,Undergraduate,2019,skills,81.3,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,E7
+All institutions,Undergraduate,2020,skills,78.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,F7
+All institutions,Undergraduate,2021,skills,79.3,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,G7
+All institutions,Undergraduate,2022,skills,80.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,H7
+All institutions,Undergraduate,2023,skills,81.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,I7
+All institutions,Undergraduate,2024,skills,81.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,J7
+All institutions,Undergraduate,2025,skills,81.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,K7
+All institutions,Undergraduate,2017,peer_engagement,59.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,L7
+All institutions,Undergraduate,2018,peer_engagement,59.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,M7
+All institutions,Undergraduate,2019,peer_engagement,60.2,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,N7
+All institutions,Undergraduate,2020,peer_engagement,44.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,O7
+All institutions,Undergraduate,2021,peer_engagement,48.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,P7
+All institutions,Undergraduate,2022,peer_engagement,55.2,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,Q7
+All institutions,Undergraduate,2023,peer_engagement,58.8,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,R7
+All institutions,Undergraduate,2024,peer_engagement,60.2,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,S7
+All institutions,Undergraduate,2025,peer_engagement,61.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,T7
+All institutions,Undergraduate,2017,teaching,80.3,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,U7
+All institutions,Undergraduate,2018,teaching,81.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,V7
+All institutions,Undergraduate,2019,teaching,81.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,W7
+All institutions,Undergraduate,2020,teaching,78.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,X7
+All institutions,Undergraduate,2021,teaching,79.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,Y7
+All institutions,Undergraduate,2022,teaching,80.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,Z7
+All institutions,Undergraduate,2023,teaching,80.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AA7
+All institutions,Undergraduate,2024,teaching,80.3,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AB7
+All institutions,Undergraduate,2025,teaching,80.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AC7
+All institutions,Undergraduate,2017,support,72.8,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AD7
+All institutions,Undergraduate,2018,support,73.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AE7
+All institutions,Undergraduate,2019,support,74.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AF7
+All institutions,Undergraduate,2020,support,73.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AG7
+All institutions,Undergraduate,2021,support,72.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AH7
+All institutions,Undergraduate,2022,support,72.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AI7
+All institutions,Undergraduate,2023,support,71.2,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AJ7
+All institutions,Undergraduate,2024,support,71.2,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AK7
+All institutions,Undergraduate,2025,support,71.3,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AL7
+All institutions,Undergraduate,2017,resources,83.3,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AM7
+All institutions,Undergraduate,2018,resources,84.4,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AN7
+All institutions,Undergraduate,2019,resources,83.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AO7
+All institutions,Undergraduate,2020,resources,76.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AP7
+All institutions,Undergraduate,2021,resources,80.0,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AQ7
+All institutions,Undergraduate,2022,resources,83.6,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AR7
+All institutions,Undergraduate,2023,resources,83.8,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AS7
+All institutions,Undergraduate,2024,resources,82.8,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AT7
+All institutions,Undergraduate,2025,resources,83.3,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AU7
+All institutions,Undergraduate,2017,overall,78.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AV7
+All institutions,Undergraduate,2018,overall,79.3,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AW7
+All institutions,Undergraduate,2019,overall,78.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AX7
+All institutions,Undergraduate,2020,overall,68.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AY7
+All institutions,Undergraduate,2021,overall,73.1,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,AZ7
+All institutions,Undergraduate,2022,overall,75.9,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,BA7
+All institutions,Undergraduate,2023,overall,76.7,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,BB7
+All institutions,Undergraduate,2024,overall,76.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,BC7
+All institutions,Undergraduate,2025,overall,76.5,,,published,FOCUS_UG_ALL_17-YY_HEPTYPE,BD7
+NUHEIs,Postgraduate coursework,2017,skills,80.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,C5
+NUHEIs,Postgraduate coursework,2018,skills,79.9,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,D5
+NUHEIs,Postgraduate coursework,2019,skills,81.3,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,E5
+NUHEIs,Postgraduate coursework,2020,skills,82.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,F5
+NUHEIs,Postgraduate coursework,2021,skills,81.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,G5
+NUHEIs,Postgraduate coursework,2022,skills,82.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,H5
+NUHEIs,Postgraduate coursework,2023,skills,81.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,I5
+NUHEIs,Postgraduate coursework,2024,skills,85.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,J5
+NUHEIs,Postgraduate coursework,2025,skills,86.4,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,K5
+NUHEIs,Postgraduate coursework,2017,peer_engagement,43.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,L5
+NUHEIs,Postgraduate coursework,2018,peer_engagement,48.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,M5
+NUHEIs,Postgraduate coursework,2019,peer_engagement,55.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,N5
+NUHEIs,Postgraduate coursework,2020,peer_engagement,50.4,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,O5
+NUHEIs,Postgraduate coursework,2021,peer_engagement,47.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,P5
+NUHEIs,Postgraduate coursework,2022,peer_engagement,48.4,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,Q5
+NUHEIs,Postgraduate coursework,2023,peer_engagement,54.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,R5
+NUHEIs,Postgraduate coursework,2024,peer_engagement,66.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,S5
+NUHEIs,Postgraduate coursework,2025,peer_engagement,68.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,T5
+NUHEIs,Postgraduate coursework,2017,teaching,80.3,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,U5
+NUHEIs,Postgraduate coursework,2018,teaching,81.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,V5
+NUHEIs,Postgraduate coursework,2019,teaching,81.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,W5
+NUHEIs,Postgraduate coursework,2020,teaching,83.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,X5
+NUHEIs,Postgraduate coursework,2021,teaching,83.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,Y5
+NUHEIs,Postgraduate coursework,2022,teaching,85.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,Z5
+NUHEIs,Postgraduate coursework,2023,teaching,82.4,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AA5
+NUHEIs,Postgraduate coursework,2024,teaching,85.3,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AB5
+NUHEIs,Postgraduate coursework,2025,teaching,85.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AC5
+NUHEIs,Postgraduate coursework,2017,support,76.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AD5
+NUHEIs,Postgraduate coursework,2018,support,76.3,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AE5
+NUHEIs,Postgraduate coursework,2019,support,77.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AF5
+NUHEIs,Postgraduate coursework,2020,support,81.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AG5
+NUHEIs,Postgraduate coursework,2021,support,83.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AH5
+NUHEIs,Postgraduate coursework,2022,support,84.2,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AI5
+NUHEIs,Postgraduate coursework,2023,support,79.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AJ5
+NUHEIs,Postgraduate coursework,2024,support,81.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AK5
+NUHEIs,Postgraduate coursework,2025,support,81.9,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AL5
+NUHEIs,Postgraduate coursework,2017,resources,72.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AM5
+NUHEIs,Postgraduate coursework,2018,resources,71.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AN5
+NUHEIs,Postgraduate coursework,2019,resources,73.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AO5
+NUHEIs,Postgraduate coursework,2020,resources,75.9,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AP5
+NUHEIs,Postgraduate coursework,2021,resources,79.3,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AQ5
+NUHEIs,Postgraduate coursework,2022,resources,82.4,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AR5
+NUHEIs,Postgraduate coursework,2023,resources,80.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AS5
+NUHEIs,Postgraduate coursework,2024,resources,81.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AT5
+NUHEIs,Postgraduate coursework,2025,resources,81.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AU5
+NUHEIs,Postgraduate coursework,2017,overall,78.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AV5
+NUHEIs,Postgraduate coursework,2018,overall,80.3,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AW5
+NUHEIs,Postgraduate coursework,2019,overall,79.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AX5
+NUHEIs,Postgraduate coursework,2020,overall,79.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AY5
+NUHEIs,Postgraduate coursework,2021,overall,81.2,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AZ5
+NUHEIs,Postgraduate coursework,2022,overall,82.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,BA5
+NUHEIs,Postgraduate coursework,2023,overall,79.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,BB5
+NUHEIs,Postgraduate coursework,2024,overall,81.9,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,BC5
+NUHEIs,Postgraduate coursework,2025,overall,82.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,BD5
+Universities,Postgraduate coursework,2017,skills,80.4,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,C6
+Universities,Postgraduate coursework,2018,skills,80.9,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,D6
+Universities,Postgraduate coursework,2019,skills,80.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,E6
+Universities,Postgraduate coursework,2020,skills,77.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,F6
+Universities,Postgraduate coursework,2021,skills,78.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,G6
+Universities,Postgraduate coursework,2022,skills,81.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,H6
+Universities,Postgraduate coursework,2023,skills,82.2,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,I6
+Universities,Postgraduate coursework,2024,skills,82.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,J6
+Universities,Postgraduate coursework,2025,skills,83.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,K6
+Universities,Postgraduate coursework,2017,peer_engagement,52.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,L6
+Universities,Postgraduate coursework,2018,peer_engagement,53.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,M6
+Universities,Postgraduate coursework,2019,peer_engagement,53.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,N6
+Universities,Postgraduate coursework,2020,peer_engagement,41.4,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,O6
+Universities,Postgraduate coursework,2021,peer_engagement,41.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,P6
+Universities,Postgraduate coursework,2022,peer_engagement,48.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,Q6
+Universities,Postgraduate coursework,2023,peer_engagement,56.2,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,R6
+Universities,Postgraduate coursework,2024,peer_engagement,61.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,S6
+Universities,Postgraduate coursework,2025,peer_engagement,60.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,T6
+Universities,Postgraduate coursework,2017,teaching,80.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,U6
+Universities,Postgraduate coursework,2018,teaching,80.9,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,V6
+Universities,Postgraduate coursework,2019,teaching,80.4,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,W6
+Universities,Postgraduate coursework,2020,teaching,77.3,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,X6
+Universities,Postgraduate coursework,2021,teaching,79.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,Y6
+Universities,Postgraduate coursework,2022,teaching,81.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,Z6
+Universities,Postgraduate coursework,2023,teaching,82.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AA6
+Universities,Postgraduate coursework,2024,teaching,82.3,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AB6
+Universities,Postgraduate coursework,2025,teaching,83.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AC6
+Universities,Postgraduate coursework,2017,support,72.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AD6
+Universities,Postgraduate coursework,2018,support,73.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AE6
+Universities,Postgraduate coursework,2019,support,74.2,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AF6
+Universities,Postgraduate coursework,2020,support,72.9,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AG6
+Universities,Postgraduate coursework,2021,support,72.4,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AH6
+Universities,Postgraduate coursework,2022,support,74.2,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AI6
+Universities,Postgraduate coursework,2023,support,74.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AJ6
+Universities,Postgraduate coursework,2024,support,75.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AK6
+Universities,Postgraduate coursework,2025,support,76.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AL6
+Universities,Postgraduate coursework,2017,resources,82.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AM6
+Universities,Postgraduate coursework,2018,resources,84.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AN6
+Universities,Postgraduate coursework,2019,resources,83.9,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AO6
+Universities,Postgraduate coursework,2020,resources,72.2,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AP6
+Universities,Postgraduate coursework,2021,resources,77.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AQ6
+Universities,Postgraduate coursework,2022,resources,83.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AR6
+Universities,Postgraduate coursework,2023,resources,85.3,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AS6
+Universities,Postgraduate coursework,2024,resources,85.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AT6
+Universities,Postgraduate coursework,2025,resources,86.3,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AU6
+Universities,Postgraduate coursework,2017,overall,75.3,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AV6
+Universities,Postgraduate coursework,2018,overall,76.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AW6
+Universities,Postgraduate coursework,2019,overall,75.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AX6
+Universities,Postgraduate coursework,2020,overall,67.2,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AY6
+Universities,Postgraduate coursework,2021,overall,72.2,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AZ6
+Universities,Postgraduate coursework,2022,overall,76.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,BA6
+Universities,Postgraduate coursework,2023,overall,76.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,BB6
+Universities,Postgraduate coursework,2024,overall,75.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,BC6
+Universities,Postgraduate coursework,2025,overall,77.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,BD6
+All institutions,Postgraduate coursework,2017,skills,80.4,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,C7
+All institutions,Postgraduate coursework,2018,skills,80.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,D7
+All institutions,Postgraduate coursework,2019,skills,80.9,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,E7
+All institutions,Postgraduate coursework,2020,skills,78.3,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,F7
+All institutions,Postgraduate coursework,2021,skills,78.9,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,G7
+All institutions,Postgraduate coursework,2022,skills,81.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,H7
+All institutions,Postgraduate coursework,2023,skills,82.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,I7
+All institutions,Postgraduate coursework,2024,skills,83.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,J7
+All institutions,Postgraduate coursework,2025,skills,84.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,K7
+All institutions,Postgraduate coursework,2017,peer_engagement,51.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,L7
+All institutions,Postgraduate coursework,2018,peer_engagement,52.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,M7
+All institutions,Postgraduate coursework,2019,peer_engagement,53.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,N7
+All institutions,Postgraduate coursework,2020,peer_engagement,42.4,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,O7
+All institutions,Postgraduate coursework,2021,peer_engagement,41.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,P7
+All institutions,Postgraduate coursework,2022,peer_engagement,48.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,Q7
+All institutions,Postgraduate coursework,2023,peer_engagement,56.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,R7
+All institutions,Postgraduate coursework,2024,peer_engagement,62.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,S7
+All institutions,Postgraduate coursework,2025,peer_engagement,62.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,T7
+All institutions,Postgraduate coursework,2017,teaching,80.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,U7
+All institutions,Postgraduate coursework,2018,teaching,80.9,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,V7
+All institutions,Postgraduate coursework,2019,teaching,80.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,W7
+All institutions,Postgraduate coursework,2020,teaching,78.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,X7
+All institutions,Postgraduate coursework,2021,teaching,80.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,Y7
+All institutions,Postgraduate coursework,2022,teaching,82.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,Z7
+All institutions,Postgraduate coursework,2023,teaching,82.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AA7
+All institutions,Postgraduate coursework,2024,teaching,82.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AB7
+All institutions,Postgraduate coursework,2025,teaching,83.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AC7
+All institutions,Postgraduate coursework,2017,support,73.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AD7
+All institutions,Postgraduate coursework,2018,support,73.4,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AE7
+All institutions,Postgraduate coursework,2019,support,74.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AF7
+All institutions,Postgraduate coursework,2020,support,74.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AG7
+All institutions,Postgraduate coursework,2021,support,73.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AH7
+All institutions,Postgraduate coursework,2022,support,75.3,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AI7
+All institutions,Postgraduate coursework,2023,support,75.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AJ7
+All institutions,Postgraduate coursework,2024,support,76.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AK7
+All institutions,Postgraduate coursework,2025,support,77.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AL7
+All institutions,Postgraduate coursework,2017,resources,81.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AM7
+All institutions,Postgraduate coursework,2018,resources,82.9,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AN7
+All institutions,Postgraduate coursework,2019,resources,82.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AO7
+All institutions,Postgraduate coursework,2020,resources,72.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AP7
+All institutions,Postgraduate coursework,2021,resources,77.2,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AQ7
+All institutions,Postgraduate coursework,2022,resources,83.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AR7
+All institutions,Postgraduate coursework,2023,resources,84.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AS7
+All institutions,Postgraduate coursework,2024,resources,85.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AT7
+All institutions,Postgraduate coursework,2025,resources,85.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AU7
+All institutions,Postgraduate coursework,2017,overall,75.6,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AV7
+All institutions,Postgraduate coursework,2018,overall,76.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AW7
+All institutions,Postgraduate coursework,2019,overall,76.0,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AX7
+All institutions,Postgraduate coursework,2020,overall,68.5,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AY7
+All institutions,Postgraduate coursework,2021,overall,73.2,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,AZ7
+All institutions,Postgraduate coursework,2022,overall,76.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,BA7
+All institutions,Postgraduate coursework,2023,overall,77.1,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,BB7
+All institutions,Postgraduate coursework,2024,overall,76.7,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,BC7
+All institutions,Postgraduate coursework,2025,overall,77.8,,,published,FOCUS_PGC_ALL_17-YY_HEPTYPE,BD7

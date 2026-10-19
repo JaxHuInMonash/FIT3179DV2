@@ -1,0 +1,44 @@
+institution,institution_state,year,research,research_status,postgraduate_coursework,postgraduate_coursework_status,bachelor,bachelor_status,sub_bachelor,sub_bachelor_status,enabling,enabling_status,non_award,non_award_status,total,total_status,source_sheet,source_row
+Avondale University,New South Wales,2024,28,published,230,published,768,published,38,published,0,published,5,published,1069,published,2.5,4
+Charles Sturt University,New South Wales,2024,528,published,8300,published,21794,published,2826,published,1365,published,190,published,35003,published,2.5,5
+Macquarie University,New South Wales,2024,1741,published,8969,published,32421,published,1047,published,317,published,354,published,44849,published,2.5,6
+Southern Cross University,New South Wales,2024,319,published,6406,published,9939,published,843,published,729,published,112,published,18348,published,2.5,7
+The University of New England,New South Wales,2024,546,published,4992,published,11916,published,1386,published,395,published,120,published,19355,published,2.5,8
+The University of Newcastle,New South Wales,2024,1433,published,7119,published,22881,published,235,published,2836,published,304,published,34808,published,2.5,9
+The University of Sydney,New South Wales,2024,4831,published,30962,published,41660,published,103,published,0,published,1269,published,78825,published,2.5,10
+University of New South Wales,New South Wales,2024,4425,published,35300,published,38978,published,2031,published,267,published,1271,published,82272,published,2.5,11
+University of Technology Sydney,New South Wales,2024,2388,published,13203,published,34190,published,34,published,0,published,442,published,50257,published,2.5,12
+University of Wollongong,New South Wales,2024,1365,published,8344,published,23754,published,658,published,179,published,631,published,34931,published,2.5,13
+Western Sydney University,New South Wales,2024,1338,published,9796,published,34280,published,1852,published,213,published,341,published,47820,published,2.5,14
+Deakin University,Victoria,2024,2265,published,18672,published,37242,published,656,published,0,published,524,published,59359,published,2.5,16
+Federation University Australia,Victoria,2024,296,published,2964,published,8514,published,377,published,309,published,18,published,12478,published,2.5,17
+La Trobe University,Victoria,2024,1398,published,9788,published,24375,published,1425,published,229,published,265,published,37480,published,2.5,18
+Monash University,Victoria,2024,5286,published,28045,published,57106,published,2214,published,22,published,486,published,93159,published,2.5,19
+RMIT University,Victoria,2024,2622,published,15196,published,53912,published,3935,published,9,published,302,published,75976,published,2.5,20
+Swinburne University of Technology,Victoria,2024,1298,published,6884,published,34567,published,2383,published,0,published,222,published,45354,published,2.5,21
+The University of Melbourne,Victoria,2024,5624,published,36420,published,32513,published,157,published,30,published,769,published,75513,published,2.5,22
+University of Divinity,Victoria,2024,74,published,672,published,284,published,171,published,0,published,52,published,1253,published,2.5,23
+Victoria University,Victoria,2024,523,published,10781,published,21461,published,1307,published,186,published,341,published,34599,published,2.5,24
+Bond University,Queensland,2024,290,published,2244,published,2525,published,170,published,40,published,670,published,5939,published,2.5,26
+CQUniversity,Queensland,2024,633,published,6016,published,13006,published,361,published,1474,published,543,published,22033,published,2.5,27
+Griffith University,Queensland,2024,1927,published,10928,published,30328,published,329,published,64,published,938,published,44514,published,2.5,28
+James Cook University,Queensland,2024,815,published,5053,published,11796,published,540,published,901,published,702,published,19807,published,2.5,29
+Queensland University of Technology,Queensland,2024,2294,published,11575,published,36480,published,1431,published,0,published,643,published,52423,published,2.5,30
+The University of Queensland,Queensland,2024,4485,published,17649,published,34152,published,128,published,90,published,626,published,57130,published,2.5,31
+University of Southern Queensland,Queensland,2024,953,published,3506,published,12233,published,1497,published,1827,published,527,published,20543,published,2.5,32
+University of the Sunshine Coast,Queensland,2024,488,published,1140,published,14728,published,433,published,1178,published,883,published,18850,published,2.5,33
+Curtin University,Western Australia,2024,1909,published,10654,published,37371,published,4726,published,1861,published,397,published,56918,published,2.5,35
+Edith Cowan University,Western Australia,2024,862,published,10065,published,18385,published,91,published,1339,published,80,published,30822,published,2.5,36
+Murdoch University,Western Australia,2024,719,published,7795,published,15120,published,311,published,563,published,236,published,24744,published,2.5,37
+The University of Notre Dame Australia,Western Australia,2024,247,published,2872,published,8460,published,65,published,283,published,63,published,11990,published,2.5,38
+The University of Western Australia,Western Australia,2024,1841,published,10691,published,16241,published,349,published,229,published,144,published,29495,published,2.5,39
+Flinders University,South Australia,2024,1071,published,8671,published,13679,published,466,published,584,published,425,published,24896,published,2.5,41
+The University of Adelaide,South Australia,2024,2421,published,8854,published,18602,published,294,published,94,published,239,published,30504,published,2.5,42
+Torrens University Australia,South Australia,2024,178,published,7799,published,11255,published,6200,published,0,published,7,published,25439,published,2.5,43
+University of South Australia,South Australia,2024,1128,published,6253,published,24459,published,1184,published,632,published,231,published,33887,published,2.5,44
+University of Tasmania,Tasmania,2024,1232,published,9991,published,13182,published,6306,published,1099,published,199,published,32009,published,2.5,46
+Batchelor Institute of Indigenous Tertiary Education,Northern Territory,2024,23,published,0,published,0,published,0,published,0,published,0,published,23,published,2.5,47
+Charles Darwin University,Northern Territory,2024,437,published,3712,published,6782,published,660,published,1058,published,23,published,12672,published,2.5,48
+The Australian National University,Australian Capital Territory,2024,2500,published,8778,published,12024,published,398,published,0,published,78,published,23778,published,2.5,49
+University of Canberra,Australian Capital Territory,2024,593,published,5724,published,10512,published,334,published,324,published,189,published,17676,published,2.5,50
+Australian Catholic University,Multi-State,2024,332,published,6733,published,25812,published,550,published,219,published,1391,published,35037,published,2.5,52

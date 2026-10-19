@@ -1,0 +1,1205 @@
+institution,level,year,metric,positive_pct,ci_low,ci_high,status,source_sheet,source_cell
+Australian Catholic University,Undergraduate,2025,skills,84.5,83.9,85.1,published,FOCUS_UG_UNI_17-YY_INST_CI,K5
+Australian Catholic University,Undergraduate,2025,peer_engagement,64.8,64.0,65.5,published,FOCUS_UG_UNI_17-YY_INST_CI,T5
+Australian Catholic University,Undergraduate,2025,teaching,81.4,80.7,81.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AC5
+Australian Catholic University,Undergraduate,2025,support,73.6,72.8,74.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AL5
+Australian Catholic University,Undergraduate,2025,resources,85.7,85.1,86.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AU5
+Australian Catholic University,Undergraduate,2017,overall,80.4,79.8,81.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AV5
+Australian Catholic University,Undergraduate,2018,overall,79.4,78.8,80.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AW5
+Australian Catholic University,Undergraduate,2019,overall,79.4,78.8,80.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AX5
+Australian Catholic University,Undergraduate,2020,overall,71.0,70.3,71.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AY5
+Australian Catholic University,Undergraduate,2021,overall,76.9,76.2,77.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ5
+Australian Catholic University,Undergraduate,2022,overall,76.3,75.7,76.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BA5
+Australian Catholic University,Undergraduate,2023,overall,78.0,77.4,78.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BB5
+Australian Catholic University,Undergraduate,2024,overall,80.5,79.7,81.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BC5
+Australian Catholic University,Undergraduate,2025,overall,80.4,79.8,81.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BD5
+Australian University of Theology,Undergraduate,2025,skills,90.5,86.6,92.9,published,FOCUS_UG_UNI_17-YY_INST_CI,K6
+Australian University of Theology,Undergraduate,2025,peer_engagement,62.0,56.8,66.8,published,FOCUS_UG_UNI_17-YY_INST_CI,T6
+Australian University of Theology,Undergraduate,2025,teaching,98.7,96.3,99.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AC6
+Australian University of Theology,Undergraduate,2025,support,94.9,90.3,97.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AL6
+Australian University of Theology,Undergraduate,2025,resources,94.9,90.9,96.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AU6
+Australian University of Theology,Undergraduate,2017,overall,,,,unavailable,FOCUS_UG_UNI_17-YY_INST_CI,AV6
+Australian University of Theology,Undergraduate,2018,overall,,,,unavailable,FOCUS_UG_UNI_17-YY_INST_CI,AW6
+Australian University of Theology,Undergraduate,2019,overall,,,,unavailable,FOCUS_UG_UNI_17-YY_INST_CI,AX6
+Australian University of Theology,Undergraduate,2020,overall,,,,unavailable,FOCUS_UG_UNI_17-YY_INST_CI,AY6
+Australian University of Theology,Undergraduate,2021,overall,,,,unavailable,FOCUS_UG_UNI_17-YY_INST_CI,AZ6
+Australian University of Theology,Undergraduate,2022,overall,,,,unavailable,FOCUS_UG_UNI_17-YY_INST_CI,BA6
+Australian University of Theology,Undergraduate,2023,overall,,,,unavailable,FOCUS_UG_UNI_17-YY_INST_CI,BB6
+Australian University of Theology,Undergraduate,2024,overall,,,,unavailable,FOCUS_UG_UNI_17-YY_INST_CI,BC6
+Australian University of Theology,Undergraduate,2025,overall,96.0,93.0,97.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BD6
+Avondale University,Undergraduate,2025,skills,89.8,87.1,91.7,published,FOCUS_UG_UNI_17-YY_INST_CI,K7
+Avondale University,Undergraduate,2025,peer_engagement,82.9,79.9,85.3,published,FOCUS_UG_UNI_17-YY_INST_CI,T7
+Avondale University,Undergraduate,2025,teaching,91.2,88.7,92.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AC7
+Avondale University,Undergraduate,2025,support,86.3,83.1,88.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AL7
+Avondale University,Undergraduate,2025,resources,89.4,86.5,91.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AU7
+Avondale University,Undergraduate,2017,overall,,,,unavailable,FOCUS_UG_UNI_17-YY_INST_CI,AV7
+Avondale University,Undergraduate,2018,overall,,,,unavailable,FOCUS_UG_UNI_17-YY_INST_CI,AW7
+Avondale University,Undergraduate,2019,overall,,,,unavailable,FOCUS_UG_UNI_17-YY_INST_CI,AX7
+Avondale University,Undergraduate,2020,overall,,,,unavailable,FOCUS_UG_UNI_17-YY_INST_CI,AY7
+Avondale University,Undergraduate,2021,overall,87.6,84.8,89.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ7
+Avondale University,Undergraduate,2022,overall,88.3,85.2,90.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BA7
+Avondale University,Undergraduate,2023,overall,89.7,86.3,92.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BB7
+Avondale University,Undergraduate,2024,overall,88.8,85.7,91.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BC7
+Avondale University,Undergraduate,2025,overall,91.9,89.4,93.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BD7
+Bond University,Undergraduate,2025,skills,90.6,88.9,91.9,published,FOCUS_UG_UNI_17-YY_INST_CI,K8
+Bond University,Undergraduate,2025,peer_engagement,84.9,83.1,86.5,published,FOCUS_UG_UNI_17-YY_INST_CI,T8
+Bond University,Undergraduate,2025,teaching,89.1,87.4,90.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AC8
+Bond University,Undergraduate,2025,support,84.6,82.4,86.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AL8
+Bond University,Undergraduate,2025,resources,93.5,92.1,94.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AU8
+Bond University,Undergraduate,2017,overall,90.5,88.8,91.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AV8
+Bond University,Undergraduate,2018,overall,88.6,87.3,89.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AW8
+Bond University,Undergraduate,2019,overall,87.2,85.4,88.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AX8
+Bond University,Undergraduate,2020,overall,84.3,82.2,86.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AY8
+Bond University,Undergraduate,2021,overall,86.6,84.6,88.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ8
+Bond University,Undergraduate,2022,overall,86.1,84.2,87.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BA8
+Bond University,Undergraduate,2023,overall,88.3,86.4,89.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BB8
+Bond University,Undergraduate,2024,overall,86.3,84.3,88.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BC8
+Bond University,Undergraduate,2025,overall,87.0,85.3,88.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BD8
+Central Queensland University,Undergraduate,2025,skills,79.4,78.5,80.3,published,FOCUS_UG_UNI_17-YY_INST_CI,K9
+Central Queensland University,Undergraduate,2025,peer_engagement,34.9,33.9,36.0,published,FOCUS_UG_UNI_17-YY_INST_CI,T9
+Central Queensland University,Undergraduate,2025,teaching,78.5,77.6,79.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AC9
+Central Queensland University,Undergraduate,2025,support,74.9,73.6,76.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AL9
+Central Queensland University,Undergraduate,2025,resources,80.2,79.0,81.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AU9
+Central Queensland University,Undergraduate,2017,overall,80.1,78.7,81.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AV9
+Central Queensland University,Undergraduate,2018,overall,79.1,78.1,80.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AW9
+Central Queensland University,Undergraduate,2019,overall,77.5,76.6,78.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AX9
+Central Queensland University,Undergraduate,2020,overall,75.3,74.3,76.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AY9
+Central Queensland University,Undergraduate,2021,overall,78.4,77.5,79.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ9
+Central Queensland University,Undergraduate,2022,overall,78.0,76.9,78.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BA9
+Central Queensland University,Undergraduate,2023,overall,79.9,78.9,80.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BB9
+Central Queensland University,Undergraduate,2024,overall,76.8,75.7,77.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BC9
+Central Queensland University,Undergraduate,2025,overall,78.1,77.2,79.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BD9
+Charles Darwin University,Undergraduate,2025,skills,79.1,77.9,80.3,published,FOCUS_UG_UNI_17-YY_INST_CI,K10
+Charles Darwin University,Undergraduate,2025,peer_engagement,35.8,34.5,37.2,published,FOCUS_UG_UNI_17-YY_INST_CI,T10
+Charles Darwin University,Undergraduate,2025,teaching,77.1,75.8,78.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AC10
+Charles Darwin University,Undergraduate,2025,support,74.5,72.7,76.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AL10
+Charles Darwin University,Undergraduate,2025,resources,83.2,81.7,84.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AU10
+Charles Darwin University,Undergraduate,2017,overall,74.9,72.8,76.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AV10
+Charles Darwin University,Undergraduate,2018,overall,73.9,72.5,75.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AW10
+Charles Darwin University,Undergraduate,2019,overall,75.2,73.7,76.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AX10
+Charles Darwin University,Undergraduate,2020,overall,68.5,66.8,70.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AY10
+Charles Darwin University,Undergraduate,2021,overall,73.0,71.6,74.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ10
+Charles Darwin University,Undergraduate,2022,overall,67.9,66.4,69.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BA10
+Charles Darwin University,Undergraduate,2023,overall,70.2,68.7,71.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BB10
+Charles Darwin University,Undergraduate,2024,overall,75.2,73.6,76.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BC10
+Charles Darwin University,Undergraduate,2025,overall,74.1,72.8,75.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BD10
+Charles Sturt University,Undergraduate,2025,skills,80.2,79.4,81.1,published,FOCUS_UG_UNI_17-YY_INST_CI,K11
+Charles Sturt University,Undergraduate,2025,peer_engagement,38.4,37.4,39.5,published,FOCUS_UG_UNI_17-YY_INST_CI,T11
+Charles Sturt University,Undergraduate,2025,teaching,80.3,79.4,81.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AC11
+Charles Sturt University,Undergraduate,2025,support,74.0,72.7,75.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AL11
+Charles Sturt University,Undergraduate,2025,resources,84.7,83.6,85.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AU11
+Charles Sturt University,Undergraduate,2017,overall,75.9,74.9,76.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AV11
+Charles Sturt University,Undergraduate,2018,overall,78.2,77.4,78.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AW11
+Charles Sturt University,Undergraduate,2019,overall,77.3,76.4,78.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AX11
+Charles Sturt University,Undergraduate,2020,overall,70.6,69.6,71.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AY11
+Charles Sturt University,Undergraduate,2021,overall,73.2,72.2,74.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ11
+Charles Sturt University,Undergraduate,2022,overall,74.8,73.6,75.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BA11
+Charles Sturt University,Undergraduate,2023,overall,77.1,76.2,77.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BB11
+Charles Sturt University,Undergraduate,2024,overall,79.7,78.7,80.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BC11
+Charles Sturt University,Undergraduate,2025,overall,79.8,78.9,80.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BD11
+Curtin University,Undergraduate,2025,skills,79.4,78.7,80.1,published,FOCUS_UG_UNI_17-YY_INST_CI,K12
+Curtin University,Undergraduate,2025,peer_engagement,57.6,56.8,58.5,published,FOCUS_UG_UNI_17-YY_INST_CI,T12
+Curtin University,Undergraduate,2025,teaching,76.6,75.9,77.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AC12
+Curtin University,Undergraduate,2025,support,67.8,66.7,68.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AL12
+Curtin University,Undergraduate,2025,resources,84.1,83.4,84.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AU12
+Curtin University,Undergraduate,2017,overall,80.2,79.5,81.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AV12
+Curtin University,Undergraduate,2018,overall,81.6,81.0,82.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AW12
+Curtin University,Undergraduate,2019,overall,80.0,79.3,80.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AX12
+Curtin University,Undergraduate,2020,overall,71.7,71.0,72.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AY12
+Curtin University,Undergraduate,2021,overall,73.3,72.4,74.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ12
+Curtin University,Undergraduate,2022,overall,75.1,74.2,75.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BA12
+Curtin University,Undergraduate,2023,overall,77.4,76.6,78.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BB12
+Curtin University,Undergraduate,2024,overall,74.1,73.2,75.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BC12
+Curtin University,Undergraduate,2025,overall,73.8,73.1,74.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BD12
+Deakin University,Undergraduate,2025,skills,83.2,82.6,83.7,published,FOCUS_UG_UNI_17-YY_INST_CI,K13
+Deakin University,Undergraduate,2025,peer_engagement,52.9,52.2,53.7,published,FOCUS_UG_UNI_17-YY_INST_CI,T13
+Deakin University,Undergraduate,2025,teaching,82.1,81.6,82.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AC13
+Deakin University,Undergraduate,2025,support,77.2,76.4,77.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AL13
+Deakin University,Undergraduate,2025,resources,90.0,89.5,90.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AU13
+Deakin University,Undergraduate,2017,overall,82.4,81.8,83.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AV13
+Deakin University,Undergraduate,2018,overall,83.2,82.7,83.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AW13
+Deakin University,Undergraduate,2019,overall,83.5,82.9,84.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AX13
+Deakin University,Undergraduate,2020,overall,72.9,72.4,73.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AY13
+Deakin University,Undergraduate,2021,overall,76.5,75.9,77.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ13
+Deakin University,Undergraduate,2022,overall,81.0,80.3,81.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BA13
+Deakin University,Undergraduate,2023,overall,81.1,80.4,81.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BB13
+Deakin University,Undergraduate,2024,overall,80.1,79.4,80.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BC13
+Deakin University,Undergraduate,2025,overall,80.6,80.0,81.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BD13
+Edith Cowan University,Undergraduate,2025,skills,84.8,83.9,85.6,published,FOCUS_UG_UNI_17-YY_INST_CI,K14
+Edith Cowan University,Undergraduate,2025,peer_engagement,59.4,58.3,60.5,published,FOCUS_UG_UNI_17-YY_INST_CI,T14
+Edith Cowan University,Undergraduate,2025,teaching,81.1,80.2,82.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AC14
+Edith Cowan University,Undergraduate,2025,support,77.4,76.2,78.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AL14
+Edith Cowan University,Undergraduate,2025,resources,87.3,86.4,88.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AU14
+Edith Cowan University,Undergraduate,2017,overall,84.9,84.0,85.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AV14
+Edith Cowan University,Undergraduate,2018,overall,83.8,83.0,84.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AW14
+Edith Cowan University,Undergraduate,2019,overall,83.3,82.4,84.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AX14
+Edith Cowan University,Undergraduate,2020,overall,81.5,80.7,82.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AY14
+Edith Cowan University,Undergraduate,2021,overall,83.9,83.0,84.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ14
+Edith Cowan University,Undergraduate,2022,overall,81.8,81.0,82.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BA14
+Edith Cowan University,Undergraduate,2023,overall,81.7,81.0,82.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BB14
+Edith Cowan University,Undergraduate,2024,overall,79.7,78.9,80.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BC14
+Edith Cowan University,Undergraduate,2025,overall,80.0,79.1,80.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BD14
+Federation University Australia,Undergraduate,2025,skills,84.2,83.1,85.3,published,FOCUS_UG_UNI_17-YY_INST_CI,K15
+Federation University Australia,Undergraduate,2025,peer_engagement,56.3,54.9,57.7,published,FOCUS_UG_UNI_17-YY_INST_CI,T15
+Federation University Australia,Undergraduate,2025,teaching,82.9,81.7,83.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AC15
+Federation University Australia,Undergraduate,2025,support,78.8,77.2,80.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AL15
+Federation University Australia,Undergraduate,2025,resources,84.9,83.6,86.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AU15
+Federation University Australia,Undergraduate,2017,overall,79.4,77.9,80.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AV15
+Federation University Australia,Undergraduate,2018,overall,82.3,81.3,83.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AW15
+Federation University Australia,Undergraduate,2019,overall,79.6,78.4,80.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AX15
+Federation University Australia,Undergraduate,2020,overall,69.2,68.0,70.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AY15
+Federation University Australia,Undergraduate,2021,overall,69.5,68.3,70.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ15
+Federation University Australia,Undergraduate,2022,overall,73.8,72.4,75.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BA15
+Federation University Australia,Undergraduate,2023,overall,76.0,74.7,77.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BB15
+Federation University Australia,Undergraduate,2024,overall,78.9,77.2,80.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BC15
+Federation University Australia,Undergraduate,2025,overall,79.8,78.6,80.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BD15
+Flinders University,Undergraduate,2025,skills,84.0,83.0,84.8,published,FOCUS_UG_UNI_17-YY_INST_CI,K16
+Flinders University,Undergraduate,2025,peer_engagement,67.5,66.3,68.5,published,FOCUS_UG_UNI_17-YY_INST_CI,T16
+Flinders University,Undergraduate,2025,teaching,83.3,82.4,84.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AC16
+Flinders University,Undergraduate,2025,support,76.8,75.5,78.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AL16
+Flinders University,Undergraduate,2025,resources,85.2,84.3,86.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AU16
+Flinders University,Undergraduate,2017,overall,80.1,79.2,81.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AV16
+Flinders University,Undergraduate,2018,overall,79.5,78.7,80.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AW16
+Flinders University,Undergraduate,2019,overall,78.1,77.1,79.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AX16
+Flinders University,Undergraduate,2020,overall,70.8,69.7,71.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AY16
+Flinders University,Undergraduate,2021,overall,78.9,77.8,79.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ16
+Flinders University,Undergraduate,2022,overall,75.0,73.8,76.2,published,FOCUS_UG_UNI_17-YY_INST_CI,BA16
+Flinders University,Undergraduate,2023,overall,78.7,77.7,79.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BB16
+Flinders University,Undergraduate,2024,overall,78.6,77.5,79.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BC16
+Flinders University,Undergraduate,2025,overall,78.7,77.7,79.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BD16
+Griffith University,Undergraduate,2025,skills,79.7,79.0,80.4,published,FOCUS_UG_UNI_17-YY_INST_CI,K17
+Griffith University,Undergraduate,2025,peer_engagement,56.4,55.6,57.2,published,FOCUS_UG_UNI_17-YY_INST_CI,T17
+Griffith University,Undergraduate,2025,teaching,77.7,77.0,78.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AC17
+Griffith University,Undergraduate,2025,support,71.0,70.0,71.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AL17
+Griffith University,Undergraduate,2025,resources,82.5,81.8,83.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AU17
+Griffith University,Undergraduate,2017,overall,77.3,76.6,77.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AV17
+Griffith University,Undergraduate,2018,overall,80.6,80.1,81.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AW17
+Griffith University,Undergraduate,2019,overall,82.1,81.4,82.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AX17
+Griffith University,Undergraduate,2020,overall,70.7,69.9,71.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AY17
+Griffith University,Undergraduate,2021,overall,77.2,76.4,77.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ17
+Griffith University,Undergraduate,2022,overall,79.4,78.7,80.2,published,FOCUS_UG_UNI_17-YY_INST_CI,BA17
+Griffith University,Undergraduate,2023,overall,80.2,79.5,80.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BB17
+Griffith University,Undergraduate,2024,overall,77.6,76.8,78.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BC17
+Griffith University,Undergraduate,2025,overall,75.3,74.6,76.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BD17
+James Cook University,Undergraduate,2025,skills,81.6,80.6,82.4,published,FOCUS_UG_UNI_17-YY_INST_CI,K18
+James Cook University,Undergraduate,2025,peer_engagement,61.8,60.8,62.9,published,FOCUS_UG_UNI_17-YY_INST_CI,T18
+James Cook University,Undergraduate,2025,teaching,76.1,75.1,77.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AC18
+James Cook University,Undergraduate,2025,support,69.4,68.1,70.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AL18
+James Cook University,Undergraduate,2025,resources,77.6,76.5,78.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AU18
+James Cook University,Undergraduate,2017,overall,78.2,76.8,79.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AV18
+James Cook University,Undergraduate,2018,overall,77.9,76.9,78.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AW18
+James Cook University,Undergraduate,2019,overall,75.2,74.0,76.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AX18
+James Cook University,Undergraduate,2020,overall,65.6,64.3,66.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AY18
+James Cook University,Undergraduate,2021,overall,71.0,69.6,72.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ18
+James Cook University,Undergraduate,2022,overall,76.7,75.2,78.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BA18
+James Cook University,Undergraduate,2023,overall,74.9,73.6,76.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BB18
+James Cook University,Undergraduate,2024,overall,75.2,73.8,76.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BC18
+James Cook University,Undergraduate,2025,overall,74.3,73.3,75.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BD18
+La Trobe University,Undergraduate,2025,skills,81.5,80.9,82.2,published,FOCUS_UG_UNI_17-YY_INST_CI,K19
+La Trobe University,Undergraduate,2025,peer_engagement,58.9,58.1,59.7,published,FOCUS_UG_UNI_17-YY_INST_CI,T19
+La Trobe University,Undergraduate,2025,teaching,81.7,81.0,82.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AC19
+La Trobe University,Undergraduate,2025,support,71.0,70.0,71.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AL19
+La Trobe University,Undergraduate,2025,resources,83.8,83.2,84.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AU19
+La Trobe University,Undergraduate,2017,overall,75.2,74.4,76.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AV19
+La Trobe University,Undergraduate,2018,overall,78.0,77.5,78.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AW19
+La Trobe University,Undergraduate,2019,overall,75.9,75.1,76.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AX19
+La Trobe University,Undergraduate,2020,overall,66.7,65.8,67.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AY19
+La Trobe University,Undergraduate,2021,overall,70.5,69.7,71.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ19
+La Trobe University,Undergraduate,2022,overall,73.2,72.4,73.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BA19
+La Trobe University,Undergraduate,2023,overall,73.8,73.0,74.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BB19
+La Trobe University,Undergraduate,2024,overall,78.5,77.6,79.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BC19
+La Trobe University,Undergraduate,2025,overall,77.0,76.3,77.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BD19
+Macquarie University,Undergraduate,2025,skills,79.5,78.9,80.1,published,FOCUS_UG_UNI_17-YY_INST_CI,K20
+Macquarie University,Undergraduate,2025,peer_engagement,63.2,62.6,63.9,published,FOCUS_UG_UNI_17-YY_INST_CI,T20
+Macquarie University,Undergraduate,2025,teaching,78.8,78.2,79.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AC20
+Macquarie University,Undergraduate,2025,support,66.7,65.9,67.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AL20
+Macquarie University,Undergraduate,2025,resources,85.3,84.8,85.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AU20
+Macquarie University,Undergraduate,2017,overall,77.1,76.4,77.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AV20
+Macquarie University,Undergraduate,2018,overall,76.8,76.3,77.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AW20
+Macquarie University,Undergraduate,2019,overall,78.4,77.8,78.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AX20
+Macquarie University,Undergraduate,2020,overall,70.4,69.7,71.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AY20
+Macquarie University,Undergraduate,2021,overall,73.2,72.5,73.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ20
+Macquarie University,Undergraduate,2022,overall,75.8,75.1,76.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BA20
+Macquarie University,Undergraduate,2023,overall,76.4,75.7,77.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BB20
+Macquarie University,Undergraduate,2024,overall,75.8,75.2,76.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BC20
+Macquarie University,Undergraduate,2025,overall,73.9,73.3,74.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BD20
+Monash University,Undergraduate,2025,skills,81.2,80.8,81.7,published,FOCUS_UG_UNI_17-YY_INST_CI,K21
+Monash University,Undergraduate,2025,peer_engagement,69.7,69.2,70.2,published,FOCUS_UG_UNI_17-YY_INST_CI,T21
+Monash University,Undergraduate,2025,teaching,80.3,79.8,80.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AC21
+Monash University,Undergraduate,2025,support,67.9,67.3,68.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AL21
+Monash University,Undergraduate,2025,resources,84.9,84.5,85.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AU21
+Monash University,Undergraduate,2017,overall,78.2,77.6,78.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AV21
+Monash University,Undergraduate,2018,overall,78.6,78.1,79.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AW21
+Monash University,Undergraduate,2019,overall,78.6,78.1,79.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AX21
+Monash University,Undergraduate,2020,overall,60.4,59.8,61.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AY21
+Monash University,Undergraduate,2021,overall,70.0,69.4,70.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ21
+Monash University,Undergraduate,2022,overall,72.7,72.1,73.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BA21
+Monash University,Undergraduate,2023,overall,73.1,72.6,73.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BB21
+Monash University,Undergraduate,2024,overall,74.6,74.0,75.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BC21
+Monash University,Undergraduate,2025,overall,74.4,73.9,74.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BD21
+Murdoch University,Undergraduate,2025,skills,83.5,82.4,84.5,published,FOCUS_UG_UNI_17-YY_INST_CI,K22
+Murdoch University,Undergraduate,2025,peer_engagement,64.4,63.0,65.7,published,FOCUS_UG_UNI_17-YY_INST_CI,T22
+Murdoch University,Undergraduate,2025,teaching,83.3,82.2,84.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AC22
+Murdoch University,Undergraduate,2025,support,75.6,74.0,77.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AL22
+Murdoch University,Undergraduate,2025,resources,86.3,85.2,87.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AU22
+Murdoch University,Undergraduate,2017,overall,80.1,78.7,81.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AV22
+Murdoch University,Undergraduate,2018,overall,81.6,80.6,82.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AW22
+Murdoch University,Undergraduate,2019,overall,79.8,78.4,81.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AX22
+Murdoch University,Undergraduate,2020,overall,70.8,69.5,72.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AY22
+Murdoch University,Undergraduate,2021,overall,70.5,69.2,71.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ22
+Murdoch University,Undergraduate,2022,overall,75.1,73.7,76.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BA22
+Murdoch University,Undergraduate,2023,overall,77.4,76.0,78.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BB22
+Murdoch University,Undergraduate,2024,overall,76.9,75.5,78.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BC22
+Murdoch University,Undergraduate,2025,overall,79.8,78.6,80.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BD22
+Queensland University of Technology,Undergraduate,2025,skills,79.7,79.2,80.3,published,FOCUS_UG_UNI_17-YY_INST_CI,K23
+Queensland University of Technology,Undergraduate,2025,peer_engagement,56.8,56.1,57.4,published,FOCUS_UG_UNI_17-YY_INST_CI,T23
+Queensland University of Technology,Undergraduate,2025,teaching,77.4,76.8,78.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AC23
+Queensland University of Technology,Undergraduate,2025,support,69.6,68.8,70.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AL23
+Queensland University of Technology,Undergraduate,2025,resources,85.5,85.0,86.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AU23
+Queensland University of Technology,Undergraduate,2017,overall,81.6,80.8,82.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AV23
+Queensland University of Technology,Undergraduate,2018,overall,82.7,82.2,83.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AW23
+Queensland University of Technology,Undergraduate,2019,overall,81.8,81.2,82.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AX23
+Queensland University of Technology,Undergraduate,2020,overall,65.8,65.2,66.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AY23
+Queensland University of Technology,Undergraduate,2021,overall,70.8,70.2,71.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ23
+Queensland University of Technology,Undergraduate,2022,overall,74.3,73.6,75.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BA23
+Queensland University of Technology,Undergraduate,2023,overall,74.9,74.2,75.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BB23
+Queensland University of Technology,Undergraduate,2024,overall,77.0,76.2,77.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BC23
+Queensland University of Technology,Undergraduate,2025,overall,74.3,73.7,74.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BD23
+RMIT University,Undergraduate,2025,skills,80.4,79.7,81.0,published,FOCUS_UG_UNI_17-YY_INST_CI,K24
+RMIT University,Undergraduate,2025,peer_engagement,66.2,65.5,67.0,published,FOCUS_UG_UNI_17-YY_INST_CI,T24
+RMIT University,Undergraduate,2025,teaching,78.2,77.6,78.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AC24
+RMIT University,Undergraduate,2025,support,68.0,67.1,68.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AL24
+RMIT University,Undergraduate,2025,resources,83.3,82.7,83.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AU24
+RMIT University,Undergraduate,2017,overall,78.5,77.8,79.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AV24
+RMIT University,Undergraduate,2018,overall,79.6,79.1,80.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AW24
+RMIT University,Undergraduate,2019,overall,78.5,77.8,79.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AX24
+RMIT University,Undergraduate,2020,overall,62.1,61.3,62.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AY24
+RMIT University,Undergraduate,2021,overall,66.9,66.0,67.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ24
+RMIT University,Undergraduate,2022,overall,74.3,73.4,75.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BA24
+RMIT University,Undergraduate,2023,overall,73.9,73.0,74.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BB24
+RMIT University,Undergraduate,2024,overall,73.0,72.1,73.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BC24
+RMIT University,Undergraduate,2025,overall,73.3,72.6,74.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BD24
+Southern Cross University,Undergraduate,2025,skills,81.9,80.9,82.9,published,FOCUS_UG_UNI_17-YY_INST_CI,K25
+Southern Cross University,Undergraduate,2025,peer_engagement,43.5,42.2,44.8,published,FOCUS_UG_UNI_17-YY_INST_CI,T25
+Southern Cross University,Undergraduate,2025,teaching,81.1,80.0,82.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AC25
+Southern Cross University,Undergraduate,2025,support,76.7,75.2,78.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AL25
+Southern Cross University,Undergraduate,2025,resources,84.8,83.6,85.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AU25
+Southern Cross University,Undergraduate,2017,overall,79.2,77.5,80.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AV25
+Southern Cross University,Undergraduate,2018,overall,77.3,75.7,78.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AW25
+Southern Cross University,Undergraduate,2019,overall,79.4,78.2,80.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AX25
+Southern Cross University,Undergraduate,2020,overall,70.2,68.8,71.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AY25
+Southern Cross University,Undergraduate,2021,overall,73.7,72.3,75.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ25
+Southern Cross University,Undergraduate,2022,overall,67.1,65.9,68.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BA25
+Southern Cross University,Undergraduate,2023,overall,69.2,67.7,70.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BB25
+Southern Cross University,Undergraduate,2024,overall,72.9,71.2,74.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BC25
+Southern Cross University,Undergraduate,2025,overall,76.4,75.3,77.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BD25
+Swinburne University of Technology,Undergraduate,2025,skills,79.7,78.9,80.4,published,FOCUS_UG_UNI_17-YY_INST_CI,K26
+Swinburne University of Technology,Undergraduate,2025,peer_engagement,50.7,49.8,51.6,published,FOCUS_UG_UNI_17-YY_INST_CI,T26
+Swinburne University of Technology,Undergraduate,2025,teaching,80.8,80.1,81.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AC26
+Swinburne University of Technology,Undergraduate,2025,support,73.9,72.9,75.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AL26
+Swinburne University of Technology,Undergraduate,2025,resources,82.5,81.6,83.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AU26
+Swinburne University of Technology,Undergraduate,2017,overall,81.0,80.2,81.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AV26
+Swinburne University of Technology,Undergraduate,2018,overall,80.4,79.9,81.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AW26
+Swinburne University of Technology,Undergraduate,2019,overall,80.5,79.9,81.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AX26
+Swinburne University of Technology,Undergraduate,2020,overall,72.9,72.1,73.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AY26
+Swinburne University of Technology,Undergraduate,2021,overall,75.0,74.2,75.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ26
+Swinburne University of Technology,Undergraduate,2022,overall,80.2,79.5,80.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BA26
+Swinburne University of Technology,Undergraduate,2023,overall,78.1,77.4,78.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BB26
+Swinburne University of Technology,Undergraduate,2024,overall,76.5,75.7,77.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BC26
+Swinburne University of Technology,Undergraduate,2025,overall,77.3,76.6,78.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BD26
+The Australian National University,Undergraduate,2025,skills,78.8,77.8,79.8,published,FOCUS_UG_UNI_17-YY_INST_CI,K27
+The Australian National University,Undergraduate,2025,peer_engagement,66.3,65.2,67.4,published,FOCUS_UG_UNI_17-YY_INST_CI,T27
+The Australian National University,Undergraduate,2025,teaching,81.1,80.1,82.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AC27
+The Australian National University,Undergraduate,2025,support,54.3,52.6,55.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AL27
+The Australian National University,Undergraduate,2025,resources,78.3,77.1,79.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AU27
+The Australian National University,Undergraduate,2017,overall,79.3,78.3,80.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AV27
+The Australian National University,Undergraduate,2018,overall,79.1,78.1,80.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AW27
+The Australian National University,Undergraduate,2019,overall,79.6,78.6,80.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AX27
+The Australian National University,Undergraduate,2020,overall,67.9,66.8,68.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AY27
+The Australian National University,Undergraduate,2021,overall,72.4,71.2,73.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ27
+The Australian National University,Undergraduate,2022,overall,80.1,78.9,81.2,published,FOCUS_UG_UNI_17-YY_INST_CI,BA27
+The Australian National University,Undergraduate,2023,overall,79.4,78.3,80.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BB27
+The Australian National University,Undergraduate,2024,overall,78.0,76.9,79.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BC27
+The Australian National University,Undergraduate,2025,overall,70.9,69.8,72.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BD27
+The University of Adelaide,Undergraduate,2025,skills,81.8,81.1,82.6,published,FOCUS_UG_UNI_17-YY_INST_CI,K28
+The University of Adelaide,Undergraduate,2025,peer_engagement,66.5,65.5,67.3,published,FOCUS_UG_UNI_17-YY_INST_CI,T28
+The University of Adelaide,Undergraduate,2025,teaching,81.4,80.6,82.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AC28
+The University of Adelaide,Undergraduate,2025,support,70.2,69.0,71.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AL28
+The University of Adelaide,Undergraduate,2025,resources,83.5,82.7,84.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AU28
+The University of Adelaide,Undergraduate,2017,overall,78.0,77.2,78.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AV28
+The University of Adelaide,Undergraduate,2018,overall,79.4,78.7,80.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AW28
+The University of Adelaide,Undergraduate,2019,overall,79.0,78.2,79.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AX28
+The University of Adelaide,Undergraduate,2020,overall,69.7,68.8,70.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AY28
+The University of Adelaide,Undergraduate,2021,overall,74.3,73.4,75.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ28
+The University of Adelaide,Undergraduate,2022,overall,77.6,76.6,78.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BA28
+The University of Adelaide,Undergraduate,2023,overall,78.1,77.1,79.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BB28
+The University of Adelaide,Undergraduate,2024,overall,76.0,75.0,77.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BC28
+The University of Adelaide,Undergraduate,2025,overall,77.9,77.1,78.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BD28
+The University of Melbourne,Undergraduate,2025,skills,77.8,76.8,78.7,published,FOCUS_UG_UNI_17-YY_INST_CI,K29
+The University of Melbourne,Undergraduate,2025,peer_engagement,67.8,66.7,68.8,published,FOCUS_UG_UNI_17-YY_INST_CI,T29
+The University of Melbourne,Undergraduate,2025,teaching,78.9,77.9,79.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AC29
+The University of Melbourne,Undergraduate,2025,support,65.0,63.7,66.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AL29
+The University of Melbourne,Undergraduate,2025,resources,85.0,84.1,85.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AU29
+The University of Melbourne,Undergraduate,2017,overall,77.5,76.5,78.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AV29
+The University of Melbourne,Undergraduate,2018,overall,77.9,77.0,78.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AW29
+The University of Melbourne,Undergraduate,2019,overall,77.6,76.6,78.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AX29
+The University of Melbourne,Undergraduate,2020,overall,52.3,51.2,53.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AY29
+The University of Melbourne,Undergraduate,2021,overall,63.1,62.0,64.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ29
+The University of Melbourne,Undergraduate,2022,overall,71.8,70.7,72.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BA29
+The University of Melbourne,Undergraduate,2023,overall,73.8,72.7,74.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BB29
+The University of Melbourne,Undergraduate,2024,overall,68.1,66.9,69.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BC29
+The University of Melbourne,Undergraduate,2025,overall,72.6,71.6,73.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BD29
+The University of Notre Dame Australia,Undergraduate,2025,skills,84.9,84.1,85.6,published,FOCUS_UG_UNI_17-YY_INST_CI,K30
+The University of Notre Dame Australia,Undergraduate,2025,peer_engagement,70.9,70.0,71.8,published,FOCUS_UG_UNI_17-YY_INST_CI,T30
+The University of Notre Dame Australia,Undergraduate,2025,teaching,76.7,75.8,77.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AC30
+The University of Notre Dame Australia,Undergraduate,2025,support,56.4,55.1,57.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AL30
+The University of Notre Dame Australia,Undergraduate,2025,resources,65.9,64.8,66.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AU30
+The University of Notre Dame Australia,Undergraduate,2017,overall,91.0,90.1,91.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AV30
+The University of Notre Dame Australia,Undergraduate,2018,overall,89.3,88.3,90.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AW30
+The University of Notre Dame Australia,Undergraduate,2019,overall,88.0,87.2,88.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AX30
+The University of Notre Dame Australia,Undergraduate,2020,overall,74.1,72.9,75.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AY30
+The University of Notre Dame Australia,Undergraduate,2021,overall,80.4,79.2,81.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ30
+The University of Notre Dame Australia,Undergraduate,2022,overall,74.1,72.8,75.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BA30
+The University of Notre Dame Australia,Undergraduate,2023,overall,78.0,76.8,79.2,published,FOCUS_UG_UNI_17-YY_INST_CI,BB30
+The University of Notre Dame Australia,Undergraduate,2024,overall,73.1,71.8,74.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BC30
+The University of Notre Dame Australia,Undergraduate,2025,overall,66.9,65.9,67.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BD30
+The University of Queensland,Undergraduate,2025,skills,80.1,79.5,80.6,published,FOCUS_UG_UNI_17-YY_INST_CI,K31
+The University of Queensland,Undergraduate,2025,peer_engagement,61.0,60.4,61.6,published,FOCUS_UG_UNI_17-YY_INST_CI,T31
+The University of Queensland,Undergraduate,2025,teaching,82.6,82.1,83.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AC31
+The University of Queensland,Undergraduate,2025,support,69.5,68.8,70.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AL31
+The University of Queensland,Undergraduate,2025,resources,86.7,86.2,87.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AU31
+The University of Queensland,Undergraduate,2017,overall,80.8,80.2,81.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AV31
+The University of Queensland,Undergraduate,2018,overall,81.1,80.6,81.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AW31
+The University of Queensland,Undergraduate,2019,overall,80.0,79.4,80.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AX31
+The University of Queensland,Undergraduate,2020,overall,66.3,65.6,67.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AY31
+The University of Queensland,Undergraduate,2021,overall,73.9,73.2,74.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ31
+The University of Queensland,Undergraduate,2022,overall,79.1,78.3,79.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BA31
+The University of Queensland,Undergraduate,2023,overall,77.9,77.2,78.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BB31
+The University of Queensland,Undergraduate,2024,overall,78.1,77.3,78.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BC31
+The University of Queensland,Undergraduate,2025,overall,79.6,79.0,80.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BD31
+The University of South Australia,Undergraduate,2025,skills,81.0,80.3,81.7,published,FOCUS_UG_UNI_17-YY_INST_CI,K32
+The University of South Australia,Undergraduate,2025,peer_engagement,52.3,51.5,53.2,published,FOCUS_UG_UNI_17-YY_INST_CI,T32
+The University of South Australia,Undergraduate,2025,teaching,79.3,78.5,80.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AC32
+The University of South Australia,Undergraduate,2025,support,73.1,72.1,74.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AL32
+The University of South Australia,Undergraduate,2025,resources,81.6,80.7,82.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AU32
+The University of South Australia,Undergraduate,2017,overall,78.9,77.8,79.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AV32
+The University of South Australia,Undergraduate,2018,overall,81.5,80.8,82.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AW32
+The University of South Australia,Undergraduate,2019,overall,79.2,78.4,79.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AX32
+The University of South Australia,Undergraduate,2020,overall,73.9,73.1,74.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AY32
+The University of South Australia,Undergraduate,2021,overall,76.8,76.0,77.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ32
+The University of South Australia,Undergraduate,2022,overall,76.8,76.0,77.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BA32
+The University of South Australia,Undergraduate,2023,overall,77.4,76.5,78.2,published,FOCUS_UG_UNI_17-YY_INST_CI,BB32
+The University of South Australia,Undergraduate,2024,overall,78.0,77.1,78.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BC32
+The University of South Australia,Undergraduate,2025,overall,77.6,76.8,78.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BD32
+The University of Sydney,Undergraduate,2025,skills,79.1,78.5,79.7,published,FOCUS_UG_UNI_17-YY_INST_CI,K33
+The University of Sydney,Undergraduate,2025,peer_engagement,68.7,68.0,69.4,published,FOCUS_UG_UNI_17-YY_INST_CI,T33
+The University of Sydney,Undergraduate,2025,teaching,77.0,76.4,77.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AC33
+The University of Sydney,Undergraduate,2025,support,61.1,60.2,62.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AL33
+The University of Sydney,Undergraduate,2025,resources,81.2,80.6,81.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AU33
+The University of Sydney,Undergraduate,2017,overall,74.9,74.1,75.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AV33
+The University of Sydney,Undergraduate,2018,overall,74.3,73.6,75.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AW33
+The University of Sydney,Undergraduate,2019,overall,74.2,73.4,74.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AX33
+The University of Sydney,Undergraduate,2020,overall,63.6,62.8,64.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AY33
+The University of Sydney,Undergraduate,2021,overall,69.7,68.9,70.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ33
+The University of Sydney,Undergraduate,2022,overall,68.8,67.8,69.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BA33
+The University of Sydney,Undergraduate,2023,overall,71.7,70.8,72.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BB33
+The University of Sydney,Undergraduate,2024,overall,71.0,70.3,71.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BC33
+The University of Sydney,Undergraduate,2025,overall,71.5,70.8,72.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BD33
+The University of Western Australia,Undergraduate,2025,skills,76.9,76.1,77.8,published,FOCUS_UG_UNI_17-YY_INST_CI,K34
+The University of Western Australia,Undergraduate,2025,peer_engagement,62.9,62.0,63.8,published,FOCUS_UG_UNI_17-YY_INST_CI,T34
+The University of Western Australia,Undergraduate,2025,teaching,79.4,78.6,80.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AC34
+The University of Western Australia,Undergraduate,2025,support,66.7,65.5,67.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AL34
+The University of Western Australia,Undergraduate,2025,resources,83.9,83.1,84.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AU34
+The University of Western Australia,Undergraduate,2017,overall,78.3,76.6,79.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AV34
+The University of Western Australia,Undergraduate,2018,overall,79.4,78.1,80.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AW34
+The University of Western Australia,Undergraduate,2019,overall,79.7,78.2,81.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AX34
+The University of Western Australia,Undergraduate,2020,overall,68.4,66.8,69.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AY34
+The University of Western Australia,Undergraduate,2021,overall,72.9,71.7,74.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ34
+The University of Western Australia,Undergraduate,2022,overall,77.8,76.9,78.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BA34
+The University of Western Australia,Undergraduate,2023,overall,75.4,74.6,76.2,published,FOCUS_UG_UNI_17-YY_INST_CI,BB34
+The University of Western Australia,Undergraduate,2024,overall,75.6,74.7,76.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BC34
+The University of Western Australia,Undergraduate,2025,overall,74.8,74.0,75.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BD34
+Torrens University,Undergraduate,2025,skills,81.2,80.3,82.1,published,FOCUS_UG_UNI_17-YY_INST_CI,K35
+Torrens University,Undergraduate,2025,peer_engagement,42.1,40.9,43.2,published,FOCUS_UG_UNI_17-YY_INST_CI,T35
+Torrens University,Undergraduate,2025,teaching,83.7,82.8,84.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AC35
+Torrens University,Undergraduate,2025,support,76.0,74.7,77.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AL35
+Torrens University,Undergraduate,2025,resources,77.9,76.6,79.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AU35
+Torrens University,Undergraduate,2017,overall,77.6,75.4,79.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AV35
+Torrens University,Undergraduate,2018,overall,77.6,76.2,79.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AW35
+Torrens University,Undergraduate,2019,overall,80.4,78.7,81.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AX35
+Torrens University,Undergraduate,2020,overall,74.2,73.2,75.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AY35
+Torrens University,Undergraduate,2021,overall,75.6,74.5,76.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ35
+Torrens University,Undergraduate,2022,overall,80.4,79.2,81.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BA35
+Torrens University,Undergraduate,2023,overall,79.4,78.1,80.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BB35
+Torrens University,Undergraduate,2024,overall,76.8,75.6,77.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BC35
+Torrens University,Undergraduate,2025,overall,77.9,76.9,78.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BD35
+University of Canberra,Undergraduate,2025,skills,81.8,80.8,82.7,published,FOCUS_UG_UNI_17-YY_INST_CI,K36
+University of Canberra,Undergraduate,2025,peer_engagement,61.8,60.6,62.9,published,FOCUS_UG_UNI_17-YY_INST_CI,T36
+University of Canberra,Undergraduate,2025,teaching,80.1,79.1,81.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AC36
+University of Canberra,Undergraduate,2025,support,72.5,71.2,73.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AL36
+University of Canberra,Undergraduate,2025,resources,82.3,81.3,83.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AU36
+University of Canberra,Undergraduate,2017,overall,79.2,78.0,80.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AV36
+University of Canberra,Undergraduate,2018,overall,77.4,76.4,78.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AW36
+University of Canberra,Undergraduate,2019,overall,78.3,77.3,79.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AX36
+University of Canberra,Undergraduate,2020,overall,69.0,67.8,70.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AY36
+University of Canberra,Undergraduate,2021,overall,75.0,73.9,76.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ36
+University of Canberra,Undergraduate,2022,overall,74.5,73.3,75.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BA36
+University of Canberra,Undergraduate,2023,overall,72.7,71.4,73.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BB36
+University of Canberra,Undergraduate,2024,overall,75.2,73.9,76.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BC36
+University of Canberra,Undergraduate,2025,overall,76.6,75.6,77.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BD36
+University of Divinity,Undergraduate,2025,skills,87.1,80.7,90.9,published,FOCUS_UG_UNI_17-YY_INST_CI,K37
+University of Divinity,Undergraduate,2025,peer_engagement,57.7,50.3,64.6,published,FOCUS_UG_UNI_17-YY_INST_CI,T37
+University of Divinity,Undergraduate,2025,teaching,94.4,89.0,96.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AC37
+University of Divinity,Undergraduate,2025,support,95.6,87.8,98.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AL37
+University of Divinity,Undergraduate,2025,resources,92.5,85.0,95.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AU37
+University of Divinity,Undergraduate,2017,overall,91.1,86.5,93.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AV37
+University of Divinity,Undergraduate,2018,overall,91.5,87.9,93.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AW37
+University of Divinity,Undergraduate,2019,overall,92.8,88.8,94.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AX37
+University of Divinity,Undergraduate,2020,overall,82.6,78.7,85.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AY37
+University of Divinity,Undergraduate,2021,overall,71.7,65.6,76.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ37
+University of Divinity,Undergraduate,2022,overall,91.0,86.2,93.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BA37
+University of Divinity,Undergraduate,2023,overall,89.8,85.5,92.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BB37
+University of Divinity,Undergraduate,2024,overall,92.0,86.3,94.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BC37
+University of Divinity,Undergraduate,2025,overall,94.4,89.2,96.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BD37
+University of New England,Undergraduate,2025,skills,79.0,77.9,80.0,published,FOCUS_UG_UNI_17-YY_INST_CI,K38
+University of New England,Undergraduate,2025,peer_engagement,28.2,27.1,29.4,published,FOCUS_UG_UNI_17-YY_INST_CI,T38
+University of New England,Undergraduate,2025,teaching,84.6,83.6,85.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AC38
+University of New England,Undergraduate,2025,support,76.7,75.2,78.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AL38
+University of New England,Undergraduate,2025,resources,87.4,86.0,88.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AU38
+University of New England,Undergraduate,2017,overall,80.8,79.6,81.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AV38
+University of New England,Undergraduate,2018,overall,84.1,83.1,84.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AW38
+University of New England,Undergraduate,2019,overall,83.2,82.1,84.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AX38
+University of New England,Undergraduate,2020,overall,80.6,79.4,81.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AY38
+University of New England,Undergraduate,2021,overall,79.5,78.4,80.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ38
+University of New England,Undergraduate,2022,overall,80.7,79.5,81.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BA38
+University of New England,Undergraduate,2023,overall,81.4,79.9,82.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BB38
+University of New England,Undergraduate,2024,overall,79.5,78.3,80.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BC38
+University of New England,Undergraduate,2025,overall,83.1,82.2,84.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BD38
+University of New South Wales,Undergraduate,2025,skills,78.2,77.6,78.8,published,FOCUS_UG_UNI_17-YY_INST_CI,K39
+University of New South Wales,Undergraduate,2025,peer_engagement,66.3,65.6,67.0,published,FOCUS_UG_UNI_17-YY_INST_CI,T39
+University of New South Wales,Undergraduate,2025,teaching,79.4,78.8,80.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AC39
+University of New South Wales,Undergraduate,2025,support,70.3,69.4,71.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AL39
+University of New South Wales,Undergraduate,2025,resources,83.5,82.9,84.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AU39
+University of New South Wales,Undergraduate,2017,overall,73.7,73.0,74.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AV39
+University of New South Wales,Undergraduate,2018,overall,74.4,73.9,75.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AW39
+University of New South Wales,Undergraduate,2019,overall,62.9,62.2,63.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AX39
+University of New South Wales,Undergraduate,2020,overall,59.7,59.0,60.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AY39
+University of New South Wales,Undergraduate,2021,overall,66.9,66.2,67.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ39
+University of New South Wales,Undergraduate,2022,overall,69.9,69.3,70.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BA39
+University of New South Wales,Undergraduate,2023,overall,71.7,71.0,72.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BB39
+University of New South Wales,Undergraduate,2024,overall,72.9,72.2,73.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BC39
+University of New South Wales,Undergraduate,2025,overall,74.1,73.4,74.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BD39
+University of Newcastle,Undergraduate,2025,skills,81.0,80.2,81.7,published,FOCUS_UG_UNI_17-YY_INST_CI,K40
+University of Newcastle,Undergraduate,2025,peer_engagement,56.6,55.7,57.6,published,FOCUS_UG_UNI_17-YY_INST_CI,T40
+University of Newcastle,Undergraduate,2025,teaching,79.7,78.9,80.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AC40
+University of Newcastle,Undergraduate,2025,support,70.4,69.2,71.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AL40
+University of Newcastle,Undergraduate,2025,resources,84.4,83.6,85.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AU40
+University of Newcastle,Undergraduate,2017,overall,77.4,76.4,78.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AV40
+University of Newcastle,Undergraduate,2018,overall,79.0,78.3,79.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AW40
+University of Newcastle,Undergraduate,2019,overall,79.2,78.5,79.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AX40
+University of Newcastle,Undergraduate,2020,overall,66.4,64.9,67.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AY40
+University of Newcastle,Undergraduate,2021,overall,72.6,71.8,73.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ40
+University of Newcastle,Undergraduate,2022,overall,76.1,75.1,77.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BA40
+University of Newcastle,Undergraduate,2023,overall,78.1,77.1,79.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BB40
+University of Newcastle,Undergraduate,2024,overall,78.3,77.4,79.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BC40
+University of Newcastle,Undergraduate,2025,overall,77.6,76.8,78.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BD40
+University of Southern Queensland,Undergraduate,2025,skills,76.2,75.2,77.2,published,FOCUS_UG_UNI_17-YY_INST_CI,K41
+University of Southern Queensland,Undergraduate,2025,peer_engagement,30.9,29.9,32.0,published,FOCUS_UG_UNI_17-YY_INST_CI,T41
+University of Southern Queensland,Undergraduate,2025,teaching,73.5,72.4,74.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AC41
+University of Southern Queensland,Undergraduate,2025,support,69.4,68.0,70.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AL41
+University of Southern Queensland,Undergraduate,2025,resources,82.5,81.4,83.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AU41
+University of Southern Queensland,Undergraduate,2017,overall,73.6,72.5,74.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AV41
+University of Southern Queensland,Undergraduate,2018,overall,76.7,75.8,77.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AW41
+University of Southern Queensland,Undergraduate,2019,overall,75.7,74.7,76.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AX41
+University of Southern Queensland,Undergraduate,2020,overall,74.6,73.7,75.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AY41
+University of Southern Queensland,Undergraduate,2021,overall,76.0,74.9,77.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ41
+University of Southern Queensland,Undergraduate,2022,overall,75.3,74.1,76.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BA41
+University of Southern Queensland,Undergraduate,2023,overall,77.4,76.2,78.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BB41
+University of Southern Queensland,Undergraduate,2024,overall,72.3,70.8,73.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BC41
+University of Southern Queensland,Undergraduate,2025,overall,71.0,70.0,72.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BD41
+University of Tasmania,Undergraduate,2025,skills,80.3,79.6,81.1,published,FOCUS_UG_UNI_17-YY_INST_CI,K42
+University of Tasmania,Undergraduate,2025,peer_engagement,43.6,42.7,44.5,published,FOCUS_UG_UNI_17-YY_INST_CI,T42
+University of Tasmania,Undergraduate,2025,teaching,83.3,82.6,84.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AC42
+University of Tasmania,Undergraduate,2025,support,69.0,67.7,70.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AL42
+University of Tasmania,Undergraduate,2025,resources,77.7,76.6,78.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AU42
+University of Tasmania,Undergraduate,2017,overall,76.1,75.2,76.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AV42
+University of Tasmania,Undergraduate,2018,overall,78.2,77.5,78.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AW42
+University of Tasmania,Undergraduate,2019,overall,77.5,76.7,78.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AX42
+University of Tasmania,Undergraduate,2020,overall,71.8,71.0,72.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AY42
+University of Tasmania,Undergraduate,2021,overall,75.0,74.3,75.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ42
+University of Tasmania,Undergraduate,2022,overall,75.8,75.0,76.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BA42
+University of Tasmania,Undergraduate,2023,overall,76.6,75.7,77.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BB42
+University of Tasmania,Undergraduate,2024,overall,76.8,75.9,77.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BC42
+University of Tasmania,Undergraduate,2025,overall,78.9,78.1,79.6,published,FOCUS_UG_UNI_17-YY_INST_CI,BD42
+University of Technology Sydney,Undergraduate,2025,skills,81.1,80.5,81.7,published,FOCUS_UG_UNI_17-YY_INST_CI,K43
+University of Technology Sydney,Undergraduate,2025,peer_engagement,70.3,69.6,71.0,published,FOCUS_UG_UNI_17-YY_INST_CI,T43
+University of Technology Sydney,Undergraduate,2025,teaching,79.8,79.2,80.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AC43
+University of Technology Sydney,Undergraduate,2025,support,70.3,69.4,71.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AL43
+University of Technology Sydney,Undergraduate,2025,resources,85.9,85.3,86.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AU43
+University of Technology Sydney,Undergraduate,2017,overall,75.5,74.2,76.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AV43
+University of Technology Sydney,Undergraduate,2018,overall,78.1,77.2,78.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AW43
+University of Technology Sydney,Undergraduate,2019,overall,77.4,76.8,78.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AX43
+University of Technology Sydney,Undergraduate,2020,overall,65.7,64.8,66.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AY43
+University of Technology Sydney,Undergraduate,2021,overall,69.4,68.7,70.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ43
+University of Technology Sydney,Undergraduate,2022,overall,75.2,74.4,76.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BA43
+University of Technology Sydney,Undergraduate,2023,overall,76.9,76.1,77.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BB43
+University of Technology Sydney,Undergraduate,2024,overall,76.6,75.8,77.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BC43
+University of Technology Sydney,Undergraduate,2025,overall,76.1,75.5,76.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BD43
+University of Wollongong,Undergraduate,2025,skills,83.2,82.3,84.1,published,FOCUS_UG_UNI_17-YY_INST_CI,K44
+University of Wollongong,Undergraduate,2025,peer_engagement,68.5,67.4,69.6,published,FOCUS_UG_UNI_17-YY_INST_CI,T44
+University of Wollongong,Undergraduate,2025,teaching,81.4,80.5,82.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AC44
+University of Wollongong,Undergraduate,2025,support,74.4,73.0,75.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AL44
+University of Wollongong,Undergraduate,2025,resources,85.5,84.6,86.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AU44
+University of Wollongong,Undergraduate,2017,overall,77.8,76.7,79.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AV44
+University of Wollongong,Undergraduate,2018,overall,81.6,80.8,82.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AW44
+University of Wollongong,Undergraduate,2019,overall,81.0,80.2,81.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AX44
+University of Wollongong,Undergraduate,2020,overall,66.7,65.8,67.6,published,FOCUS_UG_UNI_17-YY_INST_CI,AY44
+University of Wollongong,Undergraduate,2021,overall,70.1,69.1,71.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ44
+University of Wollongong,Undergraduate,2022,overall,78.2,77.1,79.2,published,FOCUS_UG_UNI_17-YY_INST_CI,BA44
+University of Wollongong,Undergraduate,2023,overall,80.4,79.4,81.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BB44
+University of Wollongong,Undergraduate,2024,overall,80.9,79.9,81.8,published,FOCUS_UG_UNI_17-YY_INST_CI,BC44
+University of Wollongong,Undergraduate,2025,overall,76.2,75.1,77.2,published,FOCUS_UG_UNI_17-YY_INST_CI,BD44
+University of the Sunshine Coast,Undergraduate,2025,skills,83.7,82.8,84.5,published,FOCUS_UG_UNI_17-YY_INST_CI,K45
+University of the Sunshine Coast,Undergraduate,2025,peer_engagement,60.0,58.8,61.0,published,FOCUS_UG_UNI_17-YY_INST_CI,T45
+University of the Sunshine Coast,Undergraduate,2025,teaching,83.2,82.4,84.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AC45
+University of the Sunshine Coast,Undergraduate,2025,support,78.2,76.9,79.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AL45
+University of the Sunshine Coast,Undergraduate,2025,resources,88.3,87.5,89.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AU45
+University of the Sunshine Coast,Undergraduate,2017,overall,83.0,81.9,84.0,published,FOCUS_UG_UNI_17-YY_INST_CI,AV45
+University of the Sunshine Coast,Undergraduate,2018,overall,80.5,79.7,81.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AW45
+University of the Sunshine Coast,Undergraduate,2019,overall,81.5,80.6,82.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AX45
+University of the Sunshine Coast,Undergraduate,2020,overall,73.0,72.0,73.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AY45
+University of the Sunshine Coast,Undergraduate,2021,overall,81.5,80.7,82.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ45
+University of the Sunshine Coast,Undergraduate,2022,overall,79.5,78.6,80.5,published,FOCUS_UG_UNI_17-YY_INST_CI,BA45
+University of the Sunshine Coast,Undergraduate,2023,overall,81.4,80.4,82.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BB45
+University of the Sunshine Coast,Undergraduate,2024,overall,80.0,78.9,81.1,published,FOCUS_UG_UNI_17-YY_INST_CI,BC45
+University of the Sunshine Coast,Undergraduate,2025,overall,81.6,80.7,82.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BD45
+Victoria University,Undergraduate,2025,skills,85.4,84.6,86.1,published,FOCUS_UG_UNI_17-YY_INST_CI,K46
+Victoria University,Undergraduate,2025,peer_engagement,77.2,76.3,78.0,published,FOCUS_UG_UNI_17-YY_INST_CI,T46
+Victoria University,Undergraduate,2025,teaching,81.4,80.6,82.2,published,FOCUS_UG_UNI_17-YY_INST_CI,AC46
+Victoria University,Undergraduate,2025,support,73.2,72.1,74.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AL46
+Victoria University,Undergraduate,2025,resources,80.9,80.0,81.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AU46
+Victoria University,Undergraduate,2017,overall,72.6,71.4,73.7,published,FOCUS_UG_UNI_17-YY_INST_CI,AV46
+Victoria University,Undergraduate,2018,overall,72.0,71.0,72.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AW46
+Victoria University,Undergraduate,2019,overall,75.4,74.4,76.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AX46
+Victoria University,Undergraduate,2020,overall,69.5,68.6,70.4,published,FOCUS_UG_UNI_17-YY_INST_CI,AY46
+Victoria University,Undergraduate,2021,overall,71.1,70.2,72.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ46
+Victoria University,Undergraduate,2022,overall,75.3,74.1,76.4,published,FOCUS_UG_UNI_17-YY_INST_CI,BA46
+Victoria University,Undergraduate,2023,overall,81.2,80.1,82.2,published,FOCUS_UG_UNI_17-YY_INST_CI,BB46
+Victoria University,Undergraduate,2024,overall,79.1,78.1,80.0,published,FOCUS_UG_UNI_17-YY_INST_CI,BC46
+Victoria University,Undergraduate,2025,overall,77.9,77.1,78.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BD46
+Western Sydney University,Undergraduate,2025,skills,81.3,80.6,82.0,published,FOCUS_UG_UNI_17-YY_INST_CI,K47
+Western Sydney University,Undergraduate,2025,peer_engagement,64.9,64.1,65.7,published,FOCUS_UG_UNI_17-YY_INST_CI,T47
+Western Sydney University,Undergraduate,2025,teaching,78.2,77.5,78.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AC47
+Western Sydney University,Undergraduate,2025,support,69.6,68.7,70.5,published,FOCUS_UG_UNI_17-YY_INST_CI,AL47
+Western Sydney University,Undergraduate,2025,resources,83.7,83.0,84.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AU47
+Western Sydney University,Undergraduate,2017,overall,78.0,77.1,78.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AV47
+Western Sydney University,Undergraduate,2018,overall,77.6,77.0,78.3,published,FOCUS_UG_UNI_17-YY_INST_CI,AW47
+Western Sydney University,Undergraduate,2019,overall,76.2,75.5,76.8,published,FOCUS_UG_UNI_17-YY_INST_CI,AX47
+Western Sydney University,Undergraduate,2020,overall,67.1,66.3,67.9,published,FOCUS_UG_UNI_17-YY_INST_CI,AY47
+Western Sydney University,Undergraduate,2021,overall,69.4,68.7,70.1,published,FOCUS_UG_UNI_17-YY_INST_CI,AZ47
+Western Sydney University,Undergraduate,2022,overall,76.1,75.3,76.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BA47
+Western Sydney University,Undergraduate,2023,overall,73.7,72.6,74.7,published,FOCUS_UG_UNI_17-YY_INST_CI,BB47
+Western Sydney University,Undergraduate,2024,overall,75.4,74.6,76.3,published,FOCUS_UG_UNI_17-YY_INST_CI,BC47
+Western Sydney University,Undergraduate,2025,overall,74.1,73.4,74.9,published,FOCUS_UG_UNI_17-YY_INST_CI,BD47
+Australian Catholic University,Postgraduate coursework,2025,skills,80.4,79.1,81.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,K5
+Australian Catholic University,Postgraduate coursework,2025,peer_engagement,40.9,39.4,42.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,T5
+Australian Catholic University,Postgraduate coursework,2025,teaching,82.8,81.6,83.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC5
+Australian Catholic University,Postgraduate coursework,2025,support,75.5,73.5,77.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL5
+Australian Catholic University,Postgraduate coursework,2025,resources,84.6,82.7,86.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU5
+Australian Catholic University,Postgraduate coursework,2017,overall,72.8,71.1,74.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV5
+Australian Catholic University,Postgraduate coursework,2018,overall,70.4,69.0,71.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW5
+Australian Catholic University,Postgraduate coursework,2019,overall,66.6,64.9,68.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX5
+Australian Catholic University,Postgraduate coursework,2020,overall,68.9,67.1,70.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY5
+Australian Catholic University,Postgraduate coursework,2021,overall,73.7,72.4,75.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ5
+Australian Catholic University,Postgraduate coursework,2022,overall,70.5,68.9,72.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA5
+Australian Catholic University,Postgraduate coursework,2023,overall,74.7,73.0,76.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB5
+Australian Catholic University,Postgraduate coursework,2024,overall,75.4,73.5,77.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC5
+Australian Catholic University,Postgraduate coursework,2025,overall,77.2,75.9,78.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD5
+Australian University of Theology,Postgraduate coursework,2025,skills,91.4,88.6,93.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,K6
+Australian University of Theology,Postgraduate coursework,2025,peer_engagement,57.5,53.4,61.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,T6
+Australian University of Theology,Postgraduate coursework,2025,teaching,96.8,94.7,97.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC6
+Australian University of Theology,Postgraduate coursework,2025,support,86.6,81.1,90.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL6
+Australian University of Theology,Postgraduate coursework,2025,resources,97.8,95.5,98.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU6
+Australian University of Theology,Postgraduate coursework,2017,overall,,,,unavailable,FOCUS_PGC_UNI_17-YY_INST_CI,AV6
+Australian University of Theology,Postgraduate coursework,2018,overall,,,,unavailable,FOCUS_PGC_UNI_17-YY_INST_CI,AW6
+Australian University of Theology,Postgraduate coursework,2019,overall,,,,unavailable,FOCUS_PGC_UNI_17-YY_INST_CI,AX6
+Australian University of Theology,Postgraduate coursework,2020,overall,,,,unavailable,FOCUS_PGC_UNI_17-YY_INST_CI,AY6
+Australian University of Theology,Postgraduate coursework,2021,overall,,,,unavailable,FOCUS_PGC_UNI_17-YY_INST_CI,AZ6
+Australian University of Theology,Postgraduate coursework,2022,overall,,,,unavailable,FOCUS_PGC_UNI_17-YY_INST_CI,BA6
+Australian University of Theology,Postgraduate coursework,2023,overall,,,,unavailable,FOCUS_PGC_UNI_17-YY_INST_CI,BB6
+Australian University of Theology,Postgraduate coursework,2024,overall,,,,unavailable,FOCUS_PGC_UNI_17-YY_INST_CI,BC6
+Australian University of Theology,Postgraduate coursework,2025,overall,96.0,93.8,97.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD6
+Avondale University,Postgraduate coursework,2025,skills,88.5,81.8,91.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,K7
+Avondale University,Postgraduate coursework,2025,peer_engagement,39.6,33.4,46.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,T7
+Avondale University,Postgraduate coursework,2025,teaching,98.0,92.7,98.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC7
+Avondale University,Postgraduate coursework,2025,support,83.8,73.8,89.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL7
+Avondale University,Postgraduate coursework,2025,resources,93.5,83.3,96.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU7
+Avondale University,Postgraduate coursework,2017,overall,,,,unavailable,FOCUS_PGC_UNI_17-YY_INST_CI,AV7
+Avondale University,Postgraduate coursework,2018,overall,,,,unavailable,FOCUS_PGC_UNI_17-YY_INST_CI,AW7
+Avondale University,Postgraduate coursework,2019,overall,,,,unavailable,FOCUS_PGC_UNI_17-YY_INST_CI,AX7
+Avondale University,Postgraduate coursework,2020,overall,,,,unavailable,FOCUS_PGC_UNI_17-YY_INST_CI,AY7
+Avondale University,Postgraduate coursework,2021,overall,77.0,70.1,81.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ7
+Avondale University,Postgraduate coursework,2022,overall,80.0,68.1,86.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA7
+Avondale University,Postgraduate coursework,2023,overall,80.0,73.0,84.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB7
+Avondale University,Postgraduate coursework,2024,overall,88.9,80.0,92.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC7
+Avondale University,Postgraduate coursework,2025,overall,84.9,78.1,88.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD7
+Bond University,Postgraduate coursework,2025,skills,86.2,84.0,88.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,K8
+Bond University,Postgraduate coursework,2025,peer_engagement,79.6,77.1,81.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,T8
+Bond University,Postgraduate coursework,2025,teaching,82.8,80.5,84.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC8
+Bond University,Postgraduate coursework,2025,support,75.9,72.7,78.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL8
+Bond University,Postgraduate coursework,2025,resources,86.9,84.7,88.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU8
+Bond University,Postgraduate coursework,2017,overall,83.3,79.6,86.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV8
+Bond University,Postgraduate coursework,2018,overall,77.7,75.8,79.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW8
+Bond University,Postgraduate coursework,2019,overall,85.2,82.8,87.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX8
+Bond University,Postgraduate coursework,2020,overall,81.4,79.0,83.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY8
+Bond University,Postgraduate coursework,2021,overall,79.5,76.5,82.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ8
+Bond University,Postgraduate coursework,2022,overall,81.5,79.1,83.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA8
+Bond University,Postgraduate coursework,2023,overall,82.7,80.1,84.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB8
+Bond University,Postgraduate coursework,2024,overall,81.0,78.3,83.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC8
+Bond University,Postgraduate coursework,2025,overall,77.6,75.0,79.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD8
+Central Queensland University,Postgraduate coursework,2025,skills,85.5,84.3,86.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,K9
+Central Queensland University,Postgraduate coursework,2025,peer_engagement,65.2,63.7,66.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,T9
+Central Queensland University,Postgraduate coursework,2025,teaching,85.2,84.0,86.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC9
+Central Queensland University,Postgraduate coursework,2025,support,83.9,82.4,85.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL9
+Central Queensland University,Postgraduate coursework,2025,resources,86.1,84.7,87.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU9
+Central Queensland University,Postgraduate coursework,2017,overall,74.5,72.2,76.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV9
+Central Queensland University,Postgraduate coursework,2018,overall,76.1,74.9,77.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW9
+Central Queensland University,Postgraduate coursework,2019,overall,75.8,74.6,77.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX9
+Central Queensland University,Postgraduate coursework,2020,overall,71.6,70.3,72.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY9
+Central Queensland University,Postgraduate coursework,2021,overall,74.6,72.8,76.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ9
+Central Queensland University,Postgraduate coursework,2022,overall,79.4,77.4,81.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA9
+Central Queensland University,Postgraduate coursework,2023,overall,80.2,78.7,81.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB9
+Central Queensland University,Postgraduate coursework,2024,overall,79.8,78.2,81.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC9
+Central Queensland University,Postgraduate coursework,2025,overall,81.7,80.4,82.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD9
+Charles Darwin University,Postgraduate coursework,2025,skills,86.5,85.0,87.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,K10
+Charles Darwin University,Postgraduate coursework,2025,peer_engagement,65.0,63.2,66.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,T10
+Charles Darwin University,Postgraduate coursework,2025,teaching,85.0,83.6,86.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC10
+Charles Darwin University,Postgraduate coursework,2025,support,83.9,82.1,85.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL10
+Charles Darwin University,Postgraduate coursework,2025,resources,86.2,84.5,87.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU10
+Charles Darwin University,Postgraduate coursework,2017,overall,78.6,73.5,82.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV10
+Charles Darwin University,Postgraduate coursework,2018,overall,70.9,68.2,73.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW10
+Charles Darwin University,Postgraduate coursework,2019,overall,67.8,64.8,70.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX10
+Charles Darwin University,Postgraduate coursework,2020,overall,60.2,57.4,62.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY10
+Charles Darwin University,Postgraduate coursework,2021,overall,68.7,66.1,71.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ10
+Charles Darwin University,Postgraduate coursework,2022,overall,75.3,72.8,77.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA10
+Charles Darwin University,Postgraduate coursework,2023,overall,73.6,71.5,75.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB10
+Charles Darwin University,Postgraduate coursework,2024,overall,74.2,72.4,75.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC10
+Charles Darwin University,Postgraduate coursework,2025,overall,79.1,77.5,80.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD10
+Charles Sturt University,Postgraduate coursework,2025,skills,77.3,75.8,78.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,K11
+Charles Sturt University,Postgraduate coursework,2025,peer_engagement,17.8,16.6,19.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,T11
+Charles Sturt University,Postgraduate coursework,2025,teaching,84.4,83.1,85.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC11
+Charles Sturt University,Postgraduate coursework,2025,support,73.8,71.1,76.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL11
+Charles Sturt University,Postgraduate coursework,2025,resources,82.4,79.2,85.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU11
+Charles Sturt University,Postgraduate coursework,2017,overall,77.3,76.1,78.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV11
+Charles Sturt University,Postgraduate coursework,2018,overall,78.1,77.3,78.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW11
+Charles Sturt University,Postgraduate coursework,2019,overall,78.0,77.0,79.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX11
+Charles Sturt University,Postgraduate coursework,2020,overall,76.6,75.5,77.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY11
+Charles Sturt University,Postgraduate coursework,2021,overall,77.7,76.3,78.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ11
+Charles Sturt University,Postgraduate coursework,2022,overall,80.9,79.5,82.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA11
+Charles Sturt University,Postgraduate coursework,2023,overall,78.6,77.3,79.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB11
+Charles Sturt University,Postgraduate coursework,2024,overall,77.9,76.3,79.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC11
+Charles Sturt University,Postgraduate coursework,2025,overall,82.3,80.9,83.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD11
+Curtin University,Postgraduate coursework,2025,skills,83.3,82.4,84.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,K12
+Curtin University,Postgraduate coursework,2025,peer_engagement,60.8,59.6,61.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,T12
+Curtin University,Postgraduate coursework,2025,teaching,81.4,80.4,82.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC12
+Curtin University,Postgraduate coursework,2025,support,76.5,75.2,77.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL12
+Curtin University,Postgraduate coursework,2025,resources,88.7,87.8,89.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU12
+Curtin University,Postgraduate coursework,2017,overall,74.3,72.5,75.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV12
+Curtin University,Postgraduate coursework,2018,overall,75.9,74.5,77.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW12
+Curtin University,Postgraduate coursework,2019,overall,79.0,77.5,80.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX12
+Curtin University,Postgraduate coursework,2020,overall,72.7,71.3,73.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY12
+Curtin University,Postgraduate coursework,2021,overall,71.6,70.1,73.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ12
+Curtin University,Postgraduate coursework,2022,overall,72.6,71.1,74.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA12
+Curtin University,Postgraduate coursework,2023,overall,75.5,74.4,76.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB12
+Curtin University,Postgraduate coursework,2024,overall,72.4,71.3,73.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC12
+Curtin University,Postgraduate coursework,2025,overall,75.0,73.9,75.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD12
+Deakin University,Postgraduate coursework,2025,skills,83.8,83.0,84.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,K13
+Deakin University,Postgraduate coursework,2025,peer_engagement,48.9,47.9,49.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,T13
+Deakin University,Postgraduate coursework,2025,teaching,84.3,83.5,85.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC13
+Deakin University,Postgraduate coursework,2025,support,81.5,80.4,82.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL13
+Deakin University,Postgraduate coursework,2025,resources,90.4,89.5,91.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU13
+Deakin University,Postgraduate coursework,2017,overall,79.2,78.1,80.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV13
+Deakin University,Postgraduate coursework,2018,overall,80.0,79.2,80.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW13
+Deakin University,Postgraduate coursework,2019,overall,79.9,79.0,80.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX13
+Deakin University,Postgraduate coursework,2020,overall,72.8,72.0,73.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY13
+Deakin University,Postgraduate coursework,2021,overall,77.5,76.6,78.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ13
+Deakin University,Postgraduate coursework,2022,overall,80.7,79.5,81.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA13
+Deakin University,Postgraduate coursework,2023,overall,81.2,80.2,82.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB13
+Deakin University,Postgraduate coursework,2024,overall,78.9,77.9,79.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC13
+Deakin University,Postgraduate coursework,2025,overall,79.9,79.1,80.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD13
+Edith Cowan University,Postgraduate coursework,2025,skills,84.6,83.8,85.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,K14
+Edith Cowan University,Postgraduate coursework,2025,peer_engagement,61.9,60.8,63.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,T14
+Edith Cowan University,Postgraduate coursework,2025,teaching,84.9,84.0,85.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC14
+Edith Cowan University,Postgraduate coursework,2025,support,83.7,82.5,84.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL14
+Edith Cowan University,Postgraduate coursework,2025,resources,89.7,88.7,90.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU14
+Edith Cowan University,Postgraduate coursework,2017,overall,77.1,75.4,78.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV14
+Edith Cowan University,Postgraduate coursework,2018,overall,77.9,76.6,79.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW14
+Edith Cowan University,Postgraduate coursework,2019,overall,78.9,77.6,80.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX14
+Edith Cowan University,Postgraduate coursework,2020,overall,76.2,75.2,77.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY14
+Edith Cowan University,Postgraduate coursework,2021,overall,78.1,76.9,79.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ14
+Edith Cowan University,Postgraduate coursework,2022,overall,80.6,79.3,81.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA14
+Edith Cowan University,Postgraduate coursework,2023,overall,83.1,82.3,83.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB14
+Edith Cowan University,Postgraduate coursework,2024,overall,81.1,80.2,81.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC14
+Edith Cowan University,Postgraduate coursework,2025,overall,78.9,78.0,79.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD14
+Federation University Australia,Postgraduate coursework,2025,skills,83.5,81.7,85.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,K15
+Federation University Australia,Postgraduate coursework,2025,peer_engagement,51.4,49.2,53.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,T15
+Federation University Australia,Postgraduate coursework,2025,teaching,80.6,78.7,82.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC15
+Federation University Australia,Postgraduate coursework,2025,support,76.6,73.9,79.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL15
+Federation University Australia,Postgraduate coursework,2025,resources,81.9,79.4,84.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU15
+Federation University Australia,Postgraduate coursework,2017,overall,78.8,74.8,82.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV15
+Federation University Australia,Postgraduate coursework,2018,overall,80.4,78.0,82.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW15
+Federation University Australia,Postgraduate coursework,2019,overall,81.0,78.2,83.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX15
+Federation University Australia,Postgraduate coursework,2020,overall,69.0,67.5,70.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY15
+Federation University Australia,Postgraduate coursework,2021,overall,74.7,72.8,76.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ15
+Federation University Australia,Postgraduate coursework,2022,overall,75.6,73.2,77.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA15
+Federation University Australia,Postgraduate coursework,2023,overall,75.9,73.9,77.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB15
+Federation University Australia,Postgraduate coursework,2024,overall,73.1,70.5,75.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC15
+Federation University Australia,Postgraduate coursework,2025,overall,76.0,74.0,77.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD15
+Flinders University,Postgraduate coursework,2025,skills,83.2,82.1,84.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,K16
+Flinders University,Postgraduate coursework,2025,peer_engagement,57.1,55.7,58.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,T16
+Flinders University,Postgraduate coursework,2025,teaching,81.3,80.2,82.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC16
+Flinders University,Postgraduate coursework,2025,support,77.5,75.9,79.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL16
+Flinders University,Postgraduate coursework,2025,resources,84.7,83.3,85.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU16
+Flinders University,Postgraduate coursework,2017,overall,76.4,74.8,77.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV16
+Flinders University,Postgraduate coursework,2018,overall,75.1,73.9,76.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW16
+Flinders University,Postgraduate coursework,2019,overall,70.9,69.5,72.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX16
+Flinders University,Postgraduate coursework,2020,overall,71.6,70.3,72.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY16
+Flinders University,Postgraduate coursework,2021,overall,73.7,72.2,75.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ16
+Flinders University,Postgraduate coursework,2022,overall,73.1,71.3,74.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA16
+Flinders University,Postgraduate coursework,2023,overall,74.6,73.3,75.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB16
+Flinders University,Postgraduate coursework,2024,overall,75.6,74.2,77.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC16
+Flinders University,Postgraduate coursework,2025,overall,74.0,72.8,75.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD16
+Griffith University,Postgraduate coursework,2025,skills,82.5,81.4,83.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,K17
+Griffith University,Postgraduate coursework,2025,peer_engagement,50.4,49.1,51.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,T17
+Griffith University,Postgraduate coursework,2025,teaching,83.8,82.7,84.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC17
+Griffith University,Postgraduate coursework,2025,support,77.7,76.1,79.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL17
+Griffith University,Postgraduate coursework,2025,resources,84.1,82.7,85.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU17
+Griffith University,Postgraduate coursework,2017,overall,75.0,73.6,76.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV17
+Griffith University,Postgraduate coursework,2018,overall,80.6,79.4,81.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW17
+Griffith University,Postgraduate coursework,2019,overall,82.5,81.1,83.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX17
+Griffith University,Postgraduate coursework,2020,overall,75.0,73.7,76.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY17
+Griffith University,Postgraduate coursework,2021,overall,73.9,72.6,75.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ17
+Griffith University,Postgraduate coursework,2022,overall,75.9,74.4,77.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA17
+Griffith University,Postgraduate coursework,2023,overall,78.8,77.7,79.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB17
+Griffith University,Postgraduate coursework,2024,overall,78.0,76.8,79.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC17
+Griffith University,Postgraduate coursework,2025,overall,79.9,78.7,80.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD17
+James Cook University,Postgraduate coursework,2025,skills,86.5,85.3,87.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,K18
+James Cook University,Postgraduate coursework,2025,peer_engagement,54.4,52.8,55.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,T18
+James Cook University,Postgraduate coursework,2025,teaching,88.5,87.5,89.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC18
+James Cook University,Postgraduate coursework,2025,support,84.8,83.2,86.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL18
+James Cook University,Postgraduate coursework,2025,resources,88.6,86.9,89.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU18
+James Cook University,Postgraduate coursework,2017,overall,75.3,71.7,78.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV18
+James Cook University,Postgraduate coursework,2018,overall,70.7,68.3,73.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW18
+James Cook University,Postgraduate coursework,2019,overall,70.0,67.5,72.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX18
+James Cook University,Postgraduate coursework,2020,overall,72.3,70.6,74.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY18
+James Cook University,Postgraduate coursework,2021,overall,71.1,69.1,73.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ18
+James Cook University,Postgraduate coursework,2022,overall,77.6,75.1,79.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA18
+James Cook University,Postgraduate coursework,2023,overall,76.7,75.1,78.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB18
+James Cook University,Postgraduate coursework,2024,overall,82.7,81.1,84.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC18
+James Cook University,Postgraduate coursework,2025,overall,83.2,82.0,84.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD18
+La Trobe University,Postgraduate coursework,2025,skills,84.8,83.9,85.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,K19
+La Trobe University,Postgraduate coursework,2025,peer_engagement,51.2,50.1,52.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,T19
+La Trobe University,Postgraduate coursework,2025,teaching,85.9,85.0,86.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC19
+La Trobe University,Postgraduate coursework,2025,support,79.2,77.9,80.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL19
+La Trobe University,Postgraduate coursework,2025,resources,86.6,85.5,87.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU19
+La Trobe University,Postgraduate coursework,2017,overall,70.2,68.4,71.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV19
+La Trobe University,Postgraduate coursework,2018,overall,74.1,72.9,75.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW19
+La Trobe University,Postgraduate coursework,2019,overall,73.0,71.6,74.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX19
+La Trobe University,Postgraduate coursework,2020,overall,65.4,64.0,66.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY19
+La Trobe University,Postgraduate coursework,2021,overall,72.1,70.6,73.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ19
+La Trobe University,Postgraduate coursework,2022,overall,75.8,74.4,77.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA19
+La Trobe University,Postgraduate coursework,2023,overall,78.2,77.1,79.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB19
+La Trobe University,Postgraduate coursework,2024,overall,76.1,75.0,77.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC19
+La Trobe University,Postgraduate coursework,2025,overall,80.8,79.9,81.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD19
+Macquarie University,Postgraduate coursework,2025,skills,83.1,82.3,83.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,K20
+Macquarie University,Postgraduate coursework,2025,peer_engagement,70.4,69.5,71.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,T20
+Macquarie University,Postgraduate coursework,2025,teaching,82.1,81.3,82.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC20
+Macquarie University,Postgraduate coursework,2025,support,73.5,72.4,74.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL20
+Macquarie University,Postgraduate coursework,2025,resources,87.1,86.3,87.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU20
+Macquarie University,Postgraduate coursework,2017,overall,75.8,74.3,77.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV20
+Macquarie University,Postgraduate coursework,2018,overall,76.1,75.1,77.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW20
+Macquarie University,Postgraduate coursework,2019,overall,73.8,72.7,74.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX20
+Macquarie University,Postgraduate coursework,2020,overall,63.4,62.3,64.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY20
+Macquarie University,Postgraduate coursework,2021,overall,68.5,67.3,69.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ20
+Macquarie University,Postgraduate coursework,2022,overall,78.3,77.0,79.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA20
+Macquarie University,Postgraduate coursework,2023,overall,78.2,77.0,79.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB20
+Macquarie University,Postgraduate coursework,2024,overall,75.3,74.4,76.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC20
+Macquarie University,Postgraduate coursework,2025,overall,74.8,73.9,75.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD20
+Monash University,Postgraduate coursework,2025,skills,83.6,82.9,84.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,K21
+Monash University,Postgraduate coursework,2025,peer_engagement,66.9,66.2,67.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,T21
+Monash University,Postgraduate coursework,2025,teaching,83.9,83.3,84.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC21
+Monash University,Postgraduate coursework,2025,support,77.0,76.2,77.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL21
+Monash University,Postgraduate coursework,2025,resources,88.7,88.1,89.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU21
+Monash University,Postgraduate coursework,2017,overall,74.2,73.4,75.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV21
+Monash University,Postgraduate coursework,2018,overall,74.7,74.0,75.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW21
+Monash University,Postgraduate coursework,2019,overall,74.7,74.0,75.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX21
+Monash University,Postgraduate coursework,2020,overall,60.2,59.4,61.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY21
+Monash University,Postgraduate coursework,2021,overall,70.0,69.2,70.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ21
+Monash University,Postgraduate coursework,2022,overall,77.0,76.1,77.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA21
+Monash University,Postgraduate coursework,2023,overall,75.6,74.7,76.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB21
+Monash University,Postgraduate coursework,2024,overall,75.0,74.2,75.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC21
+Monash University,Postgraduate coursework,2025,overall,76.3,75.6,76.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD21
+Murdoch University,Postgraduate coursework,2025,skills,90.0,89.2,90.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,K22
+Murdoch University,Postgraduate coursework,2025,peer_engagement,82.3,81.4,83.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,T22
+Murdoch University,Postgraduate coursework,2025,teaching,91.0,90.2,91.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC22
+Murdoch University,Postgraduate coursework,2025,support,87.9,86.9,88.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL22
+Murdoch University,Postgraduate coursework,2025,resources,92.5,91.7,93.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU22
+Murdoch University,Postgraduate coursework,2017,overall,73.3,70.4,76.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV22
+Murdoch University,Postgraduate coursework,2018,overall,78.7,76.7,80.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW22
+Murdoch University,Postgraduate coursework,2019,overall,79.5,77.7,81.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX22
+Murdoch University,Postgraduate coursework,2020,overall,73.8,71.9,75.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY22
+Murdoch University,Postgraduate coursework,2021,overall,74.3,71.7,76.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ22
+Murdoch University,Postgraduate coursework,2022,overall,73.5,70.0,76.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA22
+Murdoch University,Postgraduate coursework,2023,overall,79.8,78.6,80.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB22
+Murdoch University,Postgraduate coursework,2024,overall,78.0,77.1,78.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC22
+Murdoch University,Postgraduate coursework,2025,overall,81.1,80.1,82.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD22
+Queensland University of Technology,Postgraduate coursework,2025,skills,82.9,82.0,83.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,K23
+Queensland University of Technology,Postgraduate coursework,2025,peer_engagement,50.7,49.7,51.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,T23
+Queensland University of Technology,Postgraduate coursework,2025,teaching,83.0,82.1,83.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC23
+Queensland University of Technology,Postgraduate coursework,2025,support,77.4,76.1,78.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL23
+Queensland University of Technology,Postgraduate coursework,2025,resources,88.4,87.4,89.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU23
+Queensland University of Technology,Postgraduate coursework,2017,overall,80.3,78.3,82.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV23
+Queensland University of Technology,Postgraduate coursework,2018,overall,80.7,79.4,82.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW23
+Queensland University of Technology,Postgraduate coursework,2019,overall,80.0,78.4,81.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX23
+Queensland University of Technology,Postgraduate coursework,2020,overall,71.4,70.3,72.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY23
+Queensland University of Technology,Postgraduate coursework,2021,overall,76.9,75.8,77.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ23
+Queensland University of Technology,Postgraduate coursework,2022,overall,75.4,73.9,76.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA23
+Queensland University of Technology,Postgraduate coursework,2023,overall,77.1,75.8,78.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB23
+Queensland University of Technology,Postgraduate coursework,2024,overall,75.4,74.0,76.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC23
+Queensland University of Technology,Postgraduate coursework,2025,overall,77.0,76.1,77.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD23
+RMIT University,Postgraduate coursework,2025,skills,85.3,84.4,86.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,K24
+RMIT University,Postgraduate coursework,2025,peer_engagement,71.2,70.1,72.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,T24
+RMIT University,Postgraduate coursework,2025,teaching,85.0,84.1,85.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC24
+RMIT University,Postgraduate coursework,2025,support,80.2,79.1,81.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL24
+RMIT University,Postgraduate coursework,2025,resources,89.6,88.8,90.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU24
+RMIT University,Postgraduate coursework,2017,overall,77.7,76.3,78.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV24
+RMIT University,Postgraduate coursework,2018,overall,78.0,77.2,78.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW24
+RMIT University,Postgraduate coursework,2019,overall,75.8,74.8,76.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX24
+RMIT University,Postgraduate coursework,2020,overall,63.0,62.0,63.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY24
+RMIT University,Postgraduate coursework,2021,overall,69.4,68.1,70.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ24
+RMIT University,Postgraduate coursework,2022,overall,76.9,75.4,78.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA24
+RMIT University,Postgraduate coursework,2023,overall,77.9,76.5,79.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB24
+RMIT University,Postgraduate coursework,2024,overall,76.6,75.3,77.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC24
+RMIT University,Postgraduate coursework,2025,overall,77.2,76.2,78.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD24
+Southern Cross University,Postgraduate coursework,2025,skills,86.7,85.7,87.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,K25
+Southern Cross University,Postgraduate coursework,2025,peer_engagement,51.1,49.8,52.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,T25
+Southern Cross University,Postgraduate coursework,2025,teaching,86.0,85.0,86.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC25
+Southern Cross University,Postgraduate coursework,2025,support,82.0,80.8,83.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL25
+Southern Cross University,Postgraduate coursework,2025,resources,84.0,82.6,85.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU25
+Southern Cross University,Postgraduate coursework,2017,overall,78.5,74.3,82.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV25
+Southern Cross University,Postgraduate coursework,2018,overall,77.7,74.7,80.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW25
+Southern Cross University,Postgraduate coursework,2019,overall,76.9,74.6,78.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX25
+Southern Cross University,Postgraduate coursework,2020,overall,78.4,76.6,80.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY25
+Southern Cross University,Postgraduate coursework,2021,overall,78.0,76.1,79.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ25
+Southern Cross University,Postgraduate coursework,2022,overall,76.6,74.6,78.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA25
+Southern Cross University,Postgraduate coursework,2023,overall,76.9,74.9,78.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB25
+Southern Cross University,Postgraduate coursework,2024,overall,72.6,70.4,74.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC25
+Southern Cross University,Postgraduate coursework,2025,overall,82.1,81.0,83.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD25
+Swinburne University of Technology,Postgraduate coursework,2025,skills,83.8,82.4,85.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,K26
+Swinburne University of Technology,Postgraduate coursework,2025,peer_engagement,57.1,55.4,58.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,T26
+Swinburne University of Technology,Postgraduate coursework,2025,teaching,82.0,80.6,83.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC26
+Swinburne University of Technology,Postgraduate coursework,2025,support,76.4,74.5,78.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL26
+Swinburne University of Technology,Postgraduate coursework,2025,resources,82.5,80.8,84.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU26
+Swinburne University of Technology,Postgraduate coursework,2017,overall,77.8,75.8,79.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV26
+Swinburne University of Technology,Postgraduate coursework,2018,overall,77.7,76.5,78.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW26
+Swinburne University of Technology,Postgraduate coursework,2019,overall,78.1,76.8,79.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX26
+Swinburne University of Technology,Postgraduate coursework,2020,overall,71.4,70.1,72.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY26
+Swinburne University of Technology,Postgraduate coursework,2021,overall,77.0,75.5,78.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ26
+Swinburne University of Technology,Postgraduate coursework,2022,overall,77.4,75.8,79.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA26
+Swinburne University of Technology,Postgraduate coursework,2023,overall,78.1,76.6,79.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB26
+Swinburne University of Technology,Postgraduate coursework,2024,overall,74.4,72.9,75.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC26
+Swinburne University of Technology,Postgraduate coursework,2025,overall,77.9,76.4,79.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD26
+The Australian National University,Postgraduate coursework,2025,skills,81.7,80.4,82.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,K27
+The Australian National University,Postgraduate coursework,2025,peer_engagement,63.2,61.6,64.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,T27
+The Australian National University,Postgraduate coursework,2025,teaching,81.8,80.5,83.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC27
+The Australian National University,Postgraduate coursework,2025,support,70.1,68.3,71.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL27
+The Australian National University,Postgraduate coursework,2025,resources,84.0,82.6,85.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU27
+The Australian National University,Postgraduate coursework,2017,overall,75.9,74.2,77.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV27
+The Australian National University,Postgraduate coursework,2018,overall,76.6,75.2,77.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW27
+The Australian National University,Postgraduate coursework,2019,overall,72.7,71.1,74.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX27
+The Australian National University,Postgraduate coursework,2020,overall,63.8,62.1,65.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY27
+The Australian National University,Postgraduate coursework,2021,overall,67.4,65.3,69.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ27
+The Australian National University,Postgraduate coursework,2022,overall,78.9,76.9,80.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA27
+The Australian National University,Postgraduate coursework,2023,overall,72.5,70.8,74.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB27
+The Australian National University,Postgraduate coursework,2024,overall,72.4,70.9,73.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC27
+The Australian National University,Postgraduate coursework,2025,overall,73.0,71.6,74.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD27
+The University of Adelaide,Postgraduate coursework,2025,skills,82.4,81.4,83.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,K28
+The University of Adelaide,Postgraduate coursework,2025,peer_engagement,68.8,67.5,70.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,T28
+The University of Adelaide,Postgraduate coursework,2025,teaching,80.0,78.9,81.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC28
+The University of Adelaide,Postgraduate coursework,2025,support,79.2,77.8,80.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL28
+The University of Adelaide,Postgraduate coursework,2025,resources,86.0,84.9,86.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU28
+The University of Adelaide,Postgraduate coursework,2017,overall,74.1,72.0,75.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV28
+The University of Adelaide,Postgraduate coursework,2018,overall,74.1,72.7,75.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW28
+The University of Adelaide,Postgraduate coursework,2019,overall,73.8,72.3,75.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX28
+The University of Adelaide,Postgraduate coursework,2020,overall,63.6,62.1,65.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY28
+The University of Adelaide,Postgraduate coursework,2021,overall,64.0,62.2,65.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ28
+The University of Adelaide,Postgraduate coursework,2022,overall,80.3,78.6,81.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA28
+The University of Adelaide,Postgraduate coursework,2023,overall,72.7,70.9,74.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB28
+The University of Adelaide,Postgraduate coursework,2024,overall,70.4,68.9,71.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC28
+The University of Adelaide,Postgraduate coursework,2025,overall,70.3,69.1,71.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD28
+The University of Melbourne,Postgraduate coursework,2025,skills,83.7,83.1,84.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,K29
+The University of Melbourne,Postgraduate coursework,2025,peer_engagement,69.2,68.5,69.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,T29
+The University of Melbourne,Postgraduate coursework,2025,teaching,82.1,81.5,82.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC29
+The University of Melbourne,Postgraduate coursework,2025,support,70.0,69.2,70.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL29
+The University of Melbourne,Postgraduate coursework,2025,resources,84.2,83.6,84.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU29
+The University of Melbourne,Postgraduate coursework,2017,overall,77.2,76.5,77.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV29
+The University of Melbourne,Postgraduate coursework,2018,overall,76.9,76.4,77.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW29
+The University of Melbourne,Postgraduate coursework,2019,overall,77.5,76.9,78.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX29
+The University of Melbourne,Postgraduate coursework,2020,overall,58.1,57.5,58.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY29
+The University of Melbourne,Postgraduate coursework,2021,overall,67.0,66.3,67.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ29
+The University of Melbourne,Postgraduate coursework,2022,overall,74.7,74.0,75.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA29
+The University of Melbourne,Postgraduate coursework,2023,overall,73.9,73.3,74.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB29
+The University of Melbourne,Postgraduate coursework,2024,overall,72.2,71.5,72.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC29
+The University of Melbourne,Postgraduate coursework,2025,overall,74.6,74.0,75.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD29
+The University of Notre Dame Australia,Postgraduate coursework,2025,skills,82.5,81.0,83.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,K30
+The University of Notre Dame Australia,Postgraduate coursework,2025,peer_engagement,66.7,65.0,68.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,T30
+The University of Notre Dame Australia,Postgraduate coursework,2025,teaching,72.6,71.0,74.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC30
+The University of Notre Dame Australia,Postgraduate coursework,2025,support,43.4,40.8,46.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL30
+The University of Notre Dame Australia,Postgraduate coursework,2025,resources,41.7,39.6,43.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU30
+The University of Notre Dame Australia,Postgraduate coursework,2017,overall,85.4,82.2,88.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV30
+The University of Notre Dame Australia,Postgraduate coursework,2018,overall,79.4,76.1,82.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW30
+The University of Notre Dame Australia,Postgraduate coursework,2019,overall,81.7,78.6,84.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX30
+The University of Notre Dame Australia,Postgraduate coursework,2020,overall,77.2,75.1,79.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY30
+The University of Notre Dame Australia,Postgraduate coursework,2021,overall,74.7,72.5,76.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ30
+The University of Notre Dame Australia,Postgraduate coursework,2022,overall,78.2,75.7,80.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA30
+The University of Notre Dame Australia,Postgraduate coursework,2023,overall,78.3,76.4,80.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB30
+The University of Notre Dame Australia,Postgraduate coursework,2024,overall,67.7,65.2,70.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC30
+The University of Notre Dame Australia,Postgraduate coursework,2025,overall,59.2,57.4,60.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD30
+The University of Queensland,Postgraduate coursework,2025,skills,83.9,83.2,84.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,K31
+The University of Queensland,Postgraduate coursework,2025,peer_engagement,64.9,63.9,65.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,T31
+The University of Queensland,Postgraduate coursework,2025,teaching,84.2,83.4,84.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC31
+The University of Queensland,Postgraduate coursework,2025,support,77.4,76.4,78.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL31
+The University of Queensland,Postgraduate coursework,2025,resources,89.8,89.1,90.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU31
+The University of Queensland,Postgraduate coursework,2017,overall,76.1,74.9,77.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV31
+The University of Queensland,Postgraduate coursework,2018,overall,76.3,75.4,77.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW31
+The University of Queensland,Postgraduate coursework,2019,overall,75.5,74.5,76.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX31
+The University of Queensland,Postgraduate coursework,2020,overall,64.6,63.4,65.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY31
+The University of Queensland,Postgraduate coursework,2021,overall,71.6,70.4,72.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ31
+The University of Queensland,Postgraduate coursework,2022,overall,77.5,76.3,78.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA31
+The University of Queensland,Postgraduate coursework,2023,overall,76.0,74.8,77.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB31
+The University of Queensland,Postgraduate coursework,2024,overall,77.0,75.9,78.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC31
+The University of Queensland,Postgraduate coursework,2025,overall,78.0,77.2,78.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD31
+The University of South Australia,Postgraduate coursework,2025,skills,85.8,84.6,87.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,K32
+The University of South Australia,Postgraduate coursework,2025,peer_engagement,63.2,61.5,64.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,T32
+The University of South Australia,Postgraduate coursework,2025,teaching,86.9,85.6,87.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC32
+The University of South Australia,Postgraduate coursework,2025,support,80.1,78.3,81.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL32
+The University of South Australia,Postgraduate coursework,2025,resources,89.2,87.8,90.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU32
+The University of South Australia,Postgraduate coursework,2017,overall,72.6,69.9,75.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV32
+The University of South Australia,Postgraduate coursework,2018,overall,74.9,73.2,76.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW32
+The University of South Australia,Postgraduate coursework,2019,overall,75.5,73.7,77.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX32
+The University of South Australia,Postgraduate coursework,2020,overall,68.3,66.8,69.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY32
+The University of South Australia,Postgraduate coursework,2021,overall,70.6,68.8,72.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ32
+The University of South Australia,Postgraduate coursework,2022,overall,74.6,72.7,76.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA32
+The University of South Australia,Postgraduate coursework,2023,overall,74.8,73.1,76.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB32
+The University of South Australia,Postgraduate coursework,2024,overall,76.0,74.4,77.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC32
+The University of South Australia,Postgraduate coursework,2025,overall,79.1,77.7,80.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD32
+The University of Sydney,Postgraduate coursework,2025,skills,82.1,81.4,82.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,K33
+The University of Sydney,Postgraduate coursework,2025,peer_engagement,72.6,71.8,73.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,T33
+The University of Sydney,Postgraduate coursework,2025,teaching,79.2,78.4,79.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC33
+The University of Sydney,Postgraduate coursework,2025,support,70.2,69.2,71.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL33
+The University of Sydney,Postgraduate coursework,2025,resources,84.7,84.0,85.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU33
+The University of Sydney,Postgraduate coursework,2017,overall,72.1,70.9,73.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV33
+The University of Sydney,Postgraduate coursework,2018,overall,72.5,71.7,73.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW33
+The University of Sydney,Postgraduate coursework,2019,overall,73.4,72.4,74.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX33
+The University of Sydney,Postgraduate coursework,2020,overall,58.9,57.7,60.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY33
+The University of Sydney,Postgraduate coursework,2021,overall,69.0,67.9,70.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ33
+The University of Sydney,Postgraduate coursework,2022,overall,67.8,66.5,69.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA33
+The University of Sydney,Postgraduate coursework,2023,overall,70.8,69.6,71.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB33
+The University of Sydney,Postgraduate coursework,2024,overall,70.2,69.3,71.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC33
+The University of Sydney,Postgraduate coursework,2025,overall,70.7,69.9,71.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD33
+The University of Western Australia,Postgraduate coursework,2025,skills,84.1,83.2,84.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,K34
+The University of Western Australia,Postgraduate coursework,2025,peer_engagement,74.8,73.8,75.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,T34
+The University of Western Australia,Postgraduate coursework,2025,teaching,79.9,79.0,80.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC34
+The University of Western Australia,Postgraduate coursework,2025,support,72.4,71.1,73.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL34
+The University of Western Australia,Postgraduate coursework,2025,resources,84.1,83.2,85.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU34
+The University of Western Australia,Postgraduate coursework,2017,overall,65.8,63.8,67.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV34
+The University of Western Australia,Postgraduate coursework,2018,overall,69.5,67.9,70.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW34
+The University of Western Australia,Postgraduate coursework,2019,overall,71.1,69.4,72.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX34
+The University of Western Australia,Postgraduate coursework,2020,overall,65.0,63.2,66.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY34
+The University of Western Australia,Postgraduate coursework,2021,overall,72.2,70.9,73.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ34
+The University of Western Australia,Postgraduate coursework,2022,overall,74.0,72.7,75.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA34
+The University of Western Australia,Postgraduate coursework,2023,overall,74.3,73.2,75.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB34
+The University of Western Australia,Postgraduate coursework,2024,overall,73.7,72.6,74.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC34
+The University of Western Australia,Postgraduate coursework,2025,overall,72.4,71.4,73.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD34
+Torrens University,Postgraduate coursework,2025,skills,87.9,87.0,88.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,K35
+Torrens University,Postgraduate coursework,2025,peer_engagement,72.8,71.7,73.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,T35
+Torrens University,Postgraduate coursework,2025,teaching,86.6,85.8,87.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC35
+Torrens University,Postgraduate coursework,2025,support,81.1,80.0,82.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL35
+Torrens University,Postgraduate coursework,2025,resources,82.3,81.2,83.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU35
+Torrens University,Postgraduate coursework,2017,overall,68.2,64.7,71.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV35
+Torrens University,Postgraduate coursework,2018,overall,75.6,73.7,77.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW35
+Torrens University,Postgraduate coursework,2019,overall,79.9,78.2,81.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX35
+Torrens University,Postgraduate coursework,2020,overall,73.6,72.7,74.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY35
+Torrens University,Postgraduate coursework,2021,overall,77.7,76.8,78.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ35
+Torrens University,Postgraduate coursework,2022,overall,76.2,75.0,77.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA35
+Torrens University,Postgraduate coursework,2023,overall,78.0,76.6,79.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB35
+Torrens University,Postgraduate coursework,2024,overall,78.2,77.1,79.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC35
+Torrens University,Postgraduate coursework,2025,overall,80.4,79.4,81.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD35
+University of Canberra,Postgraduate coursework,2025,skills,79.9,78.5,81.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,K36
+University of Canberra,Postgraduate coursework,2025,peer_engagement,53.1,51.4,54.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,T36
+University of Canberra,Postgraduate coursework,2025,teaching,78.6,77.1,79.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC36
+University of Canberra,Postgraduate coursework,2025,support,75.2,73.2,77.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL36
+University of Canberra,Postgraduate coursework,2025,resources,81.7,79.7,83.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU36
+University of Canberra,Postgraduate coursework,2017,overall,71.9,68.8,74.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV36
+University of Canberra,Postgraduate coursework,2018,overall,77.4,75.5,79.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW36
+University of Canberra,Postgraduate coursework,2019,overall,75.3,73.3,77.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX36
+University of Canberra,Postgraduate coursework,2020,overall,72.4,70.6,74.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY36
+University of Canberra,Postgraduate coursework,2021,overall,72.5,70.4,74.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ36
+University of Canberra,Postgraduate coursework,2022,overall,75.6,73.6,77.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA36
+University of Canberra,Postgraduate coursework,2023,overall,74.5,72.9,75.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB36
+University of Canberra,Postgraduate coursework,2024,overall,75.7,74.0,77.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC36
+University of Canberra,Postgraduate coursework,2025,overall,72.9,71.4,74.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD36
+University of Divinity,Postgraduate coursework,2025,skills,84.1,79.4,87.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,K37
+University of Divinity,Postgraduate coursework,2025,peer_engagement,52.3,46.8,57.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,T37
+University of Divinity,Postgraduate coursework,2025,teaching,87.1,82.7,90.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC37
+University of Divinity,Postgraduate coursework,2025,support,80.7,71.5,87.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL37
+University of Divinity,Postgraduate coursework,2025,resources,94.3,88.2,97.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU37
+University of Divinity,Postgraduate coursework,2017,overall,87.4,83.7,90.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV37
+University of Divinity,Postgraduate coursework,2018,overall,89.0,86.7,90.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW37
+University of Divinity,Postgraduate coursework,2019,overall,87.6,84.2,89.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX37
+University of Divinity,Postgraduate coursework,2020,overall,90.3,88.0,91.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY37
+University of Divinity,Postgraduate coursework,2021,overall,91.0,88.1,92.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ37
+University of Divinity,Postgraduate coursework,2022,overall,86.5,83.0,89.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA37
+University of Divinity,Postgraduate coursework,2023,overall,89.2,86.3,91.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB37
+University of Divinity,Postgraduate coursework,2024,overall,88.0,84.2,90.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC37
+University of Divinity,Postgraduate coursework,2025,overall,87.8,83.4,90.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD37
+University of New England,Postgraduate coursework,2025,skills,79.4,77.8,80.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,K38
+University of New England,Postgraduate coursework,2025,peer_engagement,16.7,15.4,18.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,T38
+University of New England,Postgraduate coursework,2025,teaching,85.9,84.4,87.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC38
+University of New England,Postgraduate coursework,2025,support,78.1,75.1,80.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL38
+University of New England,Postgraduate coursework,2025,resources,89.3,86.0,91.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU38
+University of New England,Postgraduate coursework,2017,overall,82.3,80.5,84.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV38
+University of New England,Postgraduate coursework,2018,overall,82.6,81.2,83.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW38
+University of New England,Postgraduate coursework,2019,overall,83.1,81.6,84.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX38
+University of New England,Postgraduate coursework,2020,overall,80.9,79.2,82.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY38
+University of New England,Postgraduate coursework,2021,overall,76.0,74.3,77.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ38
+University of New England,Postgraduate coursework,2022,overall,81.2,79.5,82.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA38
+University of New England,Postgraduate coursework,2023,overall,78.4,76.0,80.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB38
+University of New England,Postgraduate coursework,2024,overall,82.0,80.5,83.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC38
+University of New England,Postgraduate coursework,2025,overall,82.4,80.9,83.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD38
+University of New South Wales,Postgraduate coursework,2025,skills,82.7,82.0,83.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,K39
+University of New South Wales,Postgraduate coursework,2025,peer_engagement,61.3,60.4,62.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,T39
+University of New South Wales,Postgraduate coursework,2025,teaching,85.8,85.2,86.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC39
+University of New South Wales,Postgraduate coursework,2025,support,77.7,76.8,78.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL39
+University of New South Wales,Postgraduate coursework,2025,resources,90.7,90.0,91.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU39
+University of New South Wales,Postgraduate coursework,2017,overall,75.3,74.3,76.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV39
+University of New South Wales,Postgraduate coursework,2018,overall,75.0,74.2,75.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW39
+University of New South Wales,Postgraduate coursework,2019,overall,72.0,71.0,72.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX39
+University of New South Wales,Postgraduate coursework,2020,overall,65.0,64.1,65.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY39
+University of New South Wales,Postgraduate coursework,2021,overall,74.5,73.6,75.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ39
+University of New South Wales,Postgraduate coursework,2022,overall,77.1,76.3,77.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA39
+University of New South Wales,Postgraduate coursework,2023,overall,78.0,77.3,78.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB39
+University of New South Wales,Postgraduate coursework,2024,overall,77.8,77.0,78.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC39
+University of New South Wales,Postgraduate coursework,2025,overall,79.1,78.4,79.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD39
+University of Newcastle,Postgraduate coursework,2025,skills,84.7,83.3,85.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,K40
+University of Newcastle,Postgraduate coursework,2025,peer_engagement,41.1,39.4,42.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,T40
+University of Newcastle,Postgraduate coursework,2025,teaching,86.5,85.3,87.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC40
+University of Newcastle,Postgraduate coursework,2025,support,79.8,77.9,81.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL40
+University of Newcastle,Postgraduate coursework,2025,resources,88.8,87.1,90.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU40
+University of Newcastle,Postgraduate coursework,2017,overall,81.3,79.4,83.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV40
+University of Newcastle,Postgraduate coursework,2018,overall,78.4,76.9,79.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW40
+University of Newcastle,Postgraduate coursework,2019,overall,78.4,76.8,79.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX40
+University of Newcastle,Postgraduate coursework,2020,overall,75.3,73.5,76.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY40
+University of Newcastle,Postgraduate coursework,2021,overall,75.2,73.4,76.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ40
+University of Newcastle,Postgraduate coursework,2022,overall,75.8,74.1,77.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA40
+University of Newcastle,Postgraduate coursework,2023,overall,81.8,80.1,83.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB40
+University of Newcastle,Postgraduate coursework,2024,overall,79.0,77.3,80.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC40
+University of Newcastle,Postgraduate coursework,2025,overall,81.1,79.7,82.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD40
+University of Southern Queensland,Postgraduate coursework,2025,skills,78.2,76.5,79.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,K41
+University of Southern Queensland,Postgraduate coursework,2025,peer_engagement,34.6,32.8,36.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,T41
+University of Southern Queensland,Postgraduate coursework,2025,teaching,82.2,80.7,83.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC41
+University of Southern Queensland,Postgraduate coursework,2025,support,77.9,75.2,80.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL41
+University of Southern Queensland,Postgraduate coursework,2025,resources,83.2,80.4,85.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU41
+University of Southern Queensland,Postgraduate coursework,2017,overall,74.4,72.3,76.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV41
+University of Southern Queensland,Postgraduate coursework,2018,overall,81.8,80.2,83.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW41
+University of Southern Queensland,Postgraduate coursework,2019,overall,79.2,77.5,80.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX41
+University of Southern Queensland,Postgraduate coursework,2020,overall,77.6,75.9,79.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY41
+University of Southern Queensland,Postgraduate coursework,2021,overall,77.1,75.2,78.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ41
+University of Southern Queensland,Postgraduate coursework,2022,overall,79.1,77.2,80.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA41
+University of Southern Queensland,Postgraduate coursework,2023,overall,78.0,76.2,79.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB41
+University of Southern Queensland,Postgraduate coursework,2024,overall,72.7,69.9,75.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC41
+University of Southern Queensland,Postgraduate coursework,2025,overall,77.5,75.8,79.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD41
+University of Tasmania,Postgraduate coursework,2025,skills,81.9,80.9,82.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,K42
+University of Tasmania,Postgraduate coursework,2025,peer_engagement,35.6,34.5,36.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,T42
+University of Tasmania,Postgraduate coursework,2025,teaching,84.3,83.4,85.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC42
+University of Tasmania,Postgraduate coursework,2025,support,78.0,76.5,79.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL42
+University of Tasmania,Postgraduate coursework,2025,resources,83.0,81.4,84.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU42
+University of Tasmania,Postgraduate coursework,2017,overall,68.3,66.3,70.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV42
+University of Tasmania,Postgraduate coursework,2018,overall,72.3,70.7,73.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW42
+University of Tasmania,Postgraduate coursework,2019,overall,69.6,67.7,71.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX42
+University of Tasmania,Postgraduate coursework,2020,overall,63.0,61.6,64.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY42
+University of Tasmania,Postgraduate coursework,2021,overall,65.1,63.1,67.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ42
+University of Tasmania,Postgraduate coursework,2022,overall,70.8,68.6,72.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA42
+University of Tasmania,Postgraduate coursework,2023,overall,74.4,72.1,76.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB42
+University of Tasmania,Postgraduate coursework,2024,overall,75.1,73.1,76.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC42
+University of Tasmania,Postgraduate coursework,2025,overall,81.3,80.3,82.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD42
+University of Technology Sydney,Postgraduate coursework,2025,skills,85.6,84.8,86.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,K43
+University of Technology Sydney,Postgraduate coursework,2025,peer_engagement,61.6,60.5,62.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,T43
+University of Technology Sydney,Postgraduate coursework,2025,teaching,84.8,84.0,85.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC43
+University of Technology Sydney,Postgraduate coursework,2025,support,79.5,78.3,80.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL43
+University of Technology Sydney,Postgraduate coursework,2025,resources,89.4,88.4,90.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU43
+University of Technology Sydney,Postgraduate coursework,2017,overall,74.8,72.6,76.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV43
+University of Technology Sydney,Postgraduate coursework,2018,overall,77.4,76.3,78.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW43
+University of Technology Sydney,Postgraduate coursework,2019,overall,76.5,75.3,77.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX43
+University of Technology Sydney,Postgraduate coursework,2020,overall,64.5,62.9,66.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY43
+University of Technology Sydney,Postgraduate coursework,2021,overall,74.0,72.6,75.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ43
+University of Technology Sydney,Postgraduate coursework,2022,overall,79.4,78.1,80.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA43
+University of Technology Sydney,Postgraduate coursework,2023,overall,79.6,78.4,80.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB43
+University of Technology Sydney,Postgraduate coursework,2024,overall,77.3,76.2,78.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC43
+University of Technology Sydney,Postgraduate coursework,2025,overall,78.9,78.0,79.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD43
+University of Wollongong,Postgraduate coursework,2025,skills,82.0,80.6,83.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,K44
+University of Wollongong,Postgraduate coursework,2025,peer_engagement,60.2,58.5,61.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,T44
+University of Wollongong,Postgraduate coursework,2025,teaching,81.7,80.3,82.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC44
+University of Wollongong,Postgraduate coursework,2025,support,77.0,75.0,78.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL44
+University of Wollongong,Postgraduate coursework,2025,resources,87.8,86.3,89.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU44
+University of Wollongong,Postgraduate coursework,2017,overall,73.0,69.9,75.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV44
+University of Wollongong,Postgraduate coursework,2018,overall,75.3,73.8,76.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW44
+University of Wollongong,Postgraduate coursework,2019,overall,72.2,70.7,73.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX44
+University of Wollongong,Postgraduate coursework,2020,overall,68.4,67.3,69.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY44
+University of Wollongong,Postgraduate coursework,2021,overall,67.2,65.7,68.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ44
+University of Wollongong,Postgraduate coursework,2022,overall,74.4,72.6,76.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA44
+University of Wollongong,Postgraduate coursework,2023,overall,75.8,74.3,77.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB44
+University of Wollongong,Postgraduate coursework,2024,overall,73.1,71.7,74.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC44
+University of Wollongong,Postgraduate coursework,2025,overall,74.1,72.5,75.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD44
+University of the Sunshine Coast,Postgraduate coursework,2025,skills,83.0,80.2,85.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,K45
+University of the Sunshine Coast,Postgraduate coursework,2025,peer_engagement,51.0,47.8,54.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,T45
+University of the Sunshine Coast,Postgraduate coursework,2025,teaching,84.9,82.2,86.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC45
+University of the Sunshine Coast,Postgraduate coursework,2025,support,81.4,77.1,84.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL45
+University of the Sunshine Coast,Postgraduate coursework,2025,resources,81.9,77.8,85.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU45
+University of the Sunshine Coast,Postgraduate coursework,2017,overall,74.2,71.6,76.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV45
+University of the Sunshine Coast,Postgraduate coursework,2018,overall,73.9,71.9,75.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW45
+University of the Sunshine Coast,Postgraduate coursework,2019,overall,71.1,69.0,73.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX45
+University of the Sunshine Coast,Postgraduate coursework,2020,overall,80.0,76.4,82.7,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY45
+University of the Sunshine Coast,Postgraduate coursework,2021,overall,82.8,79.7,85.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ45
+University of the Sunshine Coast,Postgraduate coursework,2022,overall,83.6,80.0,86.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA45
+University of the Sunshine Coast,Postgraduate coursework,2023,overall,78.9,75.2,81.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB45
+University of the Sunshine Coast,Postgraduate coursework,2024,overall,84.3,80.8,87.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC45
+University of the Sunshine Coast,Postgraduate coursework,2025,overall,78.5,75.6,80.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD45
+Victoria University,Postgraduate coursework,2025,skills,84.4,83.5,85.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,K46
+Victoria University,Postgraduate coursework,2025,peer_engagement,65.1,63.9,66.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,T46
+Victoria University,Postgraduate coursework,2025,teaching,83.3,82.3,84.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC46
+Victoria University,Postgraduate coursework,2025,support,78.1,76.8,79.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL46
+Victoria University,Postgraduate coursework,2025,resources,81.0,79.7,82.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU46
+Victoria University,Postgraduate coursework,2017,overall,70.2,67.3,72.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV46
+Victoria University,Postgraduate coursework,2018,overall,70.4,68.1,72.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW46
+Victoria University,Postgraduate coursework,2019,overall,72.5,70.9,74.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX46
+Victoria University,Postgraduate coursework,2020,overall,67.2,65.3,69.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY46
+Victoria University,Postgraduate coursework,2021,overall,71.4,69.1,73.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ46
+Victoria University,Postgraduate coursework,2022,overall,74.7,72.8,76.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA46
+Victoria University,Postgraduate coursework,2023,overall,75.5,74.0,76.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB46
+Victoria University,Postgraduate coursework,2024,overall,74.3,73.1,75.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC46
+Victoria University,Postgraduate coursework,2025,overall,78.6,77.5,79.6,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD46
+Western Sydney University,Postgraduate coursework,2025,skills,82.5,81.5,83.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,K47
+Western Sydney University,Postgraduate coursework,2025,peer_engagement,63.8,62.5,65.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,T47
+Western Sydney University,Postgraduate coursework,2025,teaching,82.5,81.4,83.4,published,FOCUS_PGC_UNI_17-YY_INST_CI,AC47
+Western Sydney University,Postgraduate coursework,2025,support,72.5,71.0,73.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,AL47
+Western Sydney University,Postgraduate coursework,2025,resources,87.1,86.1,88.1,published,FOCUS_PGC_UNI_17-YY_INST_CI,AU47
+Western Sydney University,Postgraduate coursework,2017,overall,65.9,63.8,68.0,published,FOCUS_PGC_UNI_17-YY_INST_CI,AV47
+Western Sydney University,Postgraduate coursework,2018,overall,71.9,70.5,73.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,AW47
+Western Sydney University,Postgraduate coursework,2019,overall,72.5,71.1,73.8,published,FOCUS_PGC_UNI_17-YY_INST_CI,AX47
+Western Sydney University,Postgraduate coursework,2020,overall,64.0,62.5,65.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AY47
+Western Sydney University,Postgraduate coursework,2021,overall,65.9,64.3,67.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,AZ47
+Western Sydney University,Postgraduate coursework,2022,overall,70.5,68.8,72.2,published,FOCUS_PGC_UNI_17-YY_INST_CI,BA47
+Western Sydney University,Postgraduate coursework,2023,overall,75.8,74.3,77.3,published,FOCUS_PGC_UNI_17-YY_INST_CI,BB47
+Western Sydney University,Postgraduate coursework,2024,overall,75.7,74.5,76.9,published,FOCUS_PGC_UNI_17-YY_INST_CI,BC47
+Western Sydney University,Postgraduate coursework,2025,overall,76.4,75.3,77.5,published,FOCUS_PGC_UNI_17-YY_INST_CI,BD47

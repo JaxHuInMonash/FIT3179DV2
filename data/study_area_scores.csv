@@ -1,0 +1,265 @@
+group_type,group,level,year,metric,positive_pct,ci_low,ci_high,status,source_sheet,source_cell
+Study area,Agriculture and environmental studies,Undergraduate,2025,skills,83.1,,,published,FOCUS_UG_UNI_1Y_AREA,C5
+Study area,Agriculture and environmental studies,Undergraduate,2025,peer_engagement,57.2,,,published,FOCUS_UG_UNI_1Y_AREA,D5
+Study area,Agriculture and environmental studies,Undergraduate,2025,teaching,88.0,,,published,FOCUS_UG_UNI_1Y_AREA,E5
+Study area,Agriculture and environmental studies,Undergraduate,2025,support,71.7,,,published,FOCUS_UG_UNI_1Y_AREA,F5
+Study area,Agriculture and environmental studies,Undergraduate,2025,resources,89.2,,,published,FOCUS_UG_UNI_1Y_AREA,G5
+Study area,Agriculture and environmental studies,Undergraduate,2025,overall,85.7,,,published,FOCUS_UG_UNI_1Y_AREA,H5
+Study area,Architecture and built environment,Undergraduate,2025,skills,78.5,,,published,FOCUS_UG_UNI_1Y_AREA,C6
+Study area,Architecture and built environment,Undergraduate,2025,peer_engagement,64.7,,,published,FOCUS_UG_UNI_1Y_AREA,D6
+Study area,Architecture and built environment,Undergraduate,2025,teaching,78.6,,,published,FOCUS_UG_UNI_1Y_AREA,E6
+Study area,Architecture and built environment,Undergraduate,2025,support,66.9,,,published,FOCUS_UG_UNI_1Y_AREA,F6
+Study area,Architecture and built environment,Undergraduate,2025,resources,79.2,,,published,FOCUS_UG_UNI_1Y_AREA,G6
+Study area,Architecture and built environment,Undergraduate,2025,overall,73.3,,,published,FOCUS_UG_UNI_1Y_AREA,H6
+Study area,Business and management,Undergraduate,2025,skills,77.1,,,published,FOCUS_UG_UNI_1Y_AREA,C7
+Study area,Business and management,Undergraduate,2025,peer_engagement,61.2,,,published,FOCUS_UG_UNI_1Y_AREA,D7
+Study area,Business and management,Undergraduate,2025,teaching,75.3,,,published,FOCUS_UG_UNI_1Y_AREA,E7
+Study area,Business and management,Undergraduate,2025,support,71.8,,,published,FOCUS_UG_UNI_1Y_AREA,F7
+Study area,Business and management,Undergraduate,2025,resources,82.8,,,published,FOCUS_UG_UNI_1Y_AREA,G7
+Study area,Business and management,Undergraduate,2025,overall,71.7,,,published,FOCUS_UG_UNI_1Y_AREA,H7
+Study area,Communications,Undergraduate,2025,skills,82.2,,,published,FOCUS_UG_UNI_1Y_AREA,C8
+Study area,Communications,Undergraduate,2025,peer_engagement,67.0,,,published,FOCUS_UG_UNI_1Y_AREA,D8
+Study area,Communications,Undergraduate,2025,teaching,82.9,,,published,FOCUS_UG_UNI_1Y_AREA,E8
+Study area,Communications,Undergraduate,2025,support,67.8,,,published,FOCUS_UG_UNI_1Y_AREA,F8
+Study area,Communications,Undergraduate,2025,resources,85.7,,,published,FOCUS_UG_UNI_1Y_AREA,G8
+Study area,Communications,Undergraduate,2025,overall,77.0,,,published,FOCUS_UG_UNI_1Y_AREA,H8
+Study area,Computing and information systems,Undergraduate,2025,skills,74.2,,,published,FOCUS_UG_UNI_1Y_AREA,C9
+Study area,Computing and information systems,Undergraduate,2025,peer_engagement,57.1,,,published,FOCUS_UG_UNI_1Y_AREA,D9
+Study area,Computing and information systems,Undergraduate,2025,teaching,72.0,,,published,FOCUS_UG_UNI_1Y_AREA,E9
+Study area,Computing and information systems,Undergraduate,2025,support,70.6,,,published,FOCUS_UG_UNI_1Y_AREA,F9
+Study area,Computing and information systems,Undergraduate,2025,resources,82.3,,,published,FOCUS_UG_UNI_1Y_AREA,G9
+Study area,Computing and information systems,Undergraduate,2025,overall,64.4,,,published,FOCUS_UG_UNI_1Y_AREA,H9
+Study area,Creative arts,Undergraduate,2025,skills,81.1,,,published,FOCUS_UG_UNI_1Y_AREA,C10
+Study area,Creative arts,Undergraduate,2025,peer_engagement,67.0,,,published,FOCUS_UG_UNI_1Y_AREA,D10
+Study area,Creative arts,Undergraduate,2025,teaching,83.8,,,published,FOCUS_UG_UNI_1Y_AREA,E10
+Study area,Creative arts,Undergraduate,2025,support,64.6,,,published,FOCUS_UG_UNI_1Y_AREA,F10
+Study area,Creative arts,Undergraduate,2025,resources,81.6,,,published,FOCUS_UG_UNI_1Y_AREA,G10
+Study area,Creative arts,Undergraduate,2025,overall,77.1,,,published,FOCUS_UG_UNI_1Y_AREA,H10
+Study area,Dentistry,Undergraduate,2025,skills,85.4,,,published,FOCUS_UG_UNI_1Y_AREA,C11
+Study area,Dentistry,Undergraduate,2025,peer_engagement,74.0,,,published,FOCUS_UG_UNI_1Y_AREA,D11
+Study area,Dentistry,Undergraduate,2025,teaching,75.3,,,published,FOCUS_UG_UNI_1Y_AREA,E11
+Study area,Dentistry,Undergraduate,2025,support,66.2,,,published,FOCUS_UG_UNI_1Y_AREA,F11
+Study area,Dentistry,Undergraduate,2025,resources,75.5,,,published,FOCUS_UG_UNI_1Y_AREA,G11
+Study area,Dentistry,Undergraduate,2025,overall,73.0,,,published,FOCUS_UG_UNI_1Y_AREA,H11
+Study area,Engineering,Undergraduate,2025,skills,78.3,,,published,FOCUS_UG_UNI_1Y_AREA,C12
+Study area,Engineering,Undergraduate,2025,peer_engagement,64.5,,,published,FOCUS_UG_UNI_1Y_AREA,D12
+Study area,Engineering,Undergraduate,2025,teaching,74.8,,,published,FOCUS_UG_UNI_1Y_AREA,E12
+Study area,Engineering,Undergraduate,2025,support,68.4,,,published,FOCUS_UG_UNI_1Y_AREA,F12
+Study area,Engineering,Undergraduate,2025,resources,84.3,,,published,FOCUS_UG_UNI_1Y_AREA,G12
+Study area,Engineering,Undergraduate,2025,overall,71.4,,,published,FOCUS_UG_UNI_1Y_AREA,H12
+Study area,Health services and support,Undergraduate,2025,skills,83.0,,,published,FOCUS_UG_UNI_1Y_AREA,C13
+Study area,Health services and support,Undergraduate,2025,peer_engagement,59.3,,,published,FOCUS_UG_UNI_1Y_AREA,D13
+Study area,Health services and support,Undergraduate,2025,teaching,83.2,,,published,FOCUS_UG_UNI_1Y_AREA,E13
+Study area,Health services and support,Undergraduate,2025,support,72.3,,,published,FOCUS_UG_UNI_1Y_AREA,F13
+Study area,Health services and support,Undergraduate,2025,resources,85.5,,,published,FOCUS_UG_UNI_1Y_AREA,G13
+Study area,Health services and support,Undergraduate,2025,overall,80.2,,,published,FOCUS_UG_UNI_1Y_AREA,H13
+Study area,"Humanities, culture and social sciences",Undergraduate,2025,skills,80.0,,,published,FOCUS_UG_UNI_1Y_AREA,C14
+Study area,"Humanities, culture and social sciences",Undergraduate,2025,peer_engagement,55.7,,,published,FOCUS_UG_UNI_1Y_AREA,D14
+Study area,"Humanities, culture and social sciences",Undergraduate,2025,teaching,83.4,,,published,FOCUS_UG_UNI_1Y_AREA,E14
+Study area,"Humanities, culture and social sciences",Undergraduate,2025,support,66.0,,,published,FOCUS_UG_UNI_1Y_AREA,F14
+Study area,"Humanities, culture and social sciences",Undergraduate,2025,resources,83.8,,,published,FOCUS_UG_UNI_1Y_AREA,G14
+Study area,"Humanities, culture and social sciences",Undergraduate,2025,overall,77.8,,,published,FOCUS_UG_UNI_1Y_AREA,H14
+Study area,Law and paralegal studies,Undergraduate,2025,skills,84.8,,,published,FOCUS_UG_UNI_1Y_AREA,C15
+Study area,Law and paralegal studies,Undergraduate,2025,peer_engagement,54.9,,,published,FOCUS_UG_UNI_1Y_AREA,D15
+Study area,Law and paralegal studies,Undergraduate,2025,teaching,83.2,,,published,FOCUS_UG_UNI_1Y_AREA,E15
+Study area,Law and paralegal studies,Undergraduate,2025,support,68.9,,,published,FOCUS_UG_UNI_1Y_AREA,F15
+Study area,Law and paralegal studies,Undergraduate,2025,resources,83.4,,,published,FOCUS_UG_UNI_1Y_AREA,G15
+Study area,Law and paralegal studies,Undergraduate,2025,overall,80.3,,,published,FOCUS_UG_UNI_1Y_AREA,H15
+Study area,Medicine,Undergraduate,2025,skills,89.8,,,published,FOCUS_UG_UNI_1Y_AREA,C16
+Study area,Medicine,Undergraduate,2025,peer_engagement,83.1,,,published,FOCUS_UG_UNI_1Y_AREA,D16
+Study area,Medicine,Undergraduate,2025,teaching,81.2,,,published,FOCUS_UG_UNI_1Y_AREA,E16
+Study area,Medicine,Undergraduate,2025,support,70.0,,,published,FOCUS_UG_UNI_1Y_AREA,F16
+Study area,Medicine,Undergraduate,2025,resources,78.6,,,published,FOCUS_UG_UNI_1Y_AREA,G16
+Study area,Medicine,Undergraduate,2025,overall,81.0,,,published,FOCUS_UG_UNI_1Y_AREA,H16
+Study area,Nursing,Undergraduate,2025,skills,85.1,,,published,FOCUS_UG_UNI_1Y_AREA,C17
+Study area,Nursing,Undergraduate,2025,peer_engagement,62.5,,,published,FOCUS_UG_UNI_1Y_AREA,D17
+Study area,Nursing,Undergraduate,2025,teaching,79.0,,,published,FOCUS_UG_UNI_1Y_AREA,E17
+Study area,Nursing,Undergraduate,2025,support,74.7,,,published,FOCUS_UG_UNI_1Y_AREA,F17
+Study area,Nursing,Undergraduate,2025,resources,84.3,,,published,FOCUS_UG_UNI_1Y_AREA,G17
+Study area,Nursing,Undergraduate,2025,overall,77.6,,,published,FOCUS_UG_UNI_1Y_AREA,H17
+Study area,Pharmacy,Undergraduate,2025,skills,85.4,,,published,FOCUS_UG_UNI_1Y_AREA,C18
+Study area,Pharmacy,Undergraduate,2025,peer_engagement,68.3,,,published,FOCUS_UG_UNI_1Y_AREA,D18
+Study area,Pharmacy,Undergraduate,2025,teaching,80.6,,,published,FOCUS_UG_UNI_1Y_AREA,E18
+Study area,Pharmacy,Undergraduate,2025,support,72.0,,,published,FOCUS_UG_UNI_1Y_AREA,F18
+Study area,Pharmacy,Undergraduate,2025,resources,82.9,,,published,FOCUS_UG_UNI_1Y_AREA,G18
+Study area,Pharmacy,Undergraduate,2025,overall,77.1,,,published,FOCUS_UG_UNI_1Y_AREA,H18
+Study area,Psychology,Undergraduate,2025,skills,81.6,,,published,FOCUS_UG_UNI_1Y_AREA,C19
+Study area,Psychology,Undergraduate,2025,peer_engagement,48.3,,,published,FOCUS_UG_UNI_1Y_AREA,D19
+Study area,Psychology,Undergraduate,2025,teaching,83.2,,,published,FOCUS_UG_UNI_1Y_AREA,E19
+Study area,Psychology,Undergraduate,2025,support,72.2,,,published,FOCUS_UG_UNI_1Y_AREA,F19
+Study area,Psychology,Undergraduate,2025,resources,84.5,,,published,FOCUS_UG_UNI_1Y_AREA,G19
+Study area,Psychology,Undergraduate,2025,overall,79.0,,,published,FOCUS_UG_UNI_1Y_AREA,H19
+Study area,Rehabilitation,Undergraduate,2025,skills,88.1,,,published,FOCUS_UG_UNI_1Y_AREA,C20
+Study area,Rehabilitation,Undergraduate,2025,peer_engagement,73.8,,,published,FOCUS_UG_UNI_1Y_AREA,D20
+Study area,Rehabilitation,Undergraduate,2025,teaching,84.6,,,published,FOCUS_UG_UNI_1Y_AREA,E20
+Study area,Rehabilitation,Undergraduate,2025,support,71.7,,,published,FOCUS_UG_UNI_1Y_AREA,F20
+Study area,Rehabilitation,Undergraduate,2025,resources,84.5,,,published,FOCUS_UG_UNI_1Y_AREA,G20
+Study area,Rehabilitation,Undergraduate,2025,overall,82.7,,,published,FOCUS_UG_UNI_1Y_AREA,H20
+Study area,Science and mathematics,Undergraduate,2025,skills,79.6,,,published,FOCUS_UG_UNI_1Y_AREA,C21
+Study area,Science and mathematics,Undergraduate,2025,peer_engagement,60.2,,,published,FOCUS_UG_UNI_1Y_AREA,D21
+Study area,Science and mathematics,Undergraduate,2025,teaching,82.5,,,published,FOCUS_UG_UNI_1Y_AREA,E21
+Study area,Science and mathematics,Undergraduate,2025,support,68.8,,,published,FOCUS_UG_UNI_1Y_AREA,F21
+Study area,Science and mathematics,Undergraduate,2025,resources,87.3,,,published,FOCUS_UG_UNI_1Y_AREA,G21
+Study area,Science and mathematics,Undergraduate,2025,overall,77.4,,,published,FOCUS_UG_UNI_1Y_AREA,H21
+Study area,Social work,Undergraduate,2025,skills,87.2,,,published,FOCUS_UG_UNI_1Y_AREA,C22
+Study area,Social work,Undergraduate,2025,peer_engagement,55.6,,,published,FOCUS_UG_UNI_1Y_AREA,D22
+Study area,Social work,Undergraduate,2025,teaching,83.3,,,published,FOCUS_UG_UNI_1Y_AREA,E22
+Study area,Social work,Undergraduate,2025,support,72.5,,,published,FOCUS_UG_UNI_1Y_AREA,F22
+Study area,Social work,Undergraduate,2025,resources,83.1,,,published,FOCUS_UG_UNI_1Y_AREA,G22
+Study area,Social work,Undergraduate,2025,overall,79.4,,,published,FOCUS_UG_UNI_1Y_AREA,H22
+Study area,Teacher education,Undergraduate,2025,skills,80.7,,,published,FOCUS_UG_UNI_1Y_AREA,C23
+Study area,Teacher education,Undergraduate,2025,peer_engagement,52.2,,,published,FOCUS_UG_UNI_1Y_AREA,D23
+Study area,Teacher education,Undergraduate,2025,teaching,79.9,,,published,FOCUS_UG_UNI_1Y_AREA,E23
+Study area,Teacher education,Undergraduate,2025,support,70.8,,,published,FOCUS_UG_UNI_1Y_AREA,F23
+Study area,Teacher education,Undergraduate,2025,resources,82.0,,,published,FOCUS_UG_UNI_1Y_AREA,G23
+Study area,Teacher education,Undergraduate,2025,overall,78.3,,,published,FOCUS_UG_UNI_1Y_AREA,H23
+Study area,"Tourism, hospitality, personal services, sport and recreation",Undergraduate,2025,skills,84.0,,,published,FOCUS_UG_UNI_1Y_AREA,C24
+Study area,"Tourism, hospitality, personal services, sport and recreation",Undergraduate,2025,peer_engagement,62.3,,,published,FOCUS_UG_UNI_1Y_AREA,D24
+Study area,"Tourism, hospitality, personal services, sport and recreation",Undergraduate,2025,teaching,82.2,,,published,FOCUS_UG_UNI_1Y_AREA,E24
+Study area,"Tourism, hospitality, personal services, sport and recreation",Undergraduate,2025,support,73.8,,,published,FOCUS_UG_UNI_1Y_AREA,F24
+Study area,"Tourism, hospitality, personal services, sport and recreation",Undergraduate,2025,resources,86.7,,,published,FOCUS_UG_UNI_1Y_AREA,G24
+Study area,"Tourism, hospitality, personal services, sport and recreation",Undergraduate,2025,overall,81.3,,,published,FOCUS_UG_UNI_1Y_AREA,H24
+Study area,Veterinary science,Undergraduate,2025,skills,84.9,,,published,FOCUS_UG_UNI_1Y_AREA,C25
+Study area,Veterinary science,Undergraduate,2025,peer_engagement,73.3,,,published,FOCUS_UG_UNI_1Y_AREA,D25
+Study area,Veterinary science,Undergraduate,2025,teaching,85.8,,,published,FOCUS_UG_UNI_1Y_AREA,E25
+Study area,Veterinary science,Undergraduate,2025,support,67.0,,,published,FOCUS_UG_UNI_1Y_AREA,F25
+Study area,Veterinary science,Undergraduate,2025,resources,85.5,,,published,FOCUS_UG_UNI_1Y_AREA,G25
+Study area,Veterinary science,Undergraduate,2025,overall,85.2,,,published,FOCUS_UG_UNI_1Y_AREA,H25
+Study area,All study areas,Undergraduate,2025,skills,80.9,,,published,FOCUS_UG_UNI_1Y_AREA,C26
+Study area,All study areas,Undergraduate,2025,peer_engagement,59.9,,,published,FOCUS_UG_UNI_1Y_AREA,D26
+Study area,All study areas,Undergraduate,2025,teaching,80.0,,,published,FOCUS_UG_UNI_1Y_AREA,E26
+Study area,All study areas,Undergraduate,2025,support,70.4,,,published,FOCUS_UG_UNI_1Y_AREA,F26
+Study area,All study areas,Undergraduate,2025,resources,83.9,,,published,FOCUS_UG_UNI_1Y_AREA,G26
+Study area,All study areas,Undergraduate,2025,overall,76.2,,,published,FOCUS_UG_UNI_1Y_AREA,H26
+Study area,Agriculture and environmental studies,Postgraduate coursework,2025,skills,86.3,,,published,FOCUS_PGC_UNI_1Y_AREA,C5
+Study area,Agriculture and environmental studies,Postgraduate coursework,2025,peer_engagement,68.1,,,published,FOCUS_PGC_UNI_1Y_AREA,D5
+Study area,Agriculture and environmental studies,Postgraduate coursework,2025,teaching,87.4,,,published,FOCUS_PGC_UNI_1Y_AREA,E5
+Study area,Agriculture and environmental studies,Postgraduate coursework,2025,support,78.3,,,published,FOCUS_PGC_UNI_1Y_AREA,F5
+Study area,Agriculture and environmental studies,Postgraduate coursework,2025,resources,91.2,,,published,FOCUS_PGC_UNI_1Y_AREA,G5
+Study area,Agriculture and environmental studies,Postgraduate coursework,2025,overall,79.7,,,published,FOCUS_PGC_UNI_1Y_AREA,H5
+Study area,Architecture and built environment,Postgraduate coursework,2025,skills,84.3,,,published,FOCUS_PGC_UNI_1Y_AREA,C6
+Study area,Architecture and built environment,Postgraduate coursework,2025,peer_engagement,74.3,,,published,FOCUS_PGC_UNI_1Y_AREA,D6
+Study area,Architecture and built environment,Postgraduate coursework,2025,teaching,82.4,,,published,FOCUS_PGC_UNI_1Y_AREA,E6
+Study area,Architecture and built environment,Postgraduate coursework,2025,support,70.7,,,published,FOCUS_PGC_UNI_1Y_AREA,F6
+Study area,Architecture and built environment,Postgraduate coursework,2025,resources,81.1,,,published,FOCUS_PGC_UNI_1Y_AREA,G6
+Study area,Architecture and built environment,Postgraduate coursework,2025,overall,74.0,,,published,FOCUS_PGC_UNI_1Y_AREA,H6
+Study area,Business and management,Postgraduate coursework,2025,skills,85.2,,,published,FOCUS_PGC_UNI_1Y_AREA,C7
+Study area,Business and management,Postgraduate coursework,2025,peer_engagement,72.5,,,published,FOCUS_PGC_UNI_1Y_AREA,D7
+Study area,Business and management,Postgraduate coursework,2025,teaching,85.1,,,published,FOCUS_PGC_UNI_1Y_AREA,E7
+Study area,Business and management,Postgraduate coursework,2025,support,81.1,,,published,FOCUS_PGC_UNI_1Y_AREA,F7
+Study area,Business and management,Postgraduate coursework,2025,resources,89.5,,,published,FOCUS_PGC_UNI_1Y_AREA,G7
+Study area,Business and management,Postgraduate coursework,2025,overall,77.7,,,published,FOCUS_PGC_UNI_1Y_AREA,H7
+Study area,Communications,Postgraduate coursework,2025,skills,86.2,,,published,FOCUS_PGC_UNI_1Y_AREA,C8
+Study area,Communications,Postgraduate coursework,2025,peer_engagement,74.7,,,published,FOCUS_PGC_UNI_1Y_AREA,D8
+Study area,Communications,Postgraduate coursework,2025,teaching,87.6,,,published,FOCUS_PGC_UNI_1Y_AREA,E8
+Study area,Communications,Postgraduate coursework,2025,support,77.0,,,published,FOCUS_PGC_UNI_1Y_AREA,F8
+Study area,Communications,Postgraduate coursework,2025,resources,91.3,,,published,FOCUS_PGC_UNI_1Y_AREA,G8
+Study area,Communications,Postgraduate coursework,2025,overall,80.2,,,published,FOCUS_PGC_UNI_1Y_AREA,H8
+Study area,Computing and information systems,Postgraduate coursework,2025,skills,78.8,,,published,FOCUS_PGC_UNI_1Y_AREA,C9
+Study area,Computing and information systems,Postgraduate coursework,2025,peer_engagement,66.0,,,published,FOCUS_PGC_UNI_1Y_AREA,D9
+Study area,Computing and information systems,Postgraduate coursework,2025,teaching,76.3,,,published,FOCUS_PGC_UNI_1Y_AREA,E9
+Study area,Computing and information systems,Postgraduate coursework,2025,support,75.9,,,published,FOCUS_PGC_UNI_1Y_AREA,F9
+Study area,Computing and information systems,Postgraduate coursework,2025,resources,86.4,,,published,FOCUS_PGC_UNI_1Y_AREA,G9
+Study area,Computing and information systems,Postgraduate coursework,2025,overall,67.0,,,published,FOCUS_PGC_UNI_1Y_AREA,H9
+Study area,Creative arts,Postgraduate coursework,2025,skills,84.7,,,published,FOCUS_PGC_UNI_1Y_AREA,C10
+Study area,Creative arts,Postgraduate coursework,2025,peer_engagement,75.6,,,published,FOCUS_PGC_UNI_1Y_AREA,D10
+Study area,Creative arts,Postgraduate coursework,2025,teaching,86.9,,,published,FOCUS_PGC_UNI_1Y_AREA,E10
+Study area,Creative arts,Postgraduate coursework,2025,support,71.6,,,published,FOCUS_PGC_UNI_1Y_AREA,F10
+Study area,Creative arts,Postgraduate coursework,2025,resources,86.6,,,published,FOCUS_PGC_UNI_1Y_AREA,G10
+Study area,Creative arts,Postgraduate coursework,2025,overall,77.1,,,published,FOCUS_PGC_UNI_1Y_AREA,H10
+Study area,Dentistry,Postgraduate coursework,2025,skills,82.3,,,published,FOCUS_PGC_UNI_1Y_AREA,C11
+Study area,Dentistry,Postgraduate coursework,2025,peer_engagement,65.6,,,published,FOCUS_PGC_UNI_1Y_AREA,D11
+Study area,Dentistry,Postgraduate coursework,2025,teaching,70.6,,,published,FOCUS_PGC_UNI_1Y_AREA,E11
+Study area,Dentistry,Postgraduate coursework,2025,support,45.1,,,published,FOCUS_PGC_UNI_1Y_AREA,F11
+Study area,Dentistry,Postgraduate coursework,2025,resources,64.9,,,published,FOCUS_PGC_UNI_1Y_AREA,G11
+Study area,Dentistry,Postgraduate coursework,2025,overall,64.0,,,published,FOCUS_PGC_UNI_1Y_AREA,H11
+Study area,Engineering,Postgraduate coursework,2025,skills,85.0,,,published,FOCUS_PGC_UNI_1Y_AREA,C12
+Study area,Engineering,Postgraduate coursework,2025,peer_engagement,73.0,,,published,FOCUS_PGC_UNI_1Y_AREA,D12
+Study area,Engineering,Postgraduate coursework,2025,teaching,83.9,,,published,FOCUS_PGC_UNI_1Y_AREA,E12
+Study area,Engineering,Postgraduate coursework,2025,support,80.6,,,published,FOCUS_PGC_UNI_1Y_AREA,F12
+Study area,Engineering,Postgraduate coursework,2025,resources,91.6,,,published,FOCUS_PGC_UNI_1Y_AREA,G12
+Study area,Engineering,Postgraduate coursework,2025,overall,75.7,,,published,FOCUS_PGC_UNI_1Y_AREA,H12
+Study area,Health services and support,Postgraduate coursework,2025,skills,85.8,,,published,FOCUS_PGC_UNI_1Y_AREA,C13
+Study area,Health services and support,Postgraduate coursework,2025,peer_engagement,50.4,,,published,FOCUS_PGC_UNI_1Y_AREA,D13
+Study area,Health services and support,Postgraduate coursework,2025,teaching,87.5,,,published,FOCUS_PGC_UNI_1Y_AREA,E13
+Study area,Health services and support,Postgraduate coursework,2025,support,78.1,,,published,FOCUS_PGC_UNI_1Y_AREA,F13
+Study area,Health services and support,Postgraduate coursework,2025,resources,86.7,,,published,FOCUS_PGC_UNI_1Y_AREA,G13
+Study area,Health services and support,Postgraduate coursework,2025,overall,82.8,,,published,FOCUS_PGC_UNI_1Y_AREA,H13
+Study area,"Humanities, culture and social sciences",Postgraduate coursework,2025,skills,87.3,,,published,FOCUS_PGC_UNI_1Y_AREA,C14
+Study area,"Humanities, culture and social sciences",Postgraduate coursework,2025,peer_engagement,60.1,,,published,FOCUS_PGC_UNI_1Y_AREA,D14
+Study area,"Humanities, culture and social sciences",Postgraduate coursework,2025,teaching,90.4,,,published,FOCUS_PGC_UNI_1Y_AREA,E14
+Study area,"Humanities, culture and social sciences",Postgraduate coursework,2025,support,79.7,,,published,FOCUS_PGC_UNI_1Y_AREA,F14
+Study area,"Humanities, culture and social sciences",Postgraduate coursework,2025,resources,91.3,,,published,FOCUS_PGC_UNI_1Y_AREA,G14
+Study area,"Humanities, culture and social sciences",Postgraduate coursework,2025,overall,84.3,,,published,FOCUS_PGC_UNI_1Y_AREA,H14
+Study area,Law and paralegal studies,Postgraduate coursework,2025,skills,82.9,,,published,FOCUS_PGC_UNI_1Y_AREA,C15
+Study area,Law and paralegal studies,Postgraduate coursework,2025,peer_engagement,53.2,,,published,FOCUS_PGC_UNI_1Y_AREA,D15
+Study area,Law and paralegal studies,Postgraduate coursework,2025,teaching,83.8,,,published,FOCUS_PGC_UNI_1Y_AREA,E15
+Study area,Law and paralegal studies,Postgraduate coursework,2025,support,72.4,,,published,FOCUS_PGC_UNI_1Y_AREA,F15
+Study area,Law and paralegal studies,Postgraduate coursework,2025,resources,82.9,,,published,FOCUS_PGC_UNI_1Y_AREA,G15
+Study area,Law and paralegal studies,Postgraduate coursework,2025,overall,78.3,,,published,FOCUS_PGC_UNI_1Y_AREA,H15
+Study area,Medicine,Postgraduate coursework,2025,skills,82.7,,,published,FOCUS_PGC_UNI_1Y_AREA,C16
+Study area,Medicine,Postgraduate coursework,2025,peer_engagement,67.7,,,published,FOCUS_PGC_UNI_1Y_AREA,D16
+Study area,Medicine,Postgraduate coursework,2025,teaching,71.3,,,published,FOCUS_PGC_UNI_1Y_AREA,E16
+Study area,Medicine,Postgraduate coursework,2025,support,56.9,,,published,FOCUS_PGC_UNI_1Y_AREA,F16
+Study area,Medicine,Postgraduate coursework,2025,resources,62.5,,,published,FOCUS_PGC_UNI_1Y_AREA,G16
+Study area,Medicine,Postgraduate coursework,2025,overall,69.8,,,published,FOCUS_PGC_UNI_1Y_AREA,H16
+Study area,Nursing,Postgraduate coursework,2025,skills,84.9,,,published,FOCUS_PGC_UNI_1Y_AREA,C17
+Study area,Nursing,Postgraduate coursework,2025,peer_engagement,34.9,,,published,FOCUS_PGC_UNI_1Y_AREA,D17
+Study area,Nursing,Postgraduate coursework,2025,teaching,85.6,,,published,FOCUS_PGC_UNI_1Y_AREA,E17
+Study area,Nursing,Postgraduate coursework,2025,support,80.4,,,published,FOCUS_PGC_UNI_1Y_AREA,F17
+Study area,Nursing,Postgraduate coursework,2025,resources,87.0,,,published,FOCUS_PGC_UNI_1Y_AREA,G17
+Study area,Nursing,Postgraduate coursework,2025,overall,83.1,,,published,FOCUS_PGC_UNI_1Y_AREA,H17
+Study area,Pharmacy,Postgraduate coursework,2025,skills,87.0,,,published,FOCUS_PGC_UNI_1Y_AREA,C18
+Study area,Pharmacy,Postgraduate coursework,2025,peer_engagement,68.1,,,published,FOCUS_PGC_UNI_1Y_AREA,D18
+Study area,Pharmacy,Postgraduate coursework,2025,teaching,82.0,,,published,FOCUS_PGC_UNI_1Y_AREA,E18
+Study area,Pharmacy,Postgraduate coursework,2025,support,75.7,,,published,FOCUS_PGC_UNI_1Y_AREA,F18
+Study area,Pharmacy,Postgraduate coursework,2025,resources,84.4,,,published,FOCUS_PGC_UNI_1Y_AREA,G18
+Study area,Pharmacy,Postgraduate coursework,2025,overall,74.7,,,published,FOCUS_PGC_UNI_1Y_AREA,H18
+Study area,Psychology,Postgraduate coursework,2025,skills,85.0,,,published,FOCUS_PGC_UNI_1Y_AREA,C19
+Study area,Psychology,Postgraduate coursework,2025,peer_engagement,52.2,,,published,FOCUS_PGC_UNI_1Y_AREA,D19
+Study area,Psychology,Postgraduate coursework,2025,teaching,85.8,,,published,FOCUS_PGC_UNI_1Y_AREA,E19
+Study area,Psychology,Postgraduate coursework,2025,support,73.0,,,published,FOCUS_PGC_UNI_1Y_AREA,F19
+Study area,Psychology,Postgraduate coursework,2025,resources,80.2,,,published,FOCUS_PGC_UNI_1Y_AREA,G19
+Study area,Psychology,Postgraduate coursework,2025,overall,80.7,,,published,FOCUS_PGC_UNI_1Y_AREA,H19
+Study area,Rehabilitation,Postgraduate coursework,2025,skills,88.7,,,published,FOCUS_PGC_UNI_1Y_AREA,C20
+Study area,Rehabilitation,Postgraduate coursework,2025,peer_engagement,75.8,,,published,FOCUS_PGC_UNI_1Y_AREA,D20
+Study area,Rehabilitation,Postgraduate coursework,2025,teaching,81.7,,,published,FOCUS_PGC_UNI_1Y_AREA,E20
+Study area,Rehabilitation,Postgraduate coursework,2025,support,68.0,,,published,FOCUS_PGC_UNI_1Y_AREA,F20
+Study area,Rehabilitation,Postgraduate coursework,2025,resources,81.4,,,published,FOCUS_PGC_UNI_1Y_AREA,G20
+Study area,Rehabilitation,Postgraduate coursework,2025,overall,73.5,,,published,FOCUS_PGC_UNI_1Y_AREA,H20
+Study area,Science and mathematics,Postgraduate coursework,2025,skills,83.8,,,published,FOCUS_PGC_UNI_1Y_AREA,C21
+Study area,Science and mathematics,Postgraduate coursework,2025,peer_engagement,63.5,,,published,FOCUS_PGC_UNI_1Y_AREA,D21
+Study area,Science and mathematics,Postgraduate coursework,2025,teaching,84.6,,,published,FOCUS_PGC_UNI_1Y_AREA,E21
+Study area,Science and mathematics,Postgraduate coursework,2025,support,79.0,,,published,FOCUS_PGC_UNI_1Y_AREA,F21
+Study area,Science and mathematics,Postgraduate coursework,2025,resources,89.8,,,published,FOCUS_PGC_UNI_1Y_AREA,G21
+Study area,Science and mathematics,Postgraduate coursework,2025,overall,77.5,,,published,FOCUS_PGC_UNI_1Y_AREA,H21
+Study area,Social work,Postgraduate coursework,2025,skills,82.3,,,published,FOCUS_PGC_UNI_1Y_AREA,C22
+Study area,Social work,Postgraduate coursework,2025,peer_engagement,59.8,,,published,FOCUS_PGC_UNI_1Y_AREA,D22
+Study area,Social work,Postgraduate coursework,2025,teaching,78.6,,,published,FOCUS_PGC_UNI_1Y_AREA,E22
+Study area,Social work,Postgraduate coursework,2025,support,69.9,,,published,FOCUS_PGC_UNI_1Y_AREA,F22
+Study area,Social work,Postgraduate coursework,2025,resources,80.8,,,published,FOCUS_PGC_UNI_1Y_AREA,G22
+Study area,Social work,Postgraduate coursework,2025,overall,72.7,,,published,FOCUS_PGC_UNI_1Y_AREA,H22
+Study area,Teacher education,Postgraduate coursework,2025,skills,81.3,,,published,FOCUS_PGC_UNI_1Y_AREA,C23
+Study area,Teacher education,Postgraduate coursework,2025,peer_engagement,48.7,,,published,FOCUS_PGC_UNI_1Y_AREA,D23
+Study area,Teacher education,Postgraduate coursework,2025,teaching,83.8,,,published,FOCUS_PGC_UNI_1Y_AREA,E23
+Study area,Teacher education,Postgraduate coursework,2025,support,75.5,,,published,FOCUS_PGC_UNI_1Y_AREA,F23
+Study area,Teacher education,Postgraduate coursework,2025,resources,84.3,,,published,FOCUS_PGC_UNI_1Y_AREA,G23
+Study area,Teacher education,Postgraduate coursework,2025,overall,78.5,,,published,FOCUS_PGC_UNI_1Y_AREA,H23
+Study area,"Tourism, hospitality, personal services, sport and recreation",Postgraduate coursework,2025,skills,85.7,,,published,FOCUS_PGC_UNI_1Y_AREA,C24
+Study area,"Tourism, hospitality, personal services, sport and recreation",Postgraduate coursework,2025,peer_engagement,72.0,,,published,FOCUS_PGC_UNI_1Y_AREA,D24
+Study area,"Tourism, hospitality, personal services, sport and recreation",Postgraduate coursework,2025,teaching,88.3,,,published,FOCUS_PGC_UNI_1Y_AREA,E24
+Study area,"Tourism, hospitality, personal services, sport and recreation",Postgraduate coursework,2025,support,73.6,,,published,FOCUS_PGC_UNI_1Y_AREA,F24
+Study area,"Tourism, hospitality, personal services, sport and recreation",Postgraduate coursework,2025,resources,89.8,,,published,FOCUS_PGC_UNI_1Y_AREA,G24
+Study area,"Tourism, hospitality, personal services, sport and recreation",Postgraduate coursework,2025,overall,85.5,,,published,FOCUS_PGC_UNI_1Y_AREA,H24
+Study area,Veterinary science,Postgraduate coursework,2025,skills,92.1,,,published,FOCUS_PGC_UNI_1Y_AREA,C25
+Study area,Veterinary science,Postgraduate coursework,2025,peer_engagement,82.8,,,published,FOCUS_PGC_UNI_1Y_AREA,D25
+Study area,Veterinary science,Postgraduate coursework,2025,teaching,81.8,,,published,FOCUS_PGC_UNI_1Y_AREA,E25
+Study area,Veterinary science,Postgraduate coursework,2025,support,50.0,,,published,FOCUS_PGC_UNI_1Y_AREA,F25
+Study area,Veterinary science,Postgraduate coursework,2025,resources,81.4,,,published,FOCUS_PGC_UNI_1Y_AREA,G25
+Study area,Veterinary science,Postgraduate coursework,2025,overall,75.3,,,published,FOCUS_PGC_UNI_1Y_AREA,H25
+Study area,All study areas,Postgraduate coursework,2025,skills,83.7,,,published,FOCUS_PGC_UNI_1Y_AREA,C26
+Study area,All study areas,Postgraduate coursework,2025,peer_engagement,60.8,,,published,FOCUS_PGC_UNI_1Y_AREA,D26
+Study area,All study areas,Postgraduate coursework,2025,teaching,83.5,,,published,FOCUS_PGC_UNI_1Y_AREA,E26
+Study area,All study areas,Postgraduate coursework,2025,support,76.8,,,published,FOCUS_PGC_UNI_1Y_AREA,F26
+Study area,All study areas,Postgraduate coursework,2025,resources,86.3,,,published,FOCUS_PGC_UNI_1Y_AREA,G26
+Study area,All study areas,Postgraduate coursework,2025,overall,77.1,,,published,FOCUS_PGC_UNI_1Y_AREA,H26

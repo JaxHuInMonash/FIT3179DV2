@@ -1,0 +1,739 @@
+reason,level,year,positive_pct,ci_low,ci_high,status,source_sheet,source_cell
+Academic exchange *,Undergraduate,2017,9.4,,,published,CONSID_UG_UNI_17-YY_CH,C5
+Academic exchange *,Undergraduate,2018,10.0,,,published,CONSID_UG_UNI_17-YY_CH,D5
+Academic exchange *,Undergraduate,2019,10.2,,,published,CONSID_UG_UNI_17-YY_CH,E5
+Academic exchange *,Undergraduate,2020,8.6,,,published,CONSID_UG_UNI_17-YY_CH,F5
+Academic exchange *,Undergraduate,2021,9.5,,,published,CONSID_UG_UNI_17-YY_CH,G5
+Academic exchange *,Undergraduate,2022,9.1,,,published,CONSID_UG_UNI_17-YY_CH,H5
+Academic exchange *,Undergraduate,2023,,,,unavailable,CONSID_UG_UNI_17-YY_CH,I5
+Academic exchange *,Undergraduate,2024,,,,unavailable,CONSID_UG_UNI_17-YY_CH,J5
+Academic exchange *,Undergraduate,2025,,,,unavailable,CONSID_UG_UNI_17-YY_CH,K5
+Boredom/lack of interest,Undergraduate,2017,22.7,,,published,CONSID_UG_UNI_17-YY_CH,C6
+Boredom/lack of interest,Undergraduate,2018,22.1,,,published,CONSID_UG_UNI_17-YY_CH,D6
+Boredom/lack of interest,Undergraduate,2019,21.5,,,published,CONSID_UG_UNI_17-YY_CH,E6
+Boredom/lack of interest,Undergraduate,2020,20.4,,,published,CONSID_UG_UNI_17-YY_CH,F6
+Boredom/lack of interest,Undergraduate,2021,22.8,,,published,CONSID_UG_UNI_17-YY_CH,G6
+Boredom/lack of interest,Undergraduate,2022,22.0,,,published,CONSID_UG_UNI_17-YY_CH,H6
+Boredom/lack of interest,Undergraduate,2023,21.2,,,published,CONSID_UG_UNI_17-YY_CH,I6
+Boredom/lack of interest,Undergraduate,2024,21.6,,,published,CONSID_UG_UNI_17-YY_CH,J6
+Boredom/lack of interest,Undergraduate,2025,21.5,,,published,CONSID_UG_UNI_17-YY_CH,K6
+Change of direction *,Undergraduate,2017,17.2,,,published,CONSID_UG_UNI_17-YY_CH,C7
+Change of direction *,Undergraduate,2018,17.5,,,published,CONSID_UG_UNI_17-YY_CH,D7
+Change of direction *,Undergraduate,2019,16.5,,,published,CONSID_UG_UNI_17-YY_CH,E7
+Change of direction *,Undergraduate,2020,13.6,,,published,CONSID_UG_UNI_17-YY_CH,F7
+Change of direction *,Undergraduate,2021,15.4,,,published,CONSID_UG_UNI_17-YY_CH,G7
+Change of direction *,Undergraduate,2022,15.4,,,published,CONSID_UG_UNI_17-YY_CH,H7
+Change of direction *,Undergraduate,2023,,,,unavailable,CONSID_UG_UNI_17-YY_CH,I7
+Change of direction *,Undergraduate,2024,,,,unavailable,CONSID_UG_UNI_17-YY_CH,J7
+Change of direction *,Undergraduate,2025,,,,unavailable,CONSID_UG_UNI_17-YY_CH,K7
+Commuting difficulties,Undergraduate,2017,11.8,,,published,CONSID_UG_UNI_17-YY_CH,C8
+Commuting difficulties,Undergraduate,2018,12.5,,,published,CONSID_UG_UNI_17-YY_CH,D8
+Commuting difficulties,Undergraduate,2019,12.8,,,published,CONSID_UG_UNI_17-YY_CH,E8
+Commuting difficulties,Undergraduate,2020,8.3,,,published,CONSID_UG_UNI_17-YY_CH,F8
+Commuting difficulties,Undergraduate,2021,8.7,,,published,CONSID_UG_UNI_17-YY_CH,G8
+Commuting difficulties,Undergraduate,2022,11.2,,,published,CONSID_UG_UNI_17-YY_CH,H8
+Commuting difficulties,Undergraduate,2023,15.6,,,published,CONSID_UG_UNI_17-YY_CH,I8
+Commuting difficulties,Undergraduate,2024,16.5,,,published,CONSID_UG_UNI_17-YY_CH,J8
+Commuting difficulties,Undergraduate,2025,16.5,,,published,CONSID_UG_UNI_17-YY_CH,K8
+Concerns about my institution's reputation,Undergraduate,2017,8.2,,,published,CONSID_UG_UNI_17-YY_CH,C9
+Concerns about my institution's reputation,Undergraduate,2018,8.1,,,published,CONSID_UG_UNI_17-YY_CH,D9
+Concerns about my institution's reputation,Undergraduate,2019,9.1,,,published,CONSID_UG_UNI_17-YY_CH,E9
+Concerns about my institution's reputation,Undergraduate,2020,8.2,,,published,CONSID_UG_UNI_17-YY_CH,F9
+Concerns about my institution's reputation,Undergraduate,2021,7.9,,,published,CONSID_UG_UNI_17-YY_CH,G9
+Concerns about my institution's reputation,Undergraduate,2022,8.4,,,published,CONSID_UG_UNI_17-YY_CH,H9
+Concerns about my institution's reputation,Undergraduate,2023,9.6,,,published,CONSID_UG_UNI_17-YY_CH,I9
+Concerns about my institution's reputation,Undergraduate,2024,10.7,,,published,CONSID_UG_UNI_17-YY_CH,J9
+Concerns about my institution's reputation,Undergraduate,2025,12.8,,,published,CONSID_UG_UNI_17-YY_CH,K9
+Course expectations not met,Undergraduate,2017,22.1,,,published,CONSID_UG_UNI_17-YY_CH,C10
+Course expectations not met,Undergraduate,2018,21.3,,,published,CONSID_UG_UNI_17-YY_CH,D10
+Course expectations not met,Undergraduate,2019,21.9,,,published,CONSID_UG_UNI_17-YY_CH,E10
+Course expectations not met,Undergraduate,2020,26.6,,,published,CONSID_UG_UNI_17-YY_CH,F10
+Course expectations not met,Undergraduate,2021,25.7,,,published,CONSID_UG_UNI_17-YY_CH,G10
+Course expectations not met,Undergraduate,2022,25.5,,,published,CONSID_UG_UNI_17-YY_CH,H10
+Course expectations not met,Undergraduate,2023,28.0,,,published,CONSID_UG_UNI_17-YY_CH,I10
+Course expectations not met,Undergraduate,2024,27.8,,,published,CONSID_UG_UNI_17-YY_CH,J10
+Course expectations not met,Undergraduate,2025,27.7,,,published,CONSID_UG_UNI_17-YY_CH,K10
+Difficulty with study workload,Undergraduate,2017,26.1,,,published,CONSID_UG_UNI_17-YY_CH,C11
+Difficulty with study workload,Undergraduate,2018,25.2,,,published,CONSID_UG_UNI_17-YY_CH,D11
+Difficulty with study workload,Undergraduate,2019,25.9,,,published,CONSID_UG_UNI_17-YY_CH,E11
+Difficulty with study workload,Undergraduate,2020,27.6,,,published,CONSID_UG_UNI_17-YY_CH,F11
+Difficulty with study workload,Undergraduate,2021,27.2,,,published,CONSID_UG_UNI_17-YY_CH,G11
+Difficulty with study workload,Undergraduate,2022,28.5,,,published,CONSID_UG_UNI_17-YY_CH,H11
+Difficulty with study workload,Undergraduate,2023,38.9,,,published,CONSID_UG_UNI_17-YY_CH,I11
+Difficulty with study workload,Undergraduate,2024,36.8,,,published,CONSID_UG_UNI_17-YY_CH,J11
+Difficulty with study workload,Undergraduate,2025,33.9,,,published,CONSID_UG_UNI_17-YY_CH,K11
+Family caring responsibilities,Undergraduate,2017,16.1,,,published,CONSID_UG_UNI_17-YY_CH,C12
+Family caring responsibilities,Undergraduate,2018,16.1,,,published,CONSID_UG_UNI_17-YY_CH,D12
+Family caring responsibilities,Undergraduate,2019,15.6,,,published,CONSID_UG_UNI_17-YY_CH,E12
+Family caring responsibilities,Undergraduate,2020,15.9,,,published,CONSID_UG_UNI_17-YY_CH,F12
+Family caring responsibilities,Undergraduate,2021,15.2,,,published,CONSID_UG_UNI_17-YY_CH,G12
+Family caring responsibilities,Undergraduate,2022,16.2,,,published,CONSID_UG_UNI_17-YY_CH,H12
+Family caring responsibilities,Undergraduate,2023,18.4,,,published,CONSID_UG_UNI_17-YY_CH,I12
+Family caring responsibilities,Undergraduate,2024,18.0,,,published,CONSID_UG_UNI_17-YY_CH,J12
+Family caring responsibilities,Undergraduate,2025,16.5,,,published,CONSID_UG_UNI_17-YY_CH,K12
+Fee difficulties *,Undergraduate,2017,9.6,,,published,CONSID_UG_UNI_17-YY_CH,C13
+Fee difficulties *,Undergraduate,2018,9.9,,,published,CONSID_UG_UNI_17-YY_CH,D13
+Fee difficulties *,Undergraduate,2019,9.4,,,published,CONSID_UG_UNI_17-YY_CH,E13
+Fee difficulties *,Undergraduate,2020,11.2,,,published,CONSID_UG_UNI_17-YY_CH,F13
+Fee difficulties *,Undergraduate,2021,9.8,,,published,CONSID_UG_UNI_17-YY_CH,G13
+Fee difficulties *,Undergraduate,2022,10.2,,,published,CONSID_UG_UNI_17-YY_CH,H13
+Fee difficulties *,Undergraduate,2023,,,,unavailable,CONSID_UG_UNI_17-YY_CH,I13
+Fee difficulties *,Undergraduate,2024,,,,unavailable,CONSID_UG_UNI_17-YY_CH,J13
+Fee difficulties *,Undergraduate,2025,,,,unavailable,CONSID_UG_UNI_17-YY_CH,K13
+Financial difficulties,Undergraduate,2017,24.0,,,published,CONSID_UG_UNI_17-YY_CH,C14
+Financial difficulties,Undergraduate,2018,23.4,,,published,CONSID_UG_UNI_17-YY_CH,D14
+Financial difficulties,Undergraduate,2019,23.0,,,published,CONSID_UG_UNI_17-YY_CH,E14
+Financial difficulties,Undergraduate,2020,22.4,,,published,CONSID_UG_UNI_17-YY_CH,F14
+Financial difficulties,Undergraduate,2021,21.4,,,published,CONSID_UG_UNI_17-YY_CH,G14
+Financial difficulties,Undergraduate,2022,22.5,,,published,CONSID_UG_UNI_17-YY_CH,H14
+Financial difficulties,Undergraduate,2023,40.0,,,published,CONSID_UG_UNI_17-YY_CH,I14
+Financial difficulties,Undergraduate,2024,40.7,,,published,CONSID_UG_UNI_17-YY_CH,J14
+Financial difficulties,Undergraduate,2025,35.9,,,published,CONSID_UG_UNI_17-YY_CH,K14
+Gap year/deferral,Undergraduate,2017,10.2,,,published,CONSID_UG_UNI_17-YY_CH,C15
+Gap year/deferral,Undergraduate,2018,10.0,,,published,CONSID_UG_UNI_17-YY_CH,D15
+Gap year/deferral,Undergraduate,2019,9.5,,,published,CONSID_UG_UNI_17-YY_CH,E15
+Gap year/deferral,Undergraduate,2020,9.5,,,published,CONSID_UG_UNI_17-YY_CH,F15
+Gap year/deferral,Undergraduate,2021,9.9,,,published,CONSID_UG_UNI_17-YY_CH,G15
+Gap year/deferral,Undergraduate,2022,10.7,,,published,CONSID_UG_UNI_17-YY_CH,H15
+Gap year/deferral,Undergraduate,2023,12.0,,,published,CONSID_UG_UNI_17-YY_CH,I15
+Gap year/deferral,Undergraduate,2024,11.7,,,published,CONSID_UG_UNI_17-YY_CH,J15
+Gap year/deferral,Undergraduate,2025,11.1,,,published,CONSID_UG_UNI_17-YY_CH,K15
+Government assistance *,Undergraduate,2017,3.2,,,published,CONSID_UG_UNI_17-YY_CH,C16
+Government assistance *,Undergraduate,2018,3.2,,,published,CONSID_UG_UNI_17-YY_CH,D16
+Government assistance *,Undergraduate,2019,3.0,,,published,CONSID_UG_UNI_17-YY_CH,E16
+Government assistance *,Undergraduate,2020,2.9,,,published,CONSID_UG_UNI_17-YY_CH,F16
+Government assistance *,Undergraduate,2021,3.1,,,published,CONSID_UG_UNI_17-YY_CH,G16
+Government assistance *,Undergraduate,2022,2.7,,,published,CONSID_UG_UNI_17-YY_CH,H16
+Government assistance *,Undergraduate,2023,,,,unavailable,CONSID_UG_UNI_17-YY_CH,I16
+Government assistance *,Undergraduate,2024,,,,unavailable,CONSID_UG_UNI_17-YY_CH,J16
+Government assistance *,Undergraduate,2025,,,,unavailable,CONSID_UG_UNI_17-YY_CH,K16
+Graduating *,Undergraduate,2017,5.3,,,published,CONSID_UG_UNI_17-YY_CH,C17
+Graduating *,Undergraduate,2018,5.5,,,published,CONSID_UG_UNI_17-YY_CH,D17
+Graduating *,Undergraduate,2019,5.4,,,published,CONSID_UG_UNI_17-YY_CH,E17
+Graduating *,Undergraduate,2020,5.1,,,published,CONSID_UG_UNI_17-YY_CH,F17
+Graduating *,Undergraduate,2021,5.2,,,published,CONSID_UG_UNI_17-YY_CH,G17
+Graduating *,Undergraduate,2022,4.5,,,published,CONSID_UG_UNI_17-YY_CH,H17
+Graduating *,Undergraduate,2023,,,,unavailable,CONSID_UG_UNI_17-YY_CH,I17
+Graduating *,Undergraduate,2024,,,,unavailable,CONSID_UG_UNI_17-YY_CH,J17
+Graduating *,Undergraduate,2025,,,,unavailable,CONSID_UG_UNI_17-YY_CH,K17
+Health or stress *,Undergraduate,2017,44.5,,,published,CONSID_UG_UNI_17-YY_CH,C18
+Health or stress *,Undergraduate,2018,44.8,,,published,CONSID_UG_UNI_17-YY_CH,D18
+Health or stress *,Undergraduate,2019,46.7,,,published,CONSID_UG_UNI_17-YY_CH,E18
+Health or stress *,Undergraduate,2020,50.3,,,published,CONSID_UG_UNI_17-YY_CH,F18
+Health or stress *,Undergraduate,2021,50.7,,,published,CONSID_UG_UNI_17-YY_CH,G18
+Health or stress *,Undergraduate,2022,51.4,,,published,CONSID_UG_UNI_17-YY_CH,H18
+Health or stress *,Undergraduate,2023,,,,unavailable,CONSID_UG_UNI_17-YY_CH,I18
+Health or stress *,Undergraduate,2024,,,,unavailable,CONSID_UG_UNI_17-YY_CH,J18
+Health or stress *,Undergraduate,2025,,,,unavailable,CONSID_UG_UNI_17-YY_CH,K18
+Institutional budget cuts ***,Undergraduate,2017,,,,unavailable,CONSID_UG_UNI_17-YY_CH,C19
+Institutional budget cuts ***,Undergraduate,2018,,,,unavailable,CONSID_UG_UNI_17-YY_CH,D19
+Institutional budget cuts ***,Undergraduate,2019,,,,unavailable,CONSID_UG_UNI_17-YY_CH,E19
+Institutional budget cuts ***,Undergraduate,2020,,,,unavailable,CONSID_UG_UNI_17-YY_CH,F19
+Institutional budget cuts ***,Undergraduate,2021,,,,unavailable,CONSID_UG_UNI_17-YY_CH,G19
+Institutional budget cuts ***,Undergraduate,2022,,,,unavailable,CONSID_UG_UNI_17-YY_CH,H19
+Institutional budget cuts ***,Undergraduate,2023,,,,unavailable,CONSID_UG_UNI_17-YY_CH,I19
+Institutional budget cuts ***,Undergraduate,2024,,,,unavailable,CONSID_UG_UNI_17-YY_CH,J19
+Institutional budget cuts ***,Undergraduate,2025,0.5,,,published,CONSID_UG_UNI_17-YY_CH,K19
+Lack of academic support,Undergraduate,2017,17.4,,,published,CONSID_UG_UNI_17-YY_CH,C20
+Lack of academic support,Undergraduate,2018,17.8,,,published,CONSID_UG_UNI_17-YY_CH,D20
+Lack of academic support,Undergraduate,2019,18.3,,,published,CONSID_UG_UNI_17-YY_CH,E20
+Lack of academic support,Undergraduate,2020,22.0,,,published,CONSID_UG_UNI_17-YY_CH,F20
+Lack of academic support,Undergraduate,2021,22.3,,,published,CONSID_UG_UNI_17-YY_CH,G20
+Lack of academic support,Undergraduate,2022,21.7,,,published,CONSID_UG_UNI_17-YY_CH,H20
+Lack of academic support,Undergraduate,2023,23.6,,,published,CONSID_UG_UNI_17-YY_CH,I20
+Lack of academic support,Undergraduate,2024,22.9,,,published,CONSID_UG_UNI_17-YY_CH,J20
+Lack of academic support,Undergraduate,2025,22.4,,,published,CONSID_UG_UNI_17-YY_CH,K20
+Lack of administrative support,Undergraduate,2017,7.8,,,published,CONSID_UG_UNI_17-YY_CH,C21
+Lack of administrative support,Undergraduate,2018,8.1,,,published,CONSID_UG_UNI_17-YY_CH,D21
+Lack of administrative support,Undergraduate,2019,9.1,,,published,CONSID_UG_UNI_17-YY_CH,E21
+Lack of administrative support,Undergraduate,2020,10.1,,,published,CONSID_UG_UNI_17-YY_CH,F21
+Lack of administrative support,Undergraduate,2021,10.7,,,published,CONSID_UG_UNI_17-YY_CH,G21
+Lack of administrative support,Undergraduate,2022,11.2,,,published,CONSID_UG_UNI_17-YY_CH,H21
+Lack of administrative support,Undergraduate,2023,15.0,,,published,CONSID_UG_UNI_17-YY_CH,I21
+Lack of administrative support,Undergraduate,2024,13.9,,,published,CONSID_UG_UNI_17-YY_CH,J21
+Lack of administrative support,Undergraduate,2025,15.2,,,published,CONSID_UG_UNI_17-YY_CH,K21
+Lack of career prospects,Undergraduate,2017,19.5,,,published,CONSID_UG_UNI_17-YY_CH,C22
+Lack of career prospects,Undergraduate,2018,19.3,,,published,CONSID_UG_UNI_17-YY_CH,D22
+Lack of career prospects,Undergraduate,2019,18.6,,,published,CONSID_UG_UNI_17-YY_CH,E22
+Lack of career prospects,Undergraduate,2020,16.4,,,published,CONSID_UG_UNI_17-YY_CH,F22
+Lack of career prospects,Undergraduate,2021,17.6,,,published,CONSID_UG_UNI_17-YY_CH,G22
+Lack of career prospects,Undergraduate,2022,17.1,,,published,CONSID_UG_UNI_17-YY_CH,H22
+Lack of career prospects,Undergraduate,2023,13.3,,,published,CONSID_UG_UNI_17-YY_CH,I22
+Lack of career prospects,Undergraduate,2024,15.2,,,published,CONSID_UG_UNI_17-YY_CH,J22
+Lack of career prospects,Undergraduate,2025,15.5,,,published,CONSID_UG_UNI_17-YY_CH,K22
+Lack of connection to my institution **,Undergraduate,2017,,,,unavailable,CONSID_UG_UNI_17-YY_CH,C23
+Lack of connection to my institution **,Undergraduate,2018,,,,unavailable,CONSID_UG_UNI_17-YY_CH,D23
+Lack of connection to my institution **,Undergraduate,2019,,,,unavailable,CONSID_UG_UNI_17-YY_CH,E23
+Lack of connection to my institution **,Undergraduate,2020,,,,unavailable,CONSID_UG_UNI_17-YY_CH,F23
+Lack of connection to my institution **,Undergraduate,2021,,,,unavailable,CONSID_UG_UNI_17-YY_CH,G23
+Lack of connection to my institution **,Undergraduate,2022,,,,unavailable,CONSID_UG_UNI_17-YY_CH,H23
+Lack of connection to my institution **,Undergraduate,2023,21.8,,,published,CONSID_UG_UNI_17-YY_CH,I23
+Lack of connection to my institution **,Undergraduate,2024,21.5,,,published,CONSID_UG_UNI_17-YY_CH,J23
+Lack of connection to my institution **,Undergraduate,2025,21.4,,,published,CONSID_UG_UNI_17-YY_CH,K23
+Limited access to technology **,Undergraduate,2017,,,,unavailable,CONSID_UG_UNI_17-YY_CH,C24
+Limited access to technology **,Undergraduate,2018,,,,unavailable,CONSID_UG_UNI_17-YY_CH,D24
+Limited access to technology **,Undergraduate,2019,,,,unavailable,CONSID_UG_UNI_17-YY_CH,E24
+Limited access to technology **,Undergraduate,2020,,,,unavailable,CONSID_UG_UNI_17-YY_CH,F24
+Limited access to technology **,Undergraduate,2021,,,,unavailable,CONSID_UG_UNI_17-YY_CH,G24
+Limited access to technology **,Undergraduate,2022,,,,unavailable,CONSID_UG_UNI_17-YY_CH,H24
+Limited access to technology **,Undergraduate,2023,2.6,,,published,CONSID_UG_UNI_17-YY_CH,I24
+Limited access to technology **,Undergraduate,2024,2.8,,,published,CONSID_UG_UNI_17-YY_CH,J24
+Limited access to technology **,Undergraduate,2025,3.0,,,published,CONSID_UG_UNI_17-YY_CH,K24
+Low or failing grades **,Undergraduate,2017,,,,unavailable,CONSID_UG_UNI_17-YY_CH,C25
+Low or failing grades **,Undergraduate,2018,,,,unavailable,CONSID_UG_UNI_17-YY_CH,D25
+Low or failing grades **,Undergraduate,2019,,,,unavailable,CONSID_UG_UNI_17-YY_CH,E25
+Low or failing grades **,Undergraduate,2020,,,,unavailable,CONSID_UG_UNI_17-YY_CH,F25
+Low or failing grades **,Undergraduate,2021,,,,unavailable,CONSID_UG_UNI_17-YY_CH,G25
+Low or failing grades **,Undergraduate,2022,,,,unavailable,CONSID_UG_UNI_17-YY_CH,H25
+Low or failing grades **,Undergraduate,2023,15.6,,,published,CONSID_UG_UNI_17-YY_CH,I25
+Low or failing grades **,Undergraduate,2024,14.0,,,published,CONSID_UG_UNI_17-YY_CH,J25
+Low or failing grades **,Undergraduate,2025,13.5,,,published,CONSID_UG_UNI_17-YY_CH,K25
+Moving residence,Undergraduate,2017,6.7,,,published,CONSID_UG_UNI_17-YY_CH,C26
+Moving residence,Undergraduate,2018,6.7,,,published,CONSID_UG_UNI_17-YY_CH,D26
+Moving residence,Undergraduate,2019,6.1,,,published,CONSID_UG_UNI_17-YY_CH,E26
+Moving residence,Undergraduate,2020,7.0,,,published,CONSID_UG_UNI_17-YY_CH,F26
+Moving residence,Undergraduate,2021,6.5,,,published,CONSID_UG_UNI_17-YY_CH,G26
+Moving residence,Undergraduate,2022,6.7,,,published,CONSID_UG_UNI_17-YY_CH,H26
+Moving residence,Undergraduate,2023,7.0,,,published,CONSID_UG_UNI_17-YY_CH,I26
+Moving residence,Undergraduate,2024,6.8,,,published,CONSID_UG_UNI_17-YY_CH,J26
+Moving residence,Undergraduate,2025,6.5,,,published,CONSID_UG_UNI_17-YY_CH,K26
+Moving to another institution **,Undergraduate,2017,,,,unavailable,CONSID_UG_UNI_17-YY_CH,C27
+Moving to another institution **,Undergraduate,2018,,,,unavailable,CONSID_UG_UNI_17-YY_CH,D27
+Moving to another institution **,Undergraduate,2019,,,,unavailable,CONSID_UG_UNI_17-YY_CH,E27
+Moving to another institution **,Undergraduate,2020,,,,unavailable,CONSID_UG_UNI_17-YY_CH,F27
+Moving to another institution **,Undergraduate,2021,,,,unavailable,CONSID_UG_UNI_17-YY_CH,G27
+Moving to another institution **,Undergraduate,2022,,,,unavailable,CONSID_UG_UNI_17-YY_CH,H27
+Moving to another institution **,Undergraduate,2023,14.4,,,published,CONSID_UG_UNI_17-YY_CH,I27
+Moving to another institution **,Undergraduate,2024,15.7,,,published,CONSID_UG_UNI_17-YY_CH,J27
+Moving to another institution **,Undergraduate,2025,17.1,,,published,CONSID_UG_UNI_17-YY_CH,K27
+My course is too difficult **,Undergraduate,2017,,,,unavailable,CONSID_UG_UNI_17-YY_CH,C28
+My course is too difficult **,Undergraduate,2018,,,,unavailable,CONSID_UG_UNI_17-YY_CH,D28
+My course is too difficult **,Undergraduate,2019,,,,unavailable,CONSID_UG_UNI_17-YY_CH,E28
+My course is too difficult **,Undergraduate,2020,,,,unavailable,CONSID_UG_UNI_17-YY_CH,F28
+My course is too difficult **,Undergraduate,2021,,,,unavailable,CONSID_UG_UNI_17-YY_CH,G28
+My course is too difficult **,Undergraduate,2022,,,,unavailable,CONSID_UG_UNI_17-YY_CH,H28
+My course is too difficult **,Undergraduate,2023,6.7,,,published,CONSID_UG_UNI_17-YY_CH,I28
+My course is too difficult **,Undergraduate,2024,6.2,,,published,CONSID_UG_UNI_17-YY_CH,J28
+My course is too difficult **,Undergraduate,2025,5.9,,,published,CONSID_UG_UNI_17-YY_CH,K28
+My English language skills **,Undergraduate,2017,,,,unavailable,CONSID_UG_UNI_17-YY_CH,C29
+My English language skills **,Undergraduate,2018,,,,unavailable,CONSID_UG_UNI_17-YY_CH,D29
+My English language skills **,Undergraduate,2019,,,,unavailable,CONSID_UG_UNI_17-YY_CH,E29
+My English language skills **,Undergraduate,2020,,,,unavailable,CONSID_UG_UNI_17-YY_CH,F29
+My English language skills **,Undergraduate,2021,,,,unavailable,CONSID_UG_UNI_17-YY_CH,G29
+My English language skills **,Undergraduate,2022,,,,unavailable,CONSID_UG_UNI_17-YY_CH,H29
+My English language skills **,Undergraduate,2023,1.6,,,published,CONSID_UG_UNI_17-YY_CH,I29
+My English language skills **,Undergraduate,2024,1.3,,,published,CONSID_UG_UNI_17-YY_CH,J29
+My English language skills **,Undergraduate,2025,1.5,,,published,CONSID_UG_UNI_17-YY_CH,K29
+My mental health **,Undergraduate,2017,,,,unavailable,CONSID_UG_UNI_17-YY_CH,C30
+My mental health **,Undergraduate,2018,,,,unavailable,CONSID_UG_UNI_17-YY_CH,D30
+My mental health **,Undergraduate,2019,,,,unavailable,CONSID_UG_UNI_17-YY_CH,E30
+My mental health **,Undergraduate,2020,,,,unavailable,CONSID_UG_UNI_17-YY_CH,F30
+My mental health **,Undergraduate,2021,,,,unavailable,CONSID_UG_UNI_17-YY_CH,G30
+My mental health **,Undergraduate,2022,,,,unavailable,CONSID_UG_UNI_17-YY_CH,H30
+My mental health **,Undergraduate,2023,44.4,,,published,CONSID_UG_UNI_17-YY_CH,I30
+My mental health **,Undergraduate,2024,41.3,,,published,CONSID_UG_UNI_17-YY_CH,J30
+My mental health **,Undergraduate,2025,38.8,,,published,CONSID_UG_UNI_17-YY_CH,K30
+My physical health **,Undergraduate,2017,,,,unavailable,CONSID_UG_UNI_17-YY_CH,C31
+My physical health **,Undergraduate,2018,,,,unavailable,CONSID_UG_UNI_17-YY_CH,D31
+My physical health **,Undergraduate,2019,,,,unavailable,CONSID_UG_UNI_17-YY_CH,E31
+My physical health **,Undergraduate,2020,,,,unavailable,CONSID_UG_UNI_17-YY_CH,F31
+My physical health **,Undergraduate,2021,,,,unavailable,CONSID_UG_UNI_17-YY_CH,G31
+My physical health **,Undergraduate,2022,,,,unavailable,CONSID_UG_UNI_17-YY_CH,H31
+My physical health **,Undergraduate,2023,12.3,,,published,CONSID_UG_UNI_17-YY_CH,I31
+My physical health **,Undergraduate,2024,11.4,,,published,CONSID_UG_UNI_17-YY_CH,J31
+My physical health **,Undergraduate,2025,10.7,,,published,CONSID_UG_UNI_17-YY_CH,K31
+My stress levels **,Undergraduate,2017,,,,unavailable,CONSID_UG_UNI_17-YY_CH,C32
+My stress levels **,Undergraduate,2018,,,,unavailable,CONSID_UG_UNI_17-YY_CH,D32
+My stress levels **,Undergraduate,2019,,,,unavailable,CONSID_UG_UNI_17-YY_CH,E32
+My stress levels **,Undergraduate,2020,,,,unavailable,CONSID_UG_UNI_17-YY_CH,F32
+My stress levels **,Undergraduate,2021,,,,unavailable,CONSID_UG_UNI_17-YY_CH,G32
+My stress levels **,Undergraduate,2022,,,,unavailable,CONSID_UG_UNI_17-YY_CH,H32
+My stress levels **,Undergraduate,2023,45.7,,,published,CONSID_UG_UNI_17-YY_CH,I32
+My stress levels **,Undergraduate,2024,42.8,,,published,CONSID_UG_UNI_17-YY_CH,J32
+My stress levels **,Undergraduate,2025,40.2,,,published,CONSID_UG_UNI_17-YY_CH,K32
+Need a break *,Undergraduate,2017,24.2,,,published,CONSID_UG_UNI_17-YY_CH,C33
+Need a break *,Undergraduate,2018,24.3,,,published,CONSID_UG_UNI_17-YY_CH,D33
+Need a break *,Undergraduate,2019,24.4,,,published,CONSID_UG_UNI_17-YY_CH,E33
+Need a break *,Undergraduate,2020,22.7,,,published,CONSID_UG_UNI_17-YY_CH,F33
+Need a break *,Undergraduate,2021,27.2,,,published,CONSID_UG_UNI_17-YY_CH,G33
+Need a break *,Undergraduate,2022,29.0,,,published,CONSID_UG_UNI_17-YY_CH,H33
+Need a break *,Undergraduate,2023,,,,unavailable,CONSID_UG_UNI_17-YY_CH,I33
+Need a break *,Undergraduate,2024,,,,unavailable,CONSID_UG_UNI_17-YY_CH,J33
+Need a break *,Undergraduate,2025,,,,unavailable,CONSID_UG_UNI_17-YY_CH,K33
+Need to do paid work * ,Undergraduate,2017,26.2,,,published,CONSID_UG_UNI_17-YY_CH,C34
+Need to do paid work * ,Undergraduate,2018,27.4,,,published,CONSID_UG_UNI_17-YY_CH,D34
+Need to do paid work * ,Undergraduate,2019,27.2,,,published,CONSID_UG_UNI_17-YY_CH,E34
+Need to do paid work * ,Undergraduate,2020,22.2,,,published,CONSID_UG_UNI_17-YY_CH,F34
+Need to do paid work * ,Undergraduate,2021,25.6,,,published,CONSID_UG_UNI_17-YY_CH,G34
+Need to do paid work * ,Undergraduate,2022,29.5,,,published,CONSID_UG_UNI_17-YY_CH,H34
+Need to do paid work * ,Undergraduate,2023,,,,unavailable,CONSID_UG_UNI_17-YY_CH,I34
+Need to do paid work * ,Undergraduate,2024,,,,unavailable,CONSID_UG_UNI_17-YY_CH,J34
+Need to do paid work * ,Undergraduate,2025,,,,unavailable,CONSID_UG_UNI_17-YY_CH,K34
+Other opportunities *,Undergraduate,2017,7.8,,,published,CONSID_UG_UNI_17-YY_CH,C35
+Other opportunities *,Undergraduate,2018,8.1,,,published,CONSID_UG_UNI_17-YY_CH,D35
+Other opportunities *,Undergraduate,2019,7.8,,,published,CONSID_UG_UNI_17-YY_CH,E35
+Other opportunities *,Undergraduate,2020,6.6,,,published,CONSID_UG_UNI_17-YY_CH,F35
+Other opportunities *,Undergraduate,2021,7.2,,,published,CONSID_UG_UNI_17-YY_CH,G35
+Other opportunities *,Undergraduate,2022,7.5,,,published,CONSID_UG_UNI_17-YY_CH,H35
+Other opportunities *,Undergraduate,2023,,,,unavailable,CONSID_UG_UNI_17-YY_CH,I35
+Other opportunities *,Undergraduate,2024,,,,unavailable,CONSID_UG_UNI_17-YY_CH,J35
+Other opportunities *,Undergraduate,2025,,,,unavailable,CONSID_UG_UNI_17-YY_CH,K35
+Other reasons,Undergraduate,2017,12.1,,,published,CONSID_UG_UNI_17-YY_CH,C36
+Other reasons,Undergraduate,2018,12.1,,,published,CONSID_UG_UNI_17-YY_CH,D36
+Other reasons,Undergraduate,2019,13.0,,,published,CONSID_UG_UNI_17-YY_CH,E36
+Other reasons,Undergraduate,2020,9.1,,,published,CONSID_UG_UNI_17-YY_CH,F36
+Other reasons,Undergraduate,2021,6.3,,,published,CONSID_UG_UNI_17-YY_CH,G36
+Other reasons,Undergraduate,2022,3.6,,,published,CONSID_UG_UNI_17-YY_CH,H36
+Other reasons,Undergraduate,2023,4.7,,,published,CONSID_UG_UNI_17-YY_CH,I36
+Other reasons,Undergraduate,2024,4.7,,,published,CONSID_UG_UNI_17-YY_CH,J36
+Other reasons,Undergraduate,2025,5.2,,,published,CONSID_UG_UNI_17-YY_CH,K36
+Paid work responsibilities,Undergraduate,2017,16.4,,,published,CONSID_UG_UNI_17-YY_CH,C37
+Paid work responsibilities,Undergraduate,2018,18.0,,,published,CONSID_UG_UNI_17-YY_CH,D37
+Paid work responsibilities,Undergraduate,2019,17.5,,,published,CONSID_UG_UNI_17-YY_CH,E37
+Paid work responsibilities,Undergraduate,2020,16.2,,,published,CONSID_UG_UNI_17-YY_CH,F37
+Paid work responsibilities,Undergraduate,2021,17.9,,,published,CONSID_UG_UNI_17-YY_CH,G37
+Paid work responsibilities,Undergraduate,2022,20.8,,,published,CONSID_UG_UNI_17-YY_CH,H37
+Paid work responsibilities,Undergraduate,2023,29.8,,,published,CONSID_UG_UNI_17-YY_CH,I37
+Paid work responsibilities,Undergraduate,2024,26.9,,,published,CONSID_UG_UNI_17-YY_CH,J37
+Paid work responsibilities,Undergraduate,2025,25.3,,,published,CONSID_UG_UNI_17-YY_CH,K37
+Personal reasons *,Undergraduate,2017,25.6,,,published,CONSID_UG_UNI_17-YY_CH,C38
+Personal reasons *,Undergraduate,2018,25.5,,,published,CONSID_UG_UNI_17-YY_CH,D38
+Personal reasons *,Undergraduate,2019,25.3,,,published,CONSID_UG_UNI_17-YY_CH,E38
+Personal reasons *,Undergraduate,2020,25.3,,,published,CONSID_UG_UNI_17-YY_CH,F38
+Personal reasons *,Undergraduate,2021,26.1,,,published,CONSID_UG_UNI_17-YY_CH,G38
+Personal reasons *,Undergraduate,2022,26.4,,,published,CONSID_UG_UNI_17-YY_CH,H38
+Personal reasons *,Undergraduate,2023,,,,unavailable,CONSID_UG_UNI_17-YY_CH,I38
+Personal reasons *,Undergraduate,2024,,,,unavailable,CONSID_UG_UNI_17-YY_CH,J38
+Personal reasons *,Undergraduate,2025,,,,unavailable,CONSID_UG_UNI_17-YY_CH,K38
+Quality concerns,Undergraduate,2017,15.0,,,published,CONSID_UG_UNI_17-YY_CH,C39
+Quality concerns,Undergraduate,2018,14.1,,,published,CONSID_UG_UNI_17-YY_CH,D39
+Quality concerns,Undergraduate,2019,15.5,,,published,CONSID_UG_UNI_17-YY_CH,E39
+Quality concerns,Undergraduate,2020,19.5,,,published,CONSID_UG_UNI_17-YY_CH,F39
+Quality concerns,Undergraduate,2021,16.7,,,published,CONSID_UG_UNI_17-YY_CH,G39
+Quality concerns,Undergraduate,2022,16.5,,,published,CONSID_UG_UNI_17-YY_CH,H39
+Quality concerns,Undergraduate,2023,12.9,,,published,CONSID_UG_UNI_17-YY_CH,I39
+Quality concerns,Undergraduate,2024,13.4,,,published,CONSID_UG_UNI_17-YY_CH,J39
+Quality concerns,Undergraduate,2025,13.9,,,published,CONSID_UG_UNI_17-YY_CH,K39
+Received other offer *,Undergraduate,2017,5.3,,,published,CONSID_UG_UNI_17-YY_CH,C40
+Received other offer *,Undergraduate,2018,5.6,,,published,CONSID_UG_UNI_17-YY_CH,D40
+Received other offer *,Undergraduate,2019,5.5,,,published,CONSID_UG_UNI_17-YY_CH,E40
+Received other offer *,Undergraduate,2020,4.4,,,published,CONSID_UG_UNI_17-YY_CH,F40
+Received other offer *,Undergraduate,2021,4.8,,,published,CONSID_UG_UNI_17-YY_CH,G40
+Received other offer *,Undergraduate,2022,5.0,,,published,CONSID_UG_UNI_17-YY_CH,H40
+Received other offer *,Undergraduate,2023,,,,unavailable,CONSID_UG_UNI_17-YY_CH,I40
+Received other offer *,Undergraduate,2024,,,,unavailable,CONSID_UG_UNI_17-YY_CH,J40
+Received other offer *,Undergraduate,2025,,,,unavailable,CONSID_UG_UNI_17-YY_CH,K40
+Social Reasons,Undergraduate,2017,9.1,,,published,CONSID_UG_UNI_17-YY_CH,C41
+Social Reasons,Undergraduate,2018,9.2,,,published,CONSID_UG_UNI_17-YY_CH,D41
+Social Reasons,Undergraduate,2019,9.2,,,published,CONSID_UG_UNI_17-YY_CH,E41
+Social Reasons,Undergraduate,2020,7.8,,,published,CONSID_UG_UNI_17-YY_CH,F41
+Social Reasons,Undergraduate,2021,8.2,,,published,CONSID_UG_UNI_17-YY_CH,G41
+Social Reasons,Undergraduate,2022,8.8,,,published,CONSID_UG_UNI_17-YY_CH,H41
+Social Reasons,Undergraduate,2023,10.3,,,published,CONSID_UG_UNI_17-YY_CH,I41
+Social Reasons,Undergraduate,2024,11.4,,,published,CONSID_UG_UNI_17-YY_CH,J41
+Social Reasons,Undergraduate,2025,11.4,,,published,CONSID_UG_UNI_17-YY_CH,K41
+Standards too high *,Undergraduate,2017,6.4,,,published,CONSID_UG_UNI_17-YY_CH,C42
+Standards too high *,Undergraduate,2018,6.4,,,published,CONSID_UG_UNI_17-YY_CH,D42
+Standards too high *,Undergraduate,2019,6.5,,,published,CONSID_UG_UNI_17-YY_CH,E42
+Standards too high *,Undergraduate,2020,6.2,,,published,CONSID_UG_UNI_17-YY_CH,F42
+Standards too high *,Undergraduate,2021,6.7,,,published,CONSID_UG_UNI_17-YY_CH,G42
+Standards too high *,Undergraduate,2022,7.2,,,published,CONSID_UG_UNI_17-YY_CH,H42
+Standards too high *,Undergraduate,2023,,,,unavailable,CONSID_UG_UNI_17-YY_CH,I42
+Standards too high *,Undergraduate,2024,,,,unavailable,CONSID_UG_UNI_17-YY_CH,J42
+Standards too high *,Undergraduate,2025,,,,unavailable,CONSID_UG_UNI_17-YY_CH,K42
+Study/life balance,Undergraduate,2017,30.0,,,published,CONSID_UG_UNI_17-YY_CH,C43
+Study/life balance,Undergraduate,2018,29.9,,,published,CONSID_UG_UNI_17-YY_CH,D43
+Study/life balance,Undergraduate,2019,30.5,,,published,CONSID_UG_UNI_17-YY_CH,E43
+Study/life balance,Undergraduate,2020,27.7,,,published,CONSID_UG_UNI_17-YY_CH,F43
+Study/life balance,Undergraduate,2021,30.2,,,published,CONSID_UG_UNI_17-YY_CH,G43
+Study/life balance,Undergraduate,2022,33.8,,,published,CONSID_UG_UNI_17-YY_CH,H43
+Study/life balance,Undergraduate,2023,36.0,,,published,CONSID_UG_UNI_17-YY_CH,I43
+Study/life balance,Undergraduate,2024,33.3,,,published,CONSID_UG_UNI_17-YY_CH,J43
+Study/life balance,Undergraduate,2025,31.2,,,published,CONSID_UG_UNI_17-YY_CH,K43
+To pursue a career or job offer **,Undergraduate,2017,,,,unavailable,CONSID_UG_UNI_17-YY_CH,C44
+To pursue a career or job offer **,Undergraduate,2018,,,,unavailable,CONSID_UG_UNI_17-YY_CH,D44
+To pursue a career or job offer **,Undergraduate,2019,,,,unavailable,CONSID_UG_UNI_17-YY_CH,E44
+To pursue a career or job offer **,Undergraduate,2020,,,,unavailable,CONSID_UG_UNI_17-YY_CH,F44
+To pursue a career or job offer **,Undergraduate,2021,,,,unavailable,CONSID_UG_UNI_17-YY_CH,G44
+To pursue a career or job offer **,Undergraduate,2022,,,,unavailable,CONSID_UG_UNI_17-YY_CH,H44
+To pursue a career or job offer **,Undergraduate,2023,9.1,,,published,CONSID_UG_UNI_17-YY_CH,I44
+To pursue a career or job offer **,Undergraduate,2024,8.9,,,published,CONSID_UG_UNI_17-YY_CH,J44
+To pursue a career or job offer **,Undergraduate,2025,9.5,,,published,CONSID_UG_UNI_17-YY_CH,K44
+To travel,Undergraduate,2017,6.6,,,published,CONSID_UG_UNI_17-YY_CH,C45
+To travel,Undergraduate,2018,6.6,,,published,CONSID_UG_UNI_17-YY_CH,D45
+To travel,Undergraduate,2019,6.1,,,published,CONSID_UG_UNI_17-YY_CH,E45
+To travel,Undergraduate,2020,2.7,,,published,CONSID_UG_UNI_17-YY_CH,F45
+To travel,Undergraduate,2021,3.9,,,published,CONSID_UG_UNI_17-YY_CH,G45
+To travel,Undergraduate,2022,5.2,,,published,CONSID_UG_UNI_17-YY_CH,H45
+To travel,Undergraduate,2023,6.4,,,published,CONSID_UG_UNI_17-YY_CH,I45
+To travel,Undergraduate,2024,6.1,,,published,CONSID_UG_UNI_17-YY_CH,J45
+To travel,Undergraduate,2025,6.2,,,published,CONSID_UG_UNI_17-YY_CH,K45
+Academic exchange *,Postgraduate coursework,2017,7.4,,,published,CONSID_PGC_UNI_17-YY_CH,C5
+Academic exchange *,Postgraduate coursework,2018,9.6,,,published,CONSID_PGC_UNI_17-YY_CH,D5
+Academic exchange *,Postgraduate coursework,2019,9.2,,,published,CONSID_PGC_UNI_17-YY_CH,E5
+Academic exchange *,Postgraduate coursework,2020,8.9,,,published,CONSID_PGC_UNI_17-YY_CH,F5
+Academic exchange *,Postgraduate coursework,2021,7.3,,,published,CONSID_PGC_UNI_17-YY_CH,G5
+Academic exchange *,Postgraduate coursework,2022,7.0,,,published,CONSID_PGC_UNI_17-YY_CH,H5
+Academic exchange *,Postgraduate coursework,2023,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,I5
+Academic exchange *,Postgraduate coursework,2024,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,J5
+Academic exchange *,Postgraduate coursework,2025,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,K5
+Boredom/lack of interest,Postgraduate coursework,2017,11.8,,,published,CONSID_PGC_UNI_17-YY_CH,C6
+Boredom/lack of interest,Postgraduate coursework,2018,11.3,,,published,CONSID_PGC_UNI_17-YY_CH,D6
+Boredom/lack of interest,Postgraduate coursework,2019,11.1,,,published,CONSID_PGC_UNI_17-YY_CH,E6
+Boredom/lack of interest,Postgraduate coursework,2020,10.0,,,published,CONSID_PGC_UNI_17-YY_CH,F6
+Boredom/lack of interest,Postgraduate coursework,2021,10.5,,,published,CONSID_PGC_UNI_17-YY_CH,G6
+Boredom/lack of interest,Postgraduate coursework,2022,10.9,,,published,CONSID_PGC_UNI_17-YY_CH,H6
+Boredom/lack of interest,Postgraduate coursework,2023,10.6,,,published,CONSID_PGC_UNI_17-YY_CH,I6
+Boredom/lack of interest,Postgraduate coursework,2024,10.1,,,published,CONSID_PGC_UNI_17-YY_CH,J6
+Boredom/lack of interest,Postgraduate coursework,2025,10.5,,,published,CONSID_PGC_UNI_17-YY_CH,K6
+Change of direction *,Postgraduate coursework,2017,6.7,,,published,CONSID_PGC_UNI_17-YY_CH,C7
+Change of direction *,Postgraduate coursework,2018,7.4,,,published,CONSID_PGC_UNI_17-YY_CH,D7
+Change of direction *,Postgraduate coursework,2019,7.0,,,published,CONSID_PGC_UNI_17-YY_CH,E7
+Change of direction *,Postgraduate coursework,2020,5.7,,,published,CONSID_PGC_UNI_17-YY_CH,F7
+Change of direction *,Postgraduate coursework,2021,5.6,,,published,CONSID_PGC_UNI_17-YY_CH,G7
+Change of direction *,Postgraduate coursework,2022,6.5,,,published,CONSID_PGC_UNI_17-YY_CH,H7
+Change of direction *,Postgraduate coursework,2023,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,I7
+Change of direction *,Postgraduate coursework,2024,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,J7
+Change of direction *,Postgraduate coursework,2025,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,K7
+Commuting difficulties,Postgraduate coursework,2017,5.2,,,published,CONSID_PGC_UNI_17-YY_CH,C8
+Commuting difficulties,Postgraduate coursework,2018,5.6,,,published,CONSID_PGC_UNI_17-YY_CH,D8
+Commuting difficulties,Postgraduate coursework,2019,5.6,,,published,CONSID_PGC_UNI_17-YY_CH,E8
+Commuting difficulties,Postgraduate coursework,2020,4.3,,,published,CONSID_PGC_UNI_17-YY_CH,F8
+Commuting difficulties,Postgraduate coursework,2021,4.0,,,published,CONSID_PGC_UNI_17-YY_CH,G8
+Commuting difficulties,Postgraduate coursework,2022,5.0,,,published,CONSID_PGC_UNI_17-YY_CH,H8
+Commuting difficulties,Postgraduate coursework,2023,7.1,,,published,CONSID_PGC_UNI_17-YY_CH,I8
+Commuting difficulties,Postgraduate coursework,2024,6.8,,,published,CONSID_PGC_UNI_17-YY_CH,J8
+Commuting difficulties,Postgraduate coursework,2025,7.3,,,published,CONSID_PGC_UNI_17-YY_CH,K8
+Concerns about my institution's reputation,Postgraduate coursework,2017,6.6,,,published,CONSID_PGC_UNI_17-YY_CH,C9
+Concerns about my institution's reputation,Postgraduate coursework,2018,6.5,,,published,CONSID_PGC_UNI_17-YY_CH,D9
+Concerns about my institution's reputation,Postgraduate coursework,2019,7.1,,,published,CONSID_PGC_UNI_17-YY_CH,E9
+Concerns about my institution's reputation,Postgraduate coursework,2020,5.5,,,published,CONSID_PGC_UNI_17-YY_CH,F9
+Concerns about my institution's reputation,Postgraduate coursework,2021,5.0,,,published,CONSID_PGC_UNI_17-YY_CH,G9
+Concerns about my institution's reputation,Postgraduate coursework,2022,5.5,,,published,CONSID_PGC_UNI_17-YY_CH,H9
+Concerns about my institution's reputation,Postgraduate coursework,2023,7.7,,,published,CONSID_PGC_UNI_17-YY_CH,I9
+Concerns about my institution's reputation,Postgraduate coursework,2024,8.2,,,published,CONSID_PGC_UNI_17-YY_CH,J9
+Concerns about my institution's reputation,Postgraduate coursework,2025,9.2,,,published,CONSID_PGC_UNI_17-YY_CH,K9
+Course expectations not met,Postgraduate coursework,2017,30.3,,,published,CONSID_PGC_UNI_17-YY_CH,C10
+Course expectations not met,Postgraduate coursework,2018,27.0,,,published,CONSID_PGC_UNI_17-YY_CH,D10
+Course expectations not met,Postgraduate coursework,2019,28.2,,,published,CONSID_PGC_UNI_17-YY_CH,E10
+Course expectations not met,Postgraduate coursework,2020,30.1,,,published,CONSID_PGC_UNI_17-YY_CH,F10
+Course expectations not met,Postgraduate coursework,2021,29.6,,,published,CONSID_PGC_UNI_17-YY_CH,G10
+Course expectations not met,Postgraduate coursework,2022,27.5,,,published,CONSID_PGC_UNI_17-YY_CH,H10
+Course expectations not met,Postgraduate coursework,2023,32.5,,,published,CONSID_PGC_UNI_17-YY_CH,I10
+Course expectations not met,Postgraduate coursework,2024,31.5,,,published,CONSID_PGC_UNI_17-YY_CH,J10
+Course expectations not met,Postgraduate coursework,2025,29.8,,,published,CONSID_PGC_UNI_17-YY_CH,K10
+Difficulty with study workload,Postgraduate coursework,2017,25.6,,,published,CONSID_PGC_UNI_17-YY_CH,C11
+Difficulty with study workload,Postgraduate coursework,2018,24.0,,,published,CONSID_PGC_UNI_17-YY_CH,D11
+Difficulty with study workload,Postgraduate coursework,2019,23.7,,,published,CONSID_PGC_UNI_17-YY_CH,E11
+Difficulty with study workload,Postgraduate coursework,2020,23.0,,,published,CONSID_PGC_UNI_17-YY_CH,F11
+Difficulty with study workload,Postgraduate coursework,2021,26.6,,,published,CONSID_PGC_UNI_17-YY_CH,G11
+Difficulty with study workload,Postgraduate coursework,2022,29.5,,,published,CONSID_PGC_UNI_17-YY_CH,H11
+Difficulty with study workload,Postgraduate coursework,2023,37.4,,,published,CONSID_PGC_UNI_17-YY_CH,I11
+Difficulty with study workload,Postgraduate coursework,2024,35.1,,,published,CONSID_PGC_UNI_17-YY_CH,J11
+Difficulty with study workload,Postgraduate coursework,2025,32.5,,,published,CONSID_PGC_UNI_17-YY_CH,K11
+Family caring responsibilities,Postgraduate coursework,2017,18.3,,,published,CONSID_PGC_UNI_17-YY_CH,C12
+Family caring responsibilities,Postgraduate coursework,2018,17.5,,,published,CONSID_PGC_UNI_17-YY_CH,D12
+Family caring responsibilities,Postgraduate coursework,2019,17.0,,,published,CONSID_PGC_UNI_17-YY_CH,E12
+Family caring responsibilities,Postgraduate coursework,2020,16.1,,,published,CONSID_PGC_UNI_17-YY_CH,F12
+Family caring responsibilities,Postgraduate coursework,2021,18.1,,,published,CONSID_PGC_UNI_17-YY_CH,G12
+Family caring responsibilities,Postgraduate coursework,2022,20.4,,,published,CONSID_PGC_UNI_17-YY_CH,H12
+Family caring responsibilities,Postgraduate coursework,2023,23.4,,,published,CONSID_PGC_UNI_17-YY_CH,I12
+Family caring responsibilities,Postgraduate coursework,2024,20.5,,,published,CONSID_PGC_UNI_17-YY_CH,J12
+Family caring responsibilities,Postgraduate coursework,2025,20.9,,,published,CONSID_PGC_UNI_17-YY_CH,K12
+Fee difficulties *,Postgraduate coursework,2017,13.4,,,published,CONSID_PGC_UNI_17-YY_CH,C13
+Fee difficulties *,Postgraduate coursework,2018,13.0,,,published,CONSID_PGC_UNI_17-YY_CH,D13
+Fee difficulties *,Postgraduate coursework,2019,13.7,,,published,CONSID_PGC_UNI_17-YY_CH,E13
+Fee difficulties *,Postgraduate coursework,2020,22.7,,,published,CONSID_PGC_UNI_17-YY_CH,F13
+Fee difficulties *,Postgraduate coursework,2021,13.8,,,published,CONSID_PGC_UNI_17-YY_CH,G13
+Fee difficulties *,Postgraduate coursework,2022,12.4,,,published,CONSID_PGC_UNI_17-YY_CH,H13
+Fee difficulties *,Postgraduate coursework,2023,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,I13
+Fee difficulties *,Postgraduate coursework,2024,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,J13
+Fee difficulties *,Postgraduate coursework,2025,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,K13
+Financial difficulties,Postgraduate coursework,2017,21.1,,,published,CONSID_PGC_UNI_17-YY_CH,C14
+Financial difficulties,Postgraduate coursework,2018,20.1,,,published,CONSID_PGC_UNI_17-YY_CH,D14
+Financial difficulties,Postgraduate coursework,2019,21.3,,,published,CONSID_PGC_UNI_17-YY_CH,E14
+Financial difficulties,Postgraduate coursework,2020,30.4,,,published,CONSID_PGC_UNI_17-YY_CH,F14
+Financial difficulties,Postgraduate coursework,2021,20.9,,,published,CONSID_PGC_UNI_17-YY_CH,G14
+Financial difficulties,Postgraduate coursework,2022,21.2,,,published,CONSID_PGC_UNI_17-YY_CH,H14
+Financial difficulties,Postgraduate coursework,2023,36.9,,,published,CONSID_PGC_UNI_17-YY_CH,I14
+Financial difficulties,Postgraduate coursework,2024,36.9,,,published,CONSID_PGC_UNI_17-YY_CH,J14
+Financial difficulties,Postgraduate coursework,2025,34.1,,,published,CONSID_PGC_UNI_17-YY_CH,K14
+Gap year/deferral,Postgraduate coursework,2017,2.8,,,published,CONSID_PGC_UNI_17-YY_CH,C15
+Gap year/deferral,Postgraduate coursework,2018,2.7,,,published,CONSID_PGC_UNI_17-YY_CH,D15
+Gap year/deferral,Postgraduate coursework,2019,2.9,,,published,CONSID_PGC_UNI_17-YY_CH,E15
+Gap year/deferral,Postgraduate coursework,2020,5.3,,,published,CONSID_PGC_UNI_17-YY_CH,F15
+Gap year/deferral,Postgraduate coursework,2021,5.5,,,published,CONSID_PGC_UNI_17-YY_CH,G15
+Gap year/deferral,Postgraduate coursework,2022,3.6,,,published,CONSID_PGC_UNI_17-YY_CH,H15
+Gap year/deferral,Postgraduate coursework,2023,4.0,,,published,CONSID_PGC_UNI_17-YY_CH,I15
+Gap year/deferral,Postgraduate coursework,2024,3.6,,,published,CONSID_PGC_UNI_17-YY_CH,J15
+Gap year/deferral,Postgraduate coursework,2025,3.7,,,published,CONSID_PGC_UNI_17-YY_CH,K15
+Government assistance *,Postgraduate coursework,2017,2.7,,,published,CONSID_PGC_UNI_17-YY_CH,C16
+Government assistance *,Postgraduate coursework,2018,2.8,,,published,CONSID_PGC_UNI_17-YY_CH,D16
+Government assistance *,Postgraduate coursework,2019,2.7,,,published,CONSID_PGC_UNI_17-YY_CH,E16
+Government assistance *,Postgraduate coursework,2020,4.6,,,published,CONSID_PGC_UNI_17-YY_CH,F16
+Government assistance *,Postgraduate coursework,2021,4.3,,,published,CONSID_PGC_UNI_17-YY_CH,G16
+Government assistance *,Postgraduate coursework,2022,2.7,,,published,CONSID_PGC_UNI_17-YY_CH,H16
+Government assistance *,Postgraduate coursework,2023,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,I16
+Government assistance *,Postgraduate coursework,2024,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,J16
+Government assistance *,Postgraduate coursework,2025,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,K16
+Graduating *,Postgraduate coursework,2017,7.5,,,published,CONSID_PGC_UNI_17-YY_CH,C17
+Graduating *,Postgraduate coursework,2018,10.2,,,published,CONSID_PGC_UNI_17-YY_CH,D17
+Graduating *,Postgraduate coursework,2019,9.5,,,published,CONSID_PGC_UNI_17-YY_CH,E17
+Graduating *,Postgraduate coursework,2020,7.6,,,published,CONSID_PGC_UNI_17-YY_CH,F17
+Graduating *,Postgraduate coursework,2021,8.2,,,published,CONSID_PGC_UNI_17-YY_CH,G17
+Graduating *,Postgraduate coursework,2022,6.7,,,published,CONSID_PGC_UNI_17-YY_CH,H17
+Graduating *,Postgraduate coursework,2023,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,I17
+Graduating *,Postgraduate coursework,2024,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,J17
+Graduating *,Postgraduate coursework,2025,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,K17
+Health or stress *,Postgraduate coursework,2017,35.6,,,published,CONSID_PGC_UNI_17-YY_CH,C18
+Health or stress *,Postgraduate coursework,2018,34.1,,,published,CONSID_PGC_UNI_17-YY_CH,D18
+Health or stress *,Postgraduate coursework,2019,37.0,,,published,CONSID_PGC_UNI_17-YY_CH,E18
+Health or stress *,Postgraduate coursework,2020,41.5,,,published,CONSID_PGC_UNI_17-YY_CH,F18
+Health or stress *,Postgraduate coursework,2021,42.4,,,published,CONSID_PGC_UNI_17-YY_CH,G18
+Health or stress *,Postgraduate coursework,2022,44.3,,,published,CONSID_PGC_UNI_17-YY_CH,H18
+Health or stress *,Postgraduate coursework,2023,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,I18
+Health or stress *,Postgraduate coursework,2024,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,J18
+Health or stress *,Postgraduate coursework,2025,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,K18
+Institutional budget cuts ***,Postgraduate coursework,2017,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,C19
+Institutional budget cuts ***,Postgraduate coursework,2018,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,D19
+Institutional budget cuts ***,Postgraduate coursework,2019,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,E19
+Institutional budget cuts ***,Postgraduate coursework,2020,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,F19
+Institutional budget cuts ***,Postgraduate coursework,2021,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,G19
+Institutional budget cuts ***,Postgraduate coursework,2022,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,H19
+Institutional budget cuts ***,Postgraduate coursework,2023,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,I19
+Institutional budget cuts ***,Postgraduate coursework,2024,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,J19
+Institutional budget cuts ***,Postgraduate coursework,2025,0.1,,,published,CONSID_PGC_UNI_17-YY_CH,K19
+Lack of academic support,Postgraduate coursework,2017,23.4,,,published,CONSID_PGC_UNI_17-YY_CH,C20
+Lack of academic support,Postgraduate coursework,2018,21.8,,,published,CONSID_PGC_UNI_17-YY_CH,D20
+Lack of academic support,Postgraduate coursework,2019,22.5,,,published,CONSID_PGC_UNI_17-YY_CH,E20
+Lack of academic support,Postgraduate coursework,2020,24.3,,,published,CONSID_PGC_UNI_17-YY_CH,F20
+Lack of academic support,Postgraduate coursework,2021,23.3,,,published,CONSID_PGC_UNI_17-YY_CH,G20
+Lack of academic support,Postgraduate coursework,2022,23.1,,,published,CONSID_PGC_UNI_17-YY_CH,H20
+Lack of academic support,Postgraduate coursework,2023,22.0,,,published,CONSID_PGC_UNI_17-YY_CH,I20
+Lack of academic support,Postgraduate coursework,2024,20.9,,,published,CONSID_PGC_UNI_17-YY_CH,J20
+Lack of academic support,Postgraduate coursework,2025,20.3,,,published,CONSID_PGC_UNI_17-YY_CH,K20
+Lack of administrative support,Postgraduate coursework,2017,11.3,,,published,CONSID_PGC_UNI_17-YY_CH,C21
+Lack of administrative support,Postgraduate coursework,2018,11.2,,,published,CONSID_PGC_UNI_17-YY_CH,D21
+Lack of administrative support,Postgraduate coursework,2019,11.7,,,published,CONSID_PGC_UNI_17-YY_CH,E21
+Lack of administrative support,Postgraduate coursework,2020,11.6,,,published,CONSID_PGC_UNI_17-YY_CH,F21
+Lack of administrative support,Postgraduate coursework,2021,11.3,,,published,CONSID_PGC_UNI_17-YY_CH,G21
+Lack of administrative support,Postgraduate coursework,2022,12.8,,,published,CONSID_PGC_UNI_17-YY_CH,H21
+Lack of administrative support,Postgraduate coursework,2023,15.0,,,published,CONSID_PGC_UNI_17-YY_CH,I21
+Lack of administrative support,Postgraduate coursework,2024,13.3,,,published,CONSID_PGC_UNI_17-YY_CH,J21
+Lack of administrative support,Postgraduate coursework,2025,13.9,,,published,CONSID_PGC_UNI_17-YY_CH,K21
+Lack of career prospects,Postgraduate coursework,2017,16.5,,,published,CONSID_PGC_UNI_17-YY_CH,C22
+Lack of career prospects,Postgraduate coursework,2018,17.6,,,published,CONSID_PGC_UNI_17-YY_CH,D22
+Lack of career prospects,Postgraduate coursework,2019,16.5,,,published,CONSID_PGC_UNI_17-YY_CH,E22
+Lack of career prospects,Postgraduate coursework,2020,15.4,,,published,CONSID_PGC_UNI_17-YY_CH,F22
+Lack of career prospects,Postgraduate coursework,2021,13.3,,,published,CONSID_PGC_UNI_17-YY_CH,G22
+Lack of career prospects,Postgraduate coursework,2022,12.9,,,published,CONSID_PGC_UNI_17-YY_CH,H22
+Lack of career prospects,Postgraduate coursework,2023,13.1,,,published,CONSID_PGC_UNI_17-YY_CH,I22
+Lack of career prospects,Postgraduate coursework,2024,16.8,,,published,CONSID_PGC_UNI_17-YY_CH,J22
+Lack of career prospects,Postgraduate coursework,2025,16.8,,,published,CONSID_PGC_UNI_17-YY_CH,K22
+Lack of connection to my institution **,Postgraduate coursework,2017,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,C23
+Lack of connection to my institution **,Postgraduate coursework,2018,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,D23
+Lack of connection to my institution **,Postgraduate coursework,2019,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,E23
+Lack of connection to my institution **,Postgraduate coursework,2020,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,F23
+Lack of connection to my institution **,Postgraduate coursework,2021,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,G23
+Lack of connection to my institution **,Postgraduate coursework,2022,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,H23
+Lack of connection to my institution **,Postgraduate coursework,2023,16.4,,,published,CONSID_PGC_UNI_17-YY_CH,I23
+Lack of connection to my institution **,Postgraduate coursework,2024,15.3,,,published,CONSID_PGC_UNI_17-YY_CH,J23
+Lack of connection to my institution **,Postgraduate coursework,2025,15.1,,,published,CONSID_PGC_UNI_17-YY_CH,K23
+Limited access to technology **,Postgraduate coursework,2017,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,C24
+Limited access to technology **,Postgraduate coursework,2018,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,D24
+Limited access to technology **,Postgraduate coursework,2019,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,E24
+Limited access to technology **,Postgraduate coursework,2020,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,F24
+Limited access to technology **,Postgraduate coursework,2021,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,G24
+Limited access to technology **,Postgraduate coursework,2022,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,H24
+Limited access to technology **,Postgraduate coursework,2023,3.1,,,published,CONSID_PGC_UNI_17-YY_CH,I24
+Limited access to technology **,Postgraduate coursework,2024,3.2,,,published,CONSID_PGC_UNI_17-YY_CH,J24
+Limited access to technology **,Postgraduate coursework,2025,3.3,,,published,CONSID_PGC_UNI_17-YY_CH,K24
+Low or failing grades **,Postgraduate coursework,2017,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,C25
+Low or failing grades **,Postgraduate coursework,2018,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,D25
+Low or failing grades **,Postgraduate coursework,2019,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,E25
+Low or failing grades **,Postgraduate coursework,2020,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,F25
+Low or failing grades **,Postgraduate coursework,2021,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,G25
+Low or failing grades **,Postgraduate coursework,2022,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,H25
+Low or failing grades **,Postgraduate coursework,2023,9.8,,,published,CONSID_PGC_UNI_17-YY_CH,I25
+Low or failing grades **,Postgraduate coursework,2024,9.7,,,published,CONSID_PGC_UNI_17-YY_CH,J25
+Low or failing grades **,Postgraduate coursework,2025,9.1,,,published,CONSID_PGC_UNI_17-YY_CH,K25
+Moving residence,Postgraduate coursework,2017,3.6,,,published,CONSID_PGC_UNI_17-YY_CH,C26
+Moving residence,Postgraduate coursework,2018,4.5,,,published,CONSID_PGC_UNI_17-YY_CH,D26
+Moving residence,Postgraduate coursework,2019,4.2,,,published,CONSID_PGC_UNI_17-YY_CH,E26
+Moving residence,Postgraduate coursework,2020,5.1,,,published,CONSID_PGC_UNI_17-YY_CH,F26
+Moving residence,Postgraduate coursework,2021,4.2,,,published,CONSID_PGC_UNI_17-YY_CH,G26
+Moving residence,Postgraduate coursework,2022,4.7,,,published,CONSID_PGC_UNI_17-YY_CH,H26
+Moving residence,Postgraduate coursework,2023,5.6,,,published,CONSID_PGC_UNI_17-YY_CH,I26
+Moving residence,Postgraduate coursework,2024,4.9,,,published,CONSID_PGC_UNI_17-YY_CH,J26
+Moving residence,Postgraduate coursework,2025,4.6,,,published,CONSID_PGC_UNI_17-YY_CH,K26
+Moving to another institution **,Postgraduate coursework,2017,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,C27
+Moving to another institution **,Postgraduate coursework,2018,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,D27
+Moving to another institution **,Postgraduate coursework,2019,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,E27
+Moving to another institution **,Postgraduate coursework,2020,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,F27
+Moving to another institution **,Postgraduate coursework,2021,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,G27
+Moving to another institution **,Postgraduate coursework,2022,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,H27
+Moving to another institution **,Postgraduate coursework,2023,9.5,,,published,CONSID_PGC_UNI_17-YY_CH,I27
+Moving to another institution **,Postgraduate coursework,2024,8.5,,,published,CONSID_PGC_UNI_17-YY_CH,J27
+Moving to another institution **,Postgraduate coursework,2025,8.6,,,published,CONSID_PGC_UNI_17-YY_CH,K27
+My course is too difficult **,Postgraduate coursework,2017,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,C28
+My course is too difficult **,Postgraduate coursework,2018,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,D28
+My course is too difficult **,Postgraduate coursework,2019,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,E28
+My course is too difficult **,Postgraduate coursework,2020,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,F28
+My course is too difficult **,Postgraduate coursework,2021,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,G28
+My course is too difficult **,Postgraduate coursework,2022,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,H28
+My course is too difficult **,Postgraduate coursework,2023,6.7,,,published,CONSID_PGC_UNI_17-YY_CH,I28
+My course is too difficult **,Postgraduate coursework,2024,6.8,,,published,CONSID_PGC_UNI_17-YY_CH,J28
+My course is too difficult **,Postgraduate coursework,2025,6.5,,,published,CONSID_PGC_UNI_17-YY_CH,K28
+My English language skills **,Postgraduate coursework,2017,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,C29
+My English language skills **,Postgraduate coursework,2018,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,D29
+My English language skills **,Postgraduate coursework,2019,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,E29
+My English language skills **,Postgraduate coursework,2020,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,F29
+My English language skills **,Postgraduate coursework,2021,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,G29
+My English language skills **,Postgraduate coursework,2022,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,H29
+My English language skills **,Postgraduate coursework,2023,2.6,,,published,CONSID_PGC_UNI_17-YY_CH,I29
+My English language skills **,Postgraduate coursework,2024,2.9,,,published,CONSID_PGC_UNI_17-YY_CH,J29
+My English language skills **,Postgraduate coursework,2025,3.3,,,published,CONSID_PGC_UNI_17-YY_CH,K29
+My mental health **,Postgraduate coursework,2017,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,C30
+My mental health **,Postgraduate coursework,2018,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,D30
+My mental health **,Postgraduate coursework,2019,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,E30
+My mental health **,Postgraduate coursework,2020,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,F30
+My mental health **,Postgraduate coursework,2021,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,G30
+My mental health **,Postgraduate coursework,2022,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,H30
+My mental health **,Postgraduate coursework,2023,30.4,,,published,CONSID_PGC_UNI_17-YY_CH,I30
+My mental health **,Postgraduate coursework,2024,29.5,,,published,CONSID_PGC_UNI_17-YY_CH,J30
+My mental health **,Postgraduate coursework,2025,27.4,,,published,CONSID_PGC_UNI_17-YY_CH,K30
+My physical health **,Postgraduate coursework,2017,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,C31
+My physical health **,Postgraduate coursework,2018,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,D31
+My physical health **,Postgraduate coursework,2019,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,E31
+My physical health **,Postgraduate coursework,2020,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,F31
+My physical health **,Postgraduate coursework,2021,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,G31
+My physical health **,Postgraduate coursework,2022,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,H31
+My physical health **,Postgraduate coursework,2023,9.8,,,published,CONSID_PGC_UNI_17-YY_CH,I31
+My physical health **,Postgraduate coursework,2024,9.6,,,published,CONSID_PGC_UNI_17-YY_CH,J31
+My physical health **,Postgraduate coursework,2025,9.4,,,published,CONSID_PGC_UNI_17-YY_CH,K31
+My stress levels **,Postgraduate coursework,2017,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,C32
+My stress levels **,Postgraduate coursework,2018,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,D32
+My stress levels **,Postgraduate coursework,2019,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,E32
+My stress levels **,Postgraduate coursework,2020,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,F32
+My stress levels **,Postgraduate coursework,2021,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,G32
+My stress levels **,Postgraduate coursework,2022,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,H32
+My stress levels **,Postgraduate coursework,2023,38.4,,,published,CONSID_PGC_UNI_17-YY_CH,I32
+My stress levels **,Postgraduate coursework,2024,36.7,,,published,CONSID_PGC_UNI_17-YY_CH,J32
+My stress levels **,Postgraduate coursework,2025,34.8,,,published,CONSID_PGC_UNI_17-YY_CH,K32
+Need a break *,Postgraduate coursework,2017,13.3,,,published,CONSID_PGC_UNI_17-YY_CH,C33
+Need a break *,Postgraduate coursework,2018,14.3,,,published,CONSID_PGC_UNI_17-YY_CH,D33
+Need a break *,Postgraduate coursework,2019,15.0,,,published,CONSID_PGC_UNI_17-YY_CH,E33
+Need a break *,Postgraduate coursework,2020,13.0,,,published,CONSID_PGC_UNI_17-YY_CH,F33
+Need a break *,Postgraduate coursework,2021,17.1,,,published,CONSID_PGC_UNI_17-YY_CH,G33
+Need a break *,Postgraduate coursework,2022,19.7,,,published,CONSID_PGC_UNI_17-YY_CH,H33
+Need a break *,Postgraduate coursework,2023,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,I33
+Need a break *,Postgraduate coursework,2024,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,J33
+Need a break *,Postgraduate coursework,2025,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,K33
+Need to do paid work * ,Postgraduate coursework,2017,19.9,,,published,CONSID_PGC_UNI_17-YY_CH,C34
+Need to do paid work * ,Postgraduate coursework,2018,19.5,,,published,CONSID_PGC_UNI_17-YY_CH,D34
+Need to do paid work * ,Postgraduate coursework,2019,19.3,,,published,CONSID_PGC_UNI_17-YY_CH,E34
+Need to do paid work * ,Postgraduate coursework,2020,17.0,,,published,CONSID_PGC_UNI_17-YY_CH,F34
+Need to do paid work * ,Postgraduate coursework,2021,20.7,,,published,CONSID_PGC_UNI_17-YY_CH,G34
+Need to do paid work * ,Postgraduate coursework,2022,24.0,,,published,CONSID_PGC_UNI_17-YY_CH,H34
+Need to do paid work * ,Postgraduate coursework,2023,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,I34
+Need to do paid work * ,Postgraduate coursework,2024,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,J34
+Need to do paid work * ,Postgraduate coursework,2025,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,K34
+Other opportunities *,Postgraduate coursework,2017,5.0,,,published,CONSID_PGC_UNI_17-YY_CH,C35
+Other opportunities *,Postgraduate coursework,2018,5.3,,,published,CONSID_PGC_UNI_17-YY_CH,D35
+Other opportunities *,Postgraduate coursework,2019,4.9,,,published,CONSID_PGC_UNI_17-YY_CH,E35
+Other opportunities *,Postgraduate coursework,2020,4.1,,,published,CONSID_PGC_UNI_17-YY_CH,F35
+Other opportunities *,Postgraduate coursework,2021,3.9,,,published,CONSID_PGC_UNI_17-YY_CH,G35
+Other opportunities *,Postgraduate coursework,2022,4.3,,,published,CONSID_PGC_UNI_17-YY_CH,H35
+Other opportunities *,Postgraduate coursework,2023,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,I35
+Other opportunities *,Postgraduate coursework,2024,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,J35
+Other opportunities *,Postgraduate coursework,2025,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,K35
+Other reasons,Postgraduate coursework,2017,11.9,,,published,CONSID_PGC_UNI_17-YY_CH,C36
+Other reasons,Postgraduate coursework,2018,11.1,,,published,CONSID_PGC_UNI_17-YY_CH,D36
+Other reasons,Postgraduate coursework,2019,11.1,,,published,CONSID_PGC_UNI_17-YY_CH,E36
+Other reasons,Postgraduate coursework,2020,9.2,,,published,CONSID_PGC_UNI_17-YY_CH,F36
+Other reasons,Postgraduate coursework,2021,9.7,,,published,CONSID_PGC_UNI_17-YY_CH,G36
+Other reasons,Postgraduate coursework,2022,4.8,,,published,CONSID_PGC_UNI_17-YY_CH,H36
+Other reasons,Postgraduate coursework,2023,5.6,,,published,CONSID_PGC_UNI_17-YY_CH,I36
+Other reasons,Postgraduate coursework,2024,8.7,,,published,CONSID_PGC_UNI_17-YY_CH,J36
+Other reasons,Postgraduate coursework,2025,8.5,,,published,CONSID_PGC_UNI_17-YY_CH,K36
+Paid work responsibilities,Postgraduate coursework,2017,20.2,,,published,CONSID_PGC_UNI_17-YY_CH,C37
+Paid work responsibilities,Postgraduate coursework,2018,19.2,,,published,CONSID_PGC_UNI_17-YY_CH,D37
+Paid work responsibilities,Postgraduate coursework,2019,18.9,,,published,CONSID_PGC_UNI_17-YY_CH,E37
+Paid work responsibilities,Postgraduate coursework,2020,15.7,,,published,CONSID_PGC_UNI_17-YY_CH,F37
+Paid work responsibilities,Postgraduate coursework,2021,21.2,,,published,CONSID_PGC_UNI_17-YY_CH,G37
+Paid work responsibilities,Postgraduate coursework,2022,26.6,,,published,CONSID_PGC_UNI_17-YY_CH,H37
+Paid work responsibilities,Postgraduate coursework,2023,30.5,,,published,CONSID_PGC_UNI_17-YY_CH,I37
+Paid work responsibilities,Postgraduate coursework,2024,25.0,,,published,CONSID_PGC_UNI_17-YY_CH,J37
+Paid work responsibilities,Postgraduate coursework,2025,25.4,,,published,CONSID_PGC_UNI_17-YY_CH,K37
+Personal reasons *,Postgraduate coursework,2017,15.0,,,published,CONSID_PGC_UNI_17-YY_CH,C38
+Personal reasons *,Postgraduate coursework,2018,15.8,,,published,CONSID_PGC_UNI_17-YY_CH,D38
+Personal reasons *,Postgraduate coursework,2019,15.8,,,published,CONSID_PGC_UNI_17-YY_CH,E38
+Personal reasons *,Postgraduate coursework,2020,16.3,,,published,CONSID_PGC_UNI_17-YY_CH,F38
+Personal reasons *,Postgraduate coursework,2021,16.8,,,published,CONSID_PGC_UNI_17-YY_CH,G38
+Personal reasons *,Postgraduate coursework,2022,17.8,,,published,CONSID_PGC_UNI_17-YY_CH,H38
+Personal reasons *,Postgraduate coursework,2023,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,I38
+Personal reasons *,Postgraduate coursework,2024,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,J38
+Personal reasons *,Postgraduate coursework,2025,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,K38
+Quality concerns,Postgraduate coursework,2017,22.1,,,published,CONSID_PGC_UNI_17-YY_CH,C39
+Quality concerns,Postgraduate coursework,2018,20.1,,,published,CONSID_PGC_UNI_17-YY_CH,D39
+Quality concerns,Postgraduate coursework,2019,20.7,,,published,CONSID_PGC_UNI_17-YY_CH,E39
+Quality concerns,Postgraduate coursework,2020,21.8,,,published,CONSID_PGC_UNI_17-YY_CH,F39
+Quality concerns,Postgraduate coursework,2021,20.0,,,published,CONSID_PGC_UNI_17-YY_CH,G39
+Quality concerns,Postgraduate coursework,2022,19.8,,,published,CONSID_PGC_UNI_17-YY_CH,H39
+Quality concerns,Postgraduate coursework,2023,16.5,,,published,CONSID_PGC_UNI_17-YY_CH,I39
+Quality concerns,Postgraduate coursework,2024,16.3,,,published,CONSID_PGC_UNI_17-YY_CH,J39
+Quality concerns,Postgraduate coursework,2025,15.9,,,published,CONSID_PGC_UNI_17-YY_CH,K39
+Received other offer *,Postgraduate coursework,2017,5.0,,,published,CONSID_PGC_UNI_17-YY_CH,C40
+Received other offer *,Postgraduate coursework,2018,4.6,,,published,CONSID_PGC_UNI_17-YY_CH,D40
+Received other offer *,Postgraduate coursework,2019,4.7,,,published,CONSID_PGC_UNI_17-YY_CH,E40
+Received other offer *,Postgraduate coursework,2020,3.8,,,published,CONSID_PGC_UNI_17-YY_CH,F40
+Received other offer *,Postgraduate coursework,2021,3.8,,,published,CONSID_PGC_UNI_17-YY_CH,G40
+Received other offer *,Postgraduate coursework,2022,4.4,,,published,CONSID_PGC_UNI_17-YY_CH,H40
+Received other offer *,Postgraduate coursework,2023,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,I40
+Received other offer *,Postgraduate coursework,2024,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,J40
+Received other offer *,Postgraduate coursework,2025,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,K40
+Social Reasons,Postgraduate coursework,2017,4.2,,,published,CONSID_PGC_UNI_17-YY_CH,C41
+Social Reasons,Postgraduate coursework,2018,4.8,,,published,CONSID_PGC_UNI_17-YY_CH,D41
+Social Reasons,Postgraduate coursework,2019,5.0,,,published,CONSID_PGC_UNI_17-YY_CH,E41
+Social Reasons,Postgraduate coursework,2020,6.4,,,published,CONSID_PGC_UNI_17-YY_CH,F41
+Social Reasons,Postgraduate coursework,2021,4.7,,,published,CONSID_PGC_UNI_17-YY_CH,G41
+Social Reasons,Postgraduate coursework,2022,3.6,,,published,CONSID_PGC_UNI_17-YY_CH,H41
+Social Reasons,Postgraduate coursework,2023,4.7,,,published,CONSID_PGC_UNI_17-YY_CH,I41
+Social Reasons,Postgraduate coursework,2024,5.4,,,published,CONSID_PGC_UNI_17-YY_CH,J41
+Social Reasons,Postgraduate coursework,2025,5.6,,,published,CONSID_PGC_UNI_17-YY_CH,K41
+Standards too high *,Postgraduate coursework,2017,4.4,,,published,CONSID_PGC_UNI_17-YY_CH,C42
+Standards too high *,Postgraduate coursework,2018,5.1,,,published,CONSID_PGC_UNI_17-YY_CH,D42
+Standards too high *,Postgraduate coursework,2019,5.2,,,published,CONSID_PGC_UNI_17-YY_CH,E42
+Standards too high *,Postgraduate coursework,2020,4.4,,,published,CONSID_PGC_UNI_17-YY_CH,F42
+Standards too high *,Postgraduate coursework,2021,5.4,,,published,CONSID_PGC_UNI_17-YY_CH,G42
+Standards too high *,Postgraduate coursework,2022,5.6,,,published,CONSID_PGC_UNI_17-YY_CH,H42
+Standards too high *,Postgraduate coursework,2023,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,I42
+Standards too high *,Postgraduate coursework,2024,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,J42
+Standards too high *,Postgraduate coursework,2025,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,K42
+Study/life balance,Postgraduate coursework,2017,26.5,,,published,CONSID_PGC_UNI_17-YY_CH,C43
+Study/life balance,Postgraduate coursework,2018,26.0,,,published,CONSID_PGC_UNI_17-YY_CH,D43
+Study/life balance,Postgraduate coursework,2019,26.4,,,published,CONSID_PGC_UNI_17-YY_CH,E43
+Study/life balance,Postgraduate coursework,2020,21.7,,,published,CONSID_PGC_UNI_17-YY_CH,F43
+Study/life balance,Postgraduate coursework,2021,26.3,,,published,CONSID_PGC_UNI_17-YY_CH,G43
+Study/life balance,Postgraduate coursework,2022,30.4,,,published,CONSID_PGC_UNI_17-YY_CH,H43
+Study/life balance,Postgraduate coursework,2023,31.3,,,published,CONSID_PGC_UNI_17-YY_CH,I43
+Study/life balance,Postgraduate coursework,2024,28.7,,,published,CONSID_PGC_UNI_17-YY_CH,J43
+Study/life balance,Postgraduate coursework,2025,27.3,,,published,CONSID_PGC_UNI_17-YY_CH,K43
+To pursue a career or job offer **,Postgraduate coursework,2017,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,C44
+To pursue a career or job offer **,Postgraduate coursework,2018,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,D44
+To pursue a career or job offer **,Postgraduate coursework,2019,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,E44
+To pursue a career or job offer **,Postgraduate coursework,2020,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,F44
+To pursue a career or job offer **,Postgraduate coursework,2021,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,G44
+To pursue a career or job offer **,Postgraduate coursework,2022,,,,unavailable,CONSID_PGC_UNI_17-YY_CH,H44
+To pursue a career or job offer **,Postgraduate coursework,2023,7.9,,,published,CONSID_PGC_UNI_17-YY_CH,I44
+To pursue a career or job offer **,Postgraduate coursework,2024,10.3,,,published,CONSID_PGC_UNI_17-YY_CH,J44
+To pursue a career or job offer **,Postgraduate coursework,2025,11.0,,,published,CONSID_PGC_UNI_17-YY_CH,K44
+To travel,Postgraduate coursework,2017,2.0,,,published,CONSID_PGC_UNI_17-YY_CH,C45
+To travel,Postgraduate coursework,2018,2.1,,,published,CONSID_PGC_UNI_17-YY_CH,D45
+To travel,Postgraduate coursework,2019,1.8,,,published,CONSID_PGC_UNI_17-YY_CH,E45
+To travel,Postgraduate coursework,2020,1.6,,,published,CONSID_PGC_UNI_17-YY_CH,F45
+To travel,Postgraduate coursework,2021,2.9,,,published,CONSID_PGC_UNI_17-YY_CH,G45
+To travel,Postgraduate coursework,2022,1.8,,,published,CONSID_PGC_UNI_17-YY_CH,H45
+To travel,Postgraduate coursework,2023,2.1,,,published,CONSID_PGC_UNI_17-YY_CH,I45
+To travel,Postgraduate coursework,2024,2.1,,,published,CONSID_PGC_UNI_17-YY_CH,J45
+To travel,Postgraduate coursework,2025,2.7,,,published,CONSID_PGC_UNI_17-YY_CH,K45

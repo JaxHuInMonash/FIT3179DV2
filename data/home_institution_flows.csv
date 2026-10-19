@@ -1,0 +1,91 @@
+home_state,institution_state,year,students,status,source_sheet,source_cell
+New South Wales,New South Wales,2024,275720,published,2.4,B5
+New South Wales,Victoria,2024,13354,published,2.4,C5
+New South Wales,Queensland,2024,9902,published,2.4,D5
+New South Wales,Western Australia,2024,8002,published,2.4,E5
+New South Wales,South Australia,2024,9212,published,2.4,F5
+New South Wales,Tasmania,2024,6112,published,2.4,G5
+New South Wales,Northern Territory,2024,1326,published,2.4,H5
+New South Wales,Australian Capital Territory,2024,8621,published,2.4,I5
+New South Wales,Multi-State,2024,12002,published,2.4,J5
+Victoria,New South Wales,2024,22028,published,2.4,B6
+Victoria,Victoria,2024,232690,published,2.4,C6
+Victoria,Queensland,2024,5870,published,2.4,D6
+Victoria,Western Australia,2024,3321,published,2.4,E6
+Victoria,South Australia,2024,6812,published,2.4,F6
+Victoria,Tasmania,2024,2691,published,2.4,G6
+Victoria,Northern Territory,2024,1105,published,2.4,H6
+Victoria,Australian Capital Territory,2024,2177,published,2.4,I6
+Victoria,Multi-State,2024,11302,published,2.4,J6
+Queensland,New South Wales,2024,22231,published,2.4,B7
+Queensland,Victoria,2024,8292,published,2.4,C7
+Queensland,Queensland,2024,162429,published,2.4,D7
+Queensland,Western Australia,2024,2810,published,2.4,E7
+Queensland,South Australia,2024,5777,published,2.4,F7
+Queensland,Tasmania,2024,3061,published,2.4,G7
+Queensland,Northern Territory,2024,933,published,2.4,H7
+Queensland,Australian Capital Territory,2024,1464,published,2.4,I7
+Queensland,Multi-State,2024,6430,published,2.4,J7
+Western Australia,New South Wales,2024,7519,published,2.4,B8
+Western Australia,Victoria,2024,3834,published,2.4,C8
+Western Australia,Queensland,2024,3109,published,2.4,D8
+Western Australia,Western Australia,2024,86789,published,2.4,E8
+Western Australia,South Australia,2024,2078,published,2.4,F8
+Western Australia,Tasmania,2024,1047,published,2.4,G8
+Western Australia,Northern Territory,2024,983,published,2.4,H8
+Western Australia,Australian Capital Territory,2024,525,published,2.4,I8
+Western Australia,Multi-State,2024,415,published,2.4,J8
+South Australia,New South Wales,2024,4992,published,2.4,B9
+South Australia,Victoria,2024,2819,published,2.4,C9
+South Australia,Queensland,2024,2334,published,2.4,D9
+South Australia,Western Australia,2024,975,published,2.4,E9
+South Australia,South Australia,2024,58517,published,2.4,F9
+South Australia,Tasmania,2024,840,published,2.4,G9
+South Australia,Northern Territory,2024,1177,published,2.4,H9
+South Australia,Australian Capital Territory,2024,391,published,2.4,I9
+South Australia,Multi-State,2024,358,published,2.4,J9
+Tasmania,New South Wales,2024,1763,published,2.4,B10
+Tasmania,Victoria,2024,1782,published,2.4,C10
+Tasmania,Queensland,2024,830,published,2.4,D10
+Tasmania,Western Australia,2024,299,published,2.4,E10
+Tasmania,South Australia,2024,567,published,2.4,F10
+Tasmania,Tasmania,2024,12487,published,2.4,G10
+Tasmania,Northern Territory,2024,150,published,2.4,H10
+Tasmania,Australian Capital Territory,2024,213,published,2.4,I10
+Tasmania,Multi-State,2024,115,published,2.4,J10
+Northern Territory,New South Wales,2024,1053,published,2.4,B11
+Northern Territory,Victoria,2024,875,published,2.4,C11
+Northern Territory,Queensland,2024,819,published,2.4,D11
+Northern Territory,Western Australia,2024,237,published,2.4,E11
+Northern Territory,South Australia,2024,881,published,2.4,F11
+Northern Territory,Tasmania,2024,265,published,2.4,G11
+Northern Territory,Northern Territory,2024,3187,published,2.4,H11
+Northern Territory,Australian Capital Territory,2024,,np,2.4,I11
+Northern Territory,Multi-State,2024,,np,2.4,J11
+Australian Capital Territory,New South Wales,2024,5661,published,2.4,B12
+Australian Capital Territory,Victoria,2024,1853,published,2.4,C12
+Australian Capital Territory,Queensland,2024,932,published,2.4,D12
+Australian Capital Territory,Western Australia,2024,348,published,2.4,E12
+Australian Capital Territory,South Australia,2024,653,published,2.4,F12
+Australian Capital Territory,Tasmania,2024,301,published,2.4,G12
+Australian Capital Territory,Northern Territory,2024,145,published,2.4,H12
+Australian Capital Territory,Australian Capital Territory,2024,14773,published,2.4,I12
+Australian Capital Territory,Multi-State,2024,791,published,2.4,J12
+Outside Australia,New South Wales,2024,203561,published,2.4,B13
+Outside Australia,Victoria,2024,204773,published,2.4,C13
+Outside Australia,Queensland,2024,62848,published,2.4,D13
+Outside Australia,Western Australia,2024,58998,published,2.4,E13
+Outside Australia,South Australia,2024,39379,published,2.4,F13
+Outside Australia,Tasmania,2024,5180,published,2.4,G13
+Outside Australia,Northern Territory,2024,3689,published,2.4,H13
+Outside Australia,Australian Capital Territory,2024,14427,published,2.4,I13
+Outside Australia,Multi-State,2024,6027,published,2.4,J13
+Not provided,New South Wales,2024,596,published,2.4,B14
+Not provided,Victoria,2024,470,published,2.4,C14
+Not provided,Queensland,2024,46,published,2.4,D14
+Not provided,Western Australia,2024,443,published,2.4,E14
+Not provided,South Australia,2024,50,published,2.4,F14
+Not provided,Tasmania,2024,25,published,2.4,G14
+Not provided,Northern Territory,2024,0,published,2.4,H14
+Not provided,Australian Capital Territory,2024,,np,2.4,I14
+Not provided,Multi-State,2024,,< 5,2.4,J14

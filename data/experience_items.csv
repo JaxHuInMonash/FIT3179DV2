@@ -1,0 +1,181 @@
+family,item,level,stage,year,positive_pct,ci_low,ci_high,status,source_sheet,source_cell
+SUPP,Helpful support and services: enrolment process and support,Undergraduate,Commencing,2025,65.2,,,published,SUPP_UG_UNI_17-YY_STAGE,K5
+SUPP,Helpful support and services: enrolment process and support,Undergraduate,Later year,2025,60.8,,,published,SUPP_UG_UNI_17-YY_STAGE,T5
+SUPP,Helpful support and services: enrolment process and support,Undergraduate,Total,2025,63.5,,,published,SUPP_UG_UNI_17-YY_STAGE,AC5
+SUPP,Helpful support and services: induction/orientation activities,Undergraduate,Commencing,2025,61.7,,,published,SUPP_UG_UNI_17-YY_STAGE,K6
+SUPP,Helpful support and services: induction/orientation activities,Undergraduate,Later year,2025,53.8,,,published,SUPP_UG_UNI_17-YY_STAGE,T6
+SUPP,Helpful support and services: induction/orientation activities,Undergraduate,Total,2025,58.8,,,published,SUPP_UG_UNI_17-YY_STAGE,AC6
+SUPP,Helpful support and services: online learning platform,Undergraduate,Commencing,2025,78.2,,,published,SUPP_UG_UNI_17-YY_STAGE,K7
+SUPP,Helpful support and services: online learning platform,Undergraduate,Later year,2025,74.0,,,published,SUPP_UG_UNI_17-YY_STAGE,T7
+SUPP,Helpful support and services: online learning platform,Undergraduate,Total,2025,76.5,,,published,SUPP_UG_UNI_17-YY_STAGE,AC7
+SUPP,Helpful support and services: career development services,Undergraduate,Commencing,2025,52.5,,,published,SUPP_UG_UNI_17-YY_STAGE,K8
+SUPP,Helpful support and services: career development services,Undergraduate,Later year,2025,48.5,,,published,SUPP_UG_UNI_17-YY_STAGE,T8
+SUPP,Helpful support and services: career development services,Undergraduate,Total,2025,50.8,,,published,SUPP_UG_UNI_17-YY_STAGE,AC8
+SUPP,Helpful support and services: study or learning support services,Undergraduate,Commencing,2025,65.6,,,published,SUPP_UG_UNI_17-YY_STAGE,K9
+SUPP,Helpful support and services: study or learning support services,Undergraduate,Later year,2025,58.0,,,published,SUPP_UG_UNI_17-YY_STAGE,T9
+SUPP,Helpful support and services: study or learning support services,Undergraduate,Total,2025,62.6,,,published,SUPP_UG_UNI_17-YY_STAGE,AC9
+SUPP,Helpful support and services: counsellors and or health services,Undergraduate,Commencing,2025,58.7,,,published,SUPP_UG_UNI_17-YY_STAGE,K10
+SUPP,Helpful support and services: counsellors and or health services,Undergraduate,Later year,2025,54.3,,,published,SUPP_UG_UNI_17-YY_STAGE,T10
+SUPP,Helpful support and services: counsellors and or health services,Undergraduate,Total,2025,57.0,,,published,SUPP_UG_UNI_17-YY_STAGE,AC10
+SUPP,Helpful support and services: financial and or legal advisors,Undergraduate,Commencing,2025,48.1,,,published,SUPP_UG_UNI_17-YY_STAGE,K11
+SUPP,Helpful support and services: financial and or legal advisors,Undergraduate,Later year,2025,41.0,,,published,SUPP_UG_UNI_17-YY_STAGE,T11
+SUPP,Helpful support and services: financial and or legal advisors,Undergraduate,Total,2025,45.4,,,published,SUPP_UG_UNI_17-YY_STAGE,AC11
+TEACH,Study well structured and focused,Undergraduate,Commencing,2025,71.2,,,published,TEACH_UG_UNI_17-YY_STAGE,K5
+TEACH,Study well structured and focused,Undergraduate,Later year,2025,63.3,,,published,TEACH_UG_UNI_17-YY_STAGE,T5
+TEACH,Study well structured and focused,Undergraduate,Total,2025,68.0,,,published,TEACH_UG_UNI_17-YY_STAGE,AC5
+TEACH,Study relevant to education as a whole,Undergraduate,Commencing,2025,76.3,,,published,TEACH_UG_UNI_17-YY_STAGE,K6
+TEACH,Study relevant to education as a whole,Undergraduate,Later year,2025,70.5,,,published,TEACH_UG_UNI_17-YY_STAGE,T6
+TEACH,Study relevant to education as a whole,Undergraduate,Total,2025,74.0,,,published,TEACH_UG_UNI_17-YY_STAGE,AC6
+TEACH,Teachers engaged you actively in learning,Undergraduate,Commencing,2025,65.6,,,published,TEACH_UG_UNI_17-YY_STAGE,K7
+TEACH,Teachers engaged you actively in learning,Undergraduate,Later year,2025,61.2,,,published,TEACH_UG_UNI_17-YY_STAGE,T7
+TEACH,Teachers engaged you actively in learning,Undergraduate,Total,2025,63.9,,,published,TEACH_UG_UNI_17-YY_STAGE,AC7
+TEACH,Teachers demonstrated concern for student learning,Undergraduate,Commencing,2025,57.9,,,published,TEACH_UG_UNI_17-YY_STAGE,K8
+TEACH,Teachers demonstrated concern for student learning,Undergraduate,Later year,2025,54.4,,,published,TEACH_UG_UNI_17-YY_STAGE,T8
+TEACH,Teachers demonstrated concern for student learning,Undergraduate,Total,2025,56.5,,,published,TEACH_UG_UNI_17-YY_STAGE,AC8
+TEACH,Teachers provided clear explanations on coursework and assessment,Undergraduate,Commencing,2025,68.7,,,published,TEACH_UG_UNI_17-YY_STAGE,K9
+TEACH,Teachers provided clear explanations on coursework and assessment,Undergraduate,Later year,2025,64.9,,,published,TEACH_UG_UNI_17-YY_STAGE,T9
+TEACH,Teachers provided clear explanations on coursework and assessment,Undergraduate,Total,2025,67.2,,,published,TEACH_UG_UNI_17-YY_STAGE,AC9
+TEACH,Teachers stimulated you intellectually,Undergraduate,Commencing,2025,67.4,,,published,TEACH_UG_UNI_17-YY_STAGE,K10
+TEACH,Teachers stimulated you intellectually,Undergraduate,Later year,2025,63.9,,,published,TEACH_UG_UNI_17-YY_STAGE,T10
+TEACH,Teachers stimulated you intellectually,Undergraduate,Total,2025,66.0,,,published,TEACH_UG_UNI_17-YY_STAGE,AC10
+TEACH,Teachers commented on your work in ways that help you learn,Undergraduate,Commencing,2025,52.8,,,published,TEACH_UG_UNI_17-YY_STAGE,K11
+TEACH,Teachers commented on your work in ways that help you learn,Undergraduate,Later year,2025,52.1,,,published,TEACH_UG_UNI_17-YY_STAGE,T11
+TEACH,Teachers commented on your work in ways that help you learn,Undergraduate,Total,2025,52.5,,,published,TEACH_UG_UNI_17-YY_STAGE,AC11
+TEACH,Teachers seemed helpful and approachable,Undergraduate,Commencing,2025,72.8,,,published,TEACH_UG_UNI_17-YY_STAGE,K12
+TEACH,Teachers seemed helpful and approachable,Undergraduate,Later year,2025,68.7,,,published,TEACH_UG_UNI_17-YY_STAGE,T12
+TEACH,Teachers seemed helpful and approachable,Undergraduate,Total,2025,71.2,,,published,TEACH_UG_UNI_17-YY_STAGE,AC12
+TEACH,Teachers set assessment tasks that challenge you to learn,Undergraduate,Commencing,2025,76.3,,,published,TEACH_UG_UNI_17-YY_STAGE,K13
+TEACH,Teachers set assessment tasks that challenge you to learn,Undergraduate,Later year,2025,71.8,,,published,TEACH_UG_UNI_17-YY_STAGE,T13
+TEACH,Teachers set assessment tasks that challenge you to learn,Undergraduate,Total,2025,74.5,,,published,TEACH_UG_UNI_17-YY_STAGE,AC13
+TEACH,Quality of teaching,Undergraduate,Commencing,2025,79.3,,,published,TEACH_UG_UNI_17-YY_STAGE,K14
+TEACH,Quality of teaching,Undergraduate,Later year,2025,72.4,,,published,TEACH_UG_UNI_17-YY_STAGE,T14
+TEACH,Quality of teaching,Undergraduate,Total,2025,76.5,,,published,TEACH_UG_UNI_17-YY_STAGE,AC14
+TEACH,Overall Educational Experience,Undergraduate,Commencing,2025,79.2,,,published,TEACH_UG_UNI_17-YY_STAGE,K15
+TEACH,Overall Educational Experience,Undergraduate,Later year,2025,71.6,,,published,TEACH_UG_UNI_17-YY_STAGE,T15
+TEACH,Overall Educational Experience,Undergraduate,Total,2025,76.2,,,published,TEACH_UG_UNI_17-YY_STAGE,AC15
+RESR,Quality of teaching spaces,Undergraduate,Commencing,2025,89.3,,,published,RESR_UG_UNI_17-YY_STAGE,K5
+RESR,Quality of teaching spaces,Undergraduate,Later year,2025,83.6,,,published,RESR_UG_UNI_17-YY_STAGE,T5
+RESR,Quality of teaching spaces,Undergraduate,Total,2025,87.1,,,published,RESR_UG_UNI_17-YY_STAGE,AC5
+RESR,Quality of student spaces and common areas,Undergraduate,Commencing,2025,84.9,,,published,RESR_UG_UNI_17-YY_STAGE,K6
+RESR,Quality of student spaces and common areas,Undergraduate,Later year,2025,78.6,,,published,RESR_UG_UNI_17-YY_STAGE,T6
+RESR,Quality of student spaces and common areas,Undergraduate,Total,2025,82.4,,,published,RESR_UG_UNI_17-YY_STAGE,AC6
+RESR,Quality of online learning materials,Undergraduate,Commencing,2025,85.2,,,published,RESR_UG_UNI_17-YY_STAGE,K7
+RESR,Quality of online learning materials,Undergraduate,Later year,2025,80.8,,,published,RESR_UG_UNI_17-YY_STAGE,T7
+RESR,Quality of online learning materials,Undergraduate,Total,2025,83.5,,,published,RESR_UG_UNI_17-YY_STAGE,AC7
+RESR,Quality of computing/IT resources,Undergraduate,Commencing,2025,81.0,,,published,RESR_UG_UNI_17-YY_STAGE,K8
+RESR,Quality of computing/IT resources,Undergraduate,Later year,2025,75.6,,,published,RESR_UG_UNI_17-YY_STAGE,T8
+RESR,Quality of computing/IT resources,Undergraduate,Total,2025,78.9,,,published,RESR_UG_UNI_17-YY_STAGE,AC8
+RESR,"Quality of assigned books, notes and resources",Undergraduate,Commencing,2025,78.7,,,published,RESR_UG_UNI_17-YY_STAGE,K9
+RESR,"Quality of assigned books, notes and resources",Undergraduate,Later year,2025,75.5,,,published,RESR_UG_UNI_17-YY_STAGE,T9
+RESR,"Quality of assigned books, notes and resources",Undergraduate,Total,2025,77.5,,,published,RESR_UG_UNI_17-YY_STAGE,AC9
+RESR,Quality of laboratory or studio equipment,Undergraduate,Commencing,2025,84.5,,,published,RESR_UG_UNI_17-YY_STAGE,K10
+RESR,Quality of laboratory or studio equipment,Undergraduate,Later year,2025,77.9,,,published,RESR_UG_UNI_17-YY_STAGE,T10
+RESR,Quality of laboratory or studio equipment,Undergraduate,Total,2025,82.0,,,published,RESR_UG_UNI_17-YY_STAGE,AC10
+RESR,Quality of library resources and facilities,Undergraduate,Commencing,2025,87.6,,,published,RESR_UG_UNI_17-YY_STAGE,K11
+RESR,Quality of library resources and facilities,Undergraduate,Later year,2025,83.9,,,published,RESR_UG_UNI_17-YY_STAGE,T11
+RESR,Quality of library resources and facilities,Undergraduate,Total,2025,86.2,,,published,RESR_UG_UNI_17-YY_STAGE,AC11
+ENGAG,Contributed to class discussion,Undergraduate,Commencing,2025,45.6,,,published,ENGAG_UG_UNI_17-YY_STAGE,K5
+ENGAG,Contributed to class discussion,Undergraduate,Later year,2025,50.5,,,published,ENGAG_UG_UNI_17-YY_STAGE,T5
+ENGAG,Contributed to class discussion,Undergraduate,Total,2025,47.6,,,published,ENGAG_UG_UNI_17-YY_STAGE,AC5
+ENGAG,Worked with other students as part of your study ,Undergraduate,Commencing,2025,60.1,,,published,ENGAG_UG_UNI_17-YY_STAGE,K6
+ENGAG,Worked with other students as part of your study ,Undergraduate,Later year,2025,62.6,,,published,ENGAG_UG_UNI_17-YY_STAGE,T6
+ENGAG,Worked with other students as part of your study ,Undergraduate,Total,2025,61.1,,,published,ENGAG_UG_UNI_17-YY_STAGE,AC6
+ENGAG,Interacted with students outside study requirements,Undergraduate,Commencing,2025,33.4,,,published,ENGAG_UG_UNI_17-YY_STAGE,K7
+ENGAG,Interacted with students outside study requirements,Undergraduate,Later year,2025,29.5,,,published,ENGAG_UG_UNI_17-YY_STAGE,T7
+ENGAG,Interacted with students outside study requirements,Undergraduate,Total,2025,31.9,,,published,ENGAG_UG_UNI_17-YY_STAGE,AC7
+ENGAG,Interacted with other students to give or receive help with study,Undergraduate,Commencing,2025,41.8,,,published,ENGAG_UG_UNI_17-YY_STAGE,K8
+ENGAG,Interacted with other students to give or receive help with study,Undergraduate,Later year,2025,40.2,,,published,ENGAG_UG_UNI_17-YY_STAGE,T8
+ENGAG,Interacted with other students to give or receive help with study,Undergraduate,Total,2025,41.2,,,published,ENGAG_UG_UNI_17-YY_STAGE,AC8
+ENGAG,Interacted with a diverse range of students,Undergraduate,Commencing,2025,49.7,,,published,ENGAG_UG_UNI_17-YY_STAGE,K9
+ENGAG,Interacted with a diverse range of students,Undergraduate,Later year,2025,46.8,,,published,ENGAG_UG_UNI_17-YY_STAGE,T9
+ENGAG,Interacted with a diverse range of students,Undergraduate,Total,2025,48.5,,,published,ENGAG_UG_UNI_17-YY_STAGE,AC9
+SUPP,Helpful support and services: enrolment process and support,Postgraduate coursework,Commencing,2025,73.4,,,published,SUPP_PGC_UNI_17-YY_STAGE,K5
+SUPP,Helpful support and services: enrolment process and support,Postgraduate coursework,Later year,2025,74.0,,,published,SUPP_PGC_UNI_17-YY_STAGE,T5
+SUPP,Helpful support and services: enrolment process and support,Postgraduate coursework,Total,2025,73.7,,,published,SUPP_PGC_UNI_17-YY_STAGE,AC5
+SUPP,Helpful support and services: induction/orientation activities,Postgraduate coursework,Commencing,2025,67.6,,,published,SUPP_PGC_UNI_17-YY_STAGE,K6
+SUPP,Helpful support and services: induction/orientation activities,Postgraduate coursework,Later year,2025,68.3,,,published,SUPP_PGC_UNI_17-YY_STAGE,T6
+SUPP,Helpful support and services: induction/orientation activities,Postgraduate coursework,Total,2025,68.0,,,published,SUPP_PGC_UNI_17-YY_STAGE,AC6
+SUPP,Helpful support and services: online learning platform,Postgraduate coursework,Commencing,2025,79.4,,,published,SUPP_PGC_UNI_17-YY_STAGE,K7
+SUPP,Helpful support and services: online learning platform,Postgraduate coursework,Later year,2025,80.3,,,published,SUPP_PGC_UNI_17-YY_STAGE,T7
+SUPP,Helpful support and services: online learning platform,Postgraduate coursework,Total,2025,79.9,,,published,SUPP_PGC_UNI_17-YY_STAGE,AC7
+SUPP,Helpful support and services: career development services,Postgraduate coursework,Commencing,2025,56.4,,,published,SUPP_PGC_UNI_17-YY_STAGE,K8
+SUPP,Helpful support and services: career development services,Postgraduate coursework,Later year,2025,55.3,,,published,SUPP_PGC_UNI_17-YY_STAGE,T8
+SUPP,Helpful support and services: career development services,Postgraduate coursework,Total,2025,55.8,,,published,SUPP_PGC_UNI_17-YY_STAGE,AC8
+SUPP,Helpful support and services: study or learning support services,Postgraduate coursework,Commencing,2025,70.3,,,published,SUPP_PGC_UNI_17-YY_STAGE,K9
+SUPP,Helpful support and services: study or learning support services,Postgraduate coursework,Later year,2025,70.0,,,published,SUPP_PGC_UNI_17-YY_STAGE,T9
+SUPP,Helpful support and services: study or learning support services,Postgraduate coursework,Total,2025,70.2,,,published,SUPP_PGC_UNI_17-YY_STAGE,AC9
+SUPP,Helpful support and services: counsellors and or health services,Postgraduate coursework,Commencing,2025,64.6,,,published,SUPP_PGC_UNI_17-YY_STAGE,K10
+SUPP,Helpful support and services: counsellors and or health services,Postgraduate coursework,Later year,2025,64.6,,,published,SUPP_PGC_UNI_17-YY_STAGE,T10
+SUPP,Helpful support and services: counsellors and or health services,Postgraduate coursework,Total,2025,64.6,,,published,SUPP_PGC_UNI_17-YY_STAGE,AC10
+SUPP,Helpful support and services: financial and or legal advisors,Postgraduate coursework,Commencing,2025,54.3,,,published,SUPP_PGC_UNI_17-YY_STAGE,K11
+SUPP,Helpful support and services: financial and or legal advisors,Postgraduate coursework,Later year,2025,53.0,,,published,SUPP_PGC_UNI_17-YY_STAGE,T11
+SUPP,Helpful support and services: financial and or legal advisors,Postgraduate coursework,Total,2025,53.6,,,published,SUPP_PGC_UNI_17-YY_STAGE,AC11
+TEACH,Study well structured and focused,Postgraduate coursework,Commencing,2025,73.3,,,published,TEACH_PGC_UNI_17-YY_STAGE,K5
+TEACH,Study well structured and focused,Postgraduate coursework,Later year,2025,71.2,,,published,TEACH_PGC_UNI_17-YY_STAGE,T5
+TEACH,Study well structured and focused,Postgraduate coursework,Total,2025,72.2,,,published,TEACH_PGC_UNI_17-YY_STAGE,AC5
+TEACH,Study relevant to education as a whole,Postgraduate coursework,Commencing,2025,80.3,,,published,TEACH_PGC_UNI_17-YY_STAGE,K6
+TEACH,Study relevant to education as a whole,Postgraduate coursework,Later year,2025,77.0,,,published,TEACH_PGC_UNI_17-YY_STAGE,T6
+TEACH,Study relevant to education as a whole,Postgraduate coursework,Total,2025,78.5,,,published,TEACH_PGC_UNI_17-YY_STAGE,AC6
+TEACH,Teachers engaged you actively in learning,Postgraduate coursework,Commencing,2025,74.0,,,published,TEACH_PGC_UNI_17-YY_STAGE,K7
+TEACH,Teachers engaged you actively in learning,Postgraduate coursework,Later year,2025,72.4,,,published,TEACH_PGC_UNI_17-YY_STAGE,T7
+TEACH,Teachers engaged you actively in learning,Postgraduate coursework,Total,2025,73.2,,,published,TEACH_PGC_UNI_17-YY_STAGE,AC7
+TEACH,Teachers demonstrated concern for student learning,Postgraduate coursework,Commencing,2025,66.5,,,published,TEACH_PGC_UNI_17-YY_STAGE,K8
+TEACH,Teachers demonstrated concern for student learning,Postgraduate coursework,Later year,2025,64.9,,,published,TEACH_PGC_UNI_17-YY_STAGE,T8
+TEACH,Teachers demonstrated concern for student learning,Postgraduate coursework,Total,2025,65.7,,,published,TEACH_PGC_UNI_17-YY_STAGE,AC8
+TEACH,Teachers provided clear explanations on coursework and assessment,Postgraduate coursework,Commencing,2025,74.8,,,published,TEACH_PGC_UNI_17-YY_STAGE,K9
+TEACH,Teachers provided clear explanations on coursework and assessment,Postgraduate coursework,Later year,2025,74.7,,,published,TEACH_PGC_UNI_17-YY_STAGE,T9
+TEACH,Teachers provided clear explanations on coursework and assessment,Postgraduate coursework,Total,2025,74.7,,,published,TEACH_PGC_UNI_17-YY_STAGE,AC9
+TEACH,Teachers stimulated you intellectually,Postgraduate coursework,Commencing,2025,73.5,,,published,TEACH_PGC_UNI_17-YY_STAGE,K10
+TEACH,Teachers stimulated you intellectually,Postgraduate coursework,Later year,2025,70.9,,,published,TEACH_PGC_UNI_17-YY_STAGE,T10
+TEACH,Teachers stimulated you intellectually,Postgraduate coursework,Total,2025,72.1,,,published,TEACH_PGC_UNI_17-YY_STAGE,AC10
+TEACH,Teachers commented on your work in ways that help you learn,Postgraduate coursework,Commencing,2025,65.1,,,published,TEACH_PGC_UNI_17-YY_STAGE,K11
+TEACH,Teachers commented on your work in ways that help you learn,Postgraduate coursework,Later year,2025,66.1,,,published,TEACH_PGC_UNI_17-YY_STAGE,T11
+TEACH,Teachers commented on your work in ways that help you learn,Postgraduate coursework,Total,2025,65.6,,,published,TEACH_PGC_UNI_17-YY_STAGE,AC11
+TEACH,Teachers seemed helpful and approachable,Postgraduate coursework,Commencing,2025,78.5,,,published,TEACH_PGC_UNI_17-YY_STAGE,K12
+TEACH,Teachers seemed helpful and approachable,Postgraduate coursework,Later year,2025,76.6,,,published,TEACH_PGC_UNI_17-YY_STAGE,T12
+TEACH,Teachers seemed helpful and approachable,Postgraduate coursework,Total,2025,77.5,,,published,TEACH_PGC_UNI_17-YY_STAGE,AC12
+TEACH,Teachers set assessment tasks that challenge you to learn,Postgraduate coursework,Commencing,2025,78.6,,,published,TEACH_PGC_UNI_17-YY_STAGE,K13
+TEACH,Teachers set assessment tasks that challenge you to learn,Postgraduate coursework,Later year,2025,75.7,,,published,TEACH_PGC_UNI_17-YY_STAGE,T13
+TEACH,Teachers set assessment tasks that challenge you to learn,Postgraduate coursework,Total,2025,77.0,,,published,TEACH_PGC_UNI_17-YY_STAGE,AC13
+TEACH,Quality of teaching,Postgraduate coursework,Commencing,2025,80.3,,,published,TEACH_PGC_UNI_17-YY_STAGE,K14
+TEACH,Quality of teaching,Postgraduate coursework,Later year,2025,77.5,,,published,TEACH_PGC_UNI_17-YY_STAGE,T14
+TEACH,Quality of teaching,Postgraduate coursework,Total,2025,78.8,,,published,TEACH_PGC_UNI_17-YY_STAGE,AC14
+TEACH,Overall Educational Experience,Postgraduate coursework,Commencing,2025,78.6,,,published,TEACH_PGC_UNI_17-YY_STAGE,K15
+TEACH,Overall Educational Experience,Postgraduate coursework,Later year,2025,75.7,,,published,TEACH_PGC_UNI_17-YY_STAGE,T15
+TEACH,Overall Educational Experience,Postgraduate coursework,Total,2025,77.1,,,published,TEACH_PGC_UNI_17-YY_STAGE,AC15
+RESR,Quality of teaching spaces,Postgraduate coursework,Commencing,2025,87.7,,,published,RESR_PGC_UNI_17-YY_STAGE,K5
+RESR,Quality of teaching spaces,Postgraduate coursework,Later year,2025,87.6,,,published,RESR_PGC_UNI_17-YY_STAGE,T5
+RESR,Quality of teaching spaces,Postgraduate coursework,Total,2025,87.6,,,published,RESR_PGC_UNI_17-YY_STAGE,AC5
+RESR,Quality of student spaces and common areas,Postgraduate coursework,Commencing,2025,85.9,,,published,RESR_PGC_UNI_17-YY_STAGE,K6
+RESR,Quality of student spaces and common areas,Postgraduate coursework,Later year,2025,85.5,,,published,RESR_PGC_UNI_17-YY_STAGE,T6
+RESR,Quality of student spaces and common areas,Postgraduate coursework,Total,2025,85.7,,,published,RESR_PGC_UNI_17-YY_STAGE,AC6
+RESR,Quality of online learning materials,Postgraduate coursework,Commencing,2025,87.8,,,published,RESR_PGC_UNI_17-YY_STAGE,K7
+RESR,Quality of online learning materials,Postgraduate coursework,Later year,2025,86.8,,,published,RESR_PGC_UNI_17-YY_STAGE,T7
+RESR,Quality of online learning materials,Postgraduate coursework,Total,2025,87.3,,,published,RESR_PGC_UNI_17-YY_STAGE,AC7
+RESR,Quality of computing/IT resources,Postgraduate coursework,Commencing,2025,83.9,,,published,RESR_PGC_UNI_17-YY_STAGE,K8
+RESR,Quality of computing/IT resources,Postgraduate coursework,Later year,2025,82.9,,,published,RESR_PGC_UNI_17-YY_STAGE,T8
+RESR,Quality of computing/IT resources,Postgraduate coursework,Total,2025,83.4,,,published,RESR_PGC_UNI_17-YY_STAGE,AC8
+RESR,"Quality of assigned books, notes and resources",Postgraduate coursework,Commencing,2025,86.3,,,published,RESR_PGC_UNI_17-YY_STAGE,K9
+RESR,"Quality of assigned books, notes and resources",Postgraduate coursework,Later year,2025,84.3,,,published,RESR_PGC_UNI_17-YY_STAGE,T9
+RESR,"Quality of assigned books, notes and resources",Postgraduate coursework,Total,2025,85.2,,,published,RESR_PGC_UNI_17-YY_STAGE,AC9
+RESR,Quality of laboratory or studio equipment,Postgraduate coursework,Commencing,2025,82.1,,,published,RESR_PGC_UNI_17-YY_STAGE,K10
+RESR,Quality of laboratory or studio equipment,Postgraduate coursework,Later year,2025,80.4,,,published,RESR_PGC_UNI_17-YY_STAGE,T10
+RESR,Quality of laboratory or studio equipment,Postgraduate coursework,Total,2025,81.2,,,published,RESR_PGC_UNI_17-YY_STAGE,AC10
+RESR,Quality of library resources and facilities,Postgraduate coursework,Commencing,2025,89.4,,,published,RESR_PGC_UNI_17-YY_STAGE,K11
+RESR,Quality of library resources and facilities,Postgraduate coursework,Later year,2025,88.7,,,published,RESR_PGC_UNI_17-YY_STAGE,T11
+RESR,Quality of library resources and facilities,Postgraduate coursework,Total,2025,89.0,,,published,RESR_PGC_UNI_17-YY_STAGE,AC11
+ENGAG,Contributed to class discussion,Postgraduate coursework,Commencing,2025,57.7,,,published,ENGAG_PGC_UNI_17-YY_STAGE,K5
+ENGAG,Contributed to class discussion,Postgraduate coursework,Later year,2025,62.8,,,published,ENGAG_PGC_UNI_17-YY_STAGE,T5
+ENGAG,Contributed to class discussion,Postgraduate coursework,Total,2025,60.4,,,published,ENGAG_PGC_UNI_17-YY_STAGE,AC5
+ENGAG,Worked with other students as part of your study ,Postgraduate coursework,Commencing,2025,55.3,,,published,ENGAG_PGC_UNI_17-YY_STAGE,K6
+ENGAG,Worked with other students as part of your study ,Postgraduate coursework,Later year,2025,63.9,,,published,ENGAG_PGC_UNI_17-YY_STAGE,T6
+ENGAG,Worked with other students as part of your study ,Postgraduate coursework,Total,2025,59.9,,,published,ENGAG_PGC_UNI_17-YY_STAGE,AC6
+ENGAG,Interacted with students outside study requirements,Postgraduate coursework,Commencing,2025,27.0,,,published,ENGAG_PGC_UNI_17-YY_STAGE,K7
+ENGAG,Interacted with students outside study requirements,Postgraduate coursework,Later year,2025,31.6,,,published,ENGAG_PGC_UNI_17-YY_STAGE,T7
+ENGAG,Interacted with students outside study requirements,Postgraduate coursework,Total,2025,29.5,,,published,ENGAG_PGC_UNI_17-YY_STAGE,AC7
+ENGAG,Interacted with other students to give or receive help with study,Postgraduate coursework,Commencing,2025,44.2,,,published,ENGAG_PGC_UNI_17-YY_STAGE,K8
+ENGAG,Interacted with other students to give or receive help with study,Postgraduate coursework,Later year,2025,50.0,,,published,ENGAG_PGC_UNI_17-YY_STAGE,T8
+ENGAG,Interacted with other students to give or receive help with study,Postgraduate coursework,Total,2025,47.3,,,published,ENGAG_PGC_UNI_17-YY_STAGE,AC8
+ENGAG,Interacted with a diverse range of students,Postgraduate coursework,Commencing,2025,41.9,,,published,ENGAG_PGC_UNI_17-YY_STAGE,K9
+ENGAG,Interacted with a diverse range of students,Postgraduate coursework,Later year,2025,45.0,,,published,ENGAG_PGC_UNI_17-YY_STAGE,T9
+ENGAG,Interacted with a diverse range of students,Postgraduate coursework,Total,2025,43.5,,,published,ENGAG_PGC_UNI_17-YY_STAGE,AC9

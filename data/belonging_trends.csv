@@ -1,0 +1,55 @@
+provider_type,level,year,positive_pct,ci_low,ci_high,status,source_sheet,source_cell
+NUHEIs,Undergraduate,2017,59.4,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,C5
+NUHEIs,Undergraduate,2018,60.9,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,D5
+NUHEIs,Undergraduate,2019,60.7,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,E5
+NUHEIs,Undergraduate,2020,56.0,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,F5
+NUHEIs,Undergraduate,2021,56.0,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,G5
+NUHEIs,Undergraduate,2022,59.0,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,H5
+NUHEIs,Undergraduate,2023,60.0,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,I5
+NUHEIs,Undergraduate,2024,60.1,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,J5
+NUHEIs,Undergraduate,2025,61.8,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,K5
+Universities,Undergraduate,2017,50.8,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,C6
+Universities,Undergraduate,2018,52.0,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,D6
+Universities,Undergraduate,2019,50.8,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,E6
+Universities,Undergraduate,2020,39.4,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,F6
+Universities,Undergraduate,2021,40.9,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,G6
+Universities,Undergraduate,2022,45.5,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,H6
+Universities,Undergraduate,2023,45.0,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,I6
+Universities,Undergraduate,2024,44.9,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,J6
+Universities,Undergraduate,2025,46.3,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,K6
+All institutions,Undergraduate,2017,51.4,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,C7
+All institutions,Undergraduate,2018,52.8,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,D7
+All institutions,Undergraduate,2019,51.7,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,E7
+All institutions,Undergraduate,2020,41.1,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,F7
+All institutions,Undergraduate,2021,42.2,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,G7
+All institutions,Undergraduate,2022,46.5,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,H7
+All institutions,Undergraduate,2023,46.3,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,I7
+All institutions,Undergraduate,2024,46.6,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,J7
+All institutions,Undergraduate,2025,48.0,,,published,BELONG_UG_ALL_17-YY_HEPTYPE,K7
+NUHEIs,Postgraduate coursework,2017,51.9,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,C5
+NUHEIs,Postgraduate coursework,2018,55.7,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,D5
+NUHEIs,Postgraduate coursework,2019,59.6,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,E5
+NUHEIs,Postgraduate coursework,2020,57.9,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,F5
+NUHEIs,Postgraduate coursework,2021,55.2,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,G5
+NUHEIs,Postgraduate coursework,2022,56.6,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,H5
+NUHEIs,Postgraduate coursework,2023,56.1,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,I5
+NUHEIs,Postgraduate coursework,2024,61.6,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,J5
+NUHEIs,Postgraduate coursework,2025,61.3,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,K5
+Universities,Postgraduate coursework,2017,47.9,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,C6
+Universities,Postgraduate coursework,2018,50.6,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,D6
+Universities,Postgraduate coursework,2019,50.5,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,E6
+Universities,Postgraduate coursework,2020,41.6,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,F6
+Universities,Postgraduate coursework,2021,37.8,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,G6
+Universities,Postgraduate coursework,2022,43.3,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,H6
+Universities,Postgraduate coursework,2023,47.3,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,I6
+Universities,Postgraduate coursework,2024,50.0,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,J6
+Universities,Postgraduate coursework,2025,50.9,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,K6
+All institutions,Postgraduate coursework,2017,48.3,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,C7
+All institutions,Postgraduate coursework,2018,51.1,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,D7
+All institutions,Postgraduate coursework,2019,51.5,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,E7
+All institutions,Postgraduate coursework,2020,43.4,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,F7
+All institutions,Postgraduate coursework,2021,39.7,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,G7
+All institutions,Postgraduate coursework,2022,44.7,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,H7
+All institutions,Postgraduate coursework,2023,48.5,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,I7
+All institutions,Postgraduate coursework,2024,51.9,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,J7
+All institutions,Postgraduate coursework,2025,52.6,,,published,BELONG_PGC_ALL_17-YY_HEPTYPE,K7

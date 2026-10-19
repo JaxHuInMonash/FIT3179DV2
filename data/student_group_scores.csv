@@ -1,0 +1,373 @@
+group_type,group,level,year,metric,positive_pct,ci_low,ci_high,status,source_sheet,source_cell
+Stage of studies,Commencing,Undergraduate,2025,skills,79.7,,,published,FOCUS_UG_UNI_1Y_SG,C5
+Stage of studies,Commencing,Undergraduate,2025,peer_engagement,60.4,,,published,FOCUS_UG_UNI_1Y_SG,D5
+Stage of studies,Commencing,Undergraduate,2025,teaching,82.4,,,published,FOCUS_UG_UNI_1Y_SG,E5
+Stage of studies,Commencing,Undergraduate,2025,support,73.3,,,published,FOCUS_UG_UNI_1Y_SG,F5
+Stage of studies,Commencing,Undergraduate,2025,resources,86.5,,,published,FOCUS_UG_UNI_1Y_SG,G5
+Stage of studies,Commencing,Undergraduate,2025,overall,79.2,,,published,FOCUS_UG_UNI_1Y_SG,H5
+Stage of studies,Later year*,Undergraduate,2025,skills,82.6,,,published,FOCUS_UG_UNI_1Y_SG,C6
+Stage of studies,Later year*,Undergraduate,2025,peer_engagement,59.1,,,published,FOCUS_UG_UNI_1Y_SG,D6
+Stage of studies,Later year*,Undergraduate,2025,teaching,76.3,,,published,FOCUS_UG_UNI_1Y_SG,E6
+Stage of studies,Later year*,Undergraduate,2025,support,65.8,,,published,FOCUS_UG_UNI_1Y_SG,F6
+Stage of studies,Later year*,Undergraduate,2025,resources,79.9,,,published,FOCUS_UG_UNI_1Y_SG,G6
+Stage of studies,Later year*,Undergraduate,2025,overall,71.6,,,published,FOCUS_UG_UNI_1Y_SG,H6
+Study mode,Internal/Multi-mode,Undergraduate,2025,skills,81.1,,,published,FOCUS_UG_UNI_1Y_SG,C7
+Study mode,Internal/Multi-mode,Undergraduate,2025,peer_engagement,64.5,,,published,FOCUS_UG_UNI_1Y_SG,D7
+Study mode,Internal/Multi-mode,Undergraduate,2025,teaching,79.8,,,published,FOCUS_UG_UNI_1Y_SG,E7
+Study mode,Internal/Multi-mode,Undergraduate,2025,support,70.1,,,published,FOCUS_UG_UNI_1Y_SG,F7
+Study mode,Internal/Multi-mode,Undergraduate,2025,resources,84.1,,,published,FOCUS_UG_UNI_1Y_SG,G7
+Study mode,Internal/Multi-mode,Undergraduate,2025,overall,75.8,,,published,FOCUS_UG_UNI_1Y_SG,H7
+Study mode,External,Undergraduate,2025,skills,78.7,,,published,FOCUS_UG_UNI_1Y_SG,C8
+Study mode,External,Undergraduate,2025,peer_engagement,22.3,,,published,FOCUS_UG_UNI_1Y_SG,D8
+Study mode,External,Undergraduate,2025,teaching,81.1,,,published,FOCUS_UG_UNI_1Y_SG,E8
+Study mode,External,Undergraduate,2025,support,73.9,,,published,FOCUS_UG_UNI_1Y_SG,F8
+Study mode,External,Undergraduate,2025,resources,81.5,,,published,FOCUS_UG_UNI_1Y_SG,G8
+Study mode,External,Undergraduate,2025,overall,79.4,,,published,FOCUS_UG_UNI_1Y_SG,H8
+Provider type,NUHEIs,Undergraduate,2025,skills,,,,unavailable,FOCUS_UG_UNI_1Y_SG,C9
+Provider type,NUHEIs,Undergraduate,2025,peer_engagement,,,,unavailable,FOCUS_UG_UNI_1Y_SG,D9
+Provider type,NUHEIs,Undergraduate,2025,teaching,,,,unavailable,FOCUS_UG_UNI_1Y_SG,E9
+Provider type,NUHEIs,Undergraduate,2025,support,,,,unavailable,FOCUS_UG_UNI_1Y_SG,F9
+Provider type,NUHEIs,Undergraduate,2025,resources,,,,unavailable,FOCUS_UG_UNI_1Y_SG,G9
+Provider type,NUHEIs,Undergraduate,2025,overall,,,,unavailable,FOCUS_UG_UNI_1Y_SG,H9
+Provider type,Universities,Undergraduate,2025,skills,80.9,,,published,FOCUS_UG_UNI_1Y_SG,C10
+Provider type,Universities,Undergraduate,2025,peer_engagement,59.9,,,published,FOCUS_UG_UNI_1Y_SG,D10
+Provider type,Universities,Undergraduate,2025,teaching,80.0,,,published,FOCUS_UG_UNI_1Y_SG,E10
+Provider type,Universities,Undergraduate,2025,support,70.4,,,published,FOCUS_UG_UNI_1Y_SG,F10
+Provider type,Universities,Undergraduate,2025,resources,83.9,,,published,FOCUS_UG_UNI_1Y_SG,G10
+Provider type,Universities,Undergraduate,2025,overall,76.2,,,published,FOCUS_UG_UNI_1Y_SG,H10
+Gender,Male,Undergraduate,2025,skills,77.5,,,published,FOCUS_UG_UNI_1Y_SG,C11
+Gender,Male,Undergraduate,2025,peer_engagement,59.3,,,published,FOCUS_UG_UNI_1Y_SG,D11
+Gender,Male,Undergraduate,2025,teaching,77.7,,,published,FOCUS_UG_UNI_1Y_SG,E11
+Gender,Male,Undergraduate,2025,support,68.5,,,published,FOCUS_UG_UNI_1Y_SG,F11
+Gender,Male,Undergraduate,2025,resources,83.2,,,published,FOCUS_UG_UNI_1Y_SG,G11
+Gender,Male,Undergraduate,2025,overall,72.5,,,published,FOCUS_UG_UNI_1Y_SG,H11
+Gender,Female,Undergraduate,2025,skills,82.7,,,published,FOCUS_UG_UNI_1Y_SG,C12
+Gender,Female,Undergraduate,2025,peer_engagement,60.1,,,published,FOCUS_UG_UNI_1Y_SG,D12
+Gender,Female,Undergraduate,2025,teaching,81.1,,,published,FOCUS_UG_UNI_1Y_SG,E12
+Gender,Female,Undergraduate,2025,support,71.5,,,published,FOCUS_UG_UNI_1Y_SG,F12
+Gender,Female,Undergraduate,2025,resources,84.3,,,published,FOCUS_UG_UNI_1Y_SG,G12
+Gender,Female,Undergraduate,2025,overall,78.1,,,published,FOCUS_UG_UNI_1Y_SG,H12
+Age group,Under 25,Undergraduate,2025,skills,80.9,,,published,FOCUS_UG_UNI_1Y_SG,C13
+Age group,Under 25,Undergraduate,2025,peer_engagement,63.7,,,published,FOCUS_UG_UNI_1Y_SG,D13
+Age group,Under 25,Undergraduate,2025,teaching,79.7,,,published,FOCUS_UG_UNI_1Y_SG,E13
+Age group,Under 25,Undergraduate,2025,support,69.9,,,published,FOCUS_UG_UNI_1Y_SG,F13
+Age group,Under 25,Undergraduate,2025,resources,84.1,,,published,FOCUS_UG_UNI_1Y_SG,G13
+Age group,Under 25,Undergraduate,2025,overall,75.7,,,published,FOCUS_UG_UNI_1Y_SG,H13
+Age group,25 to 29,Undergraduate,2025,skills,80.8,,,published,FOCUS_UG_UNI_1Y_SG,C14
+Age group,25 to 29,Undergraduate,2025,peer_engagement,50.1,,,published,FOCUS_UG_UNI_1Y_SG,D14
+Age group,25 to 29,Undergraduate,2025,teaching,79.0,,,published,FOCUS_UG_UNI_1Y_SG,E14
+Age group,25 to 29,Undergraduate,2025,support,71.0,,,published,FOCUS_UG_UNI_1Y_SG,F14
+Age group,25 to 29,Undergraduate,2025,resources,81.8,,,published,FOCUS_UG_UNI_1Y_SG,G14
+Age group,25 to 29,Undergraduate,2025,overall,75.0,,,published,FOCUS_UG_UNI_1Y_SG,H14
+Age group,30 to 39,Undergraduate,2025,skills,80.7,,,published,FOCUS_UG_UNI_1Y_SG,C15
+Age group,30 to 39,Undergraduate,2025,peer_engagement,42.8,,,published,FOCUS_UG_UNI_1Y_SG,D15
+Age group,30 to 39,Undergraduate,2025,teaching,80.9,,,published,FOCUS_UG_UNI_1Y_SG,E15
+Age group,30 to 39,Undergraduate,2025,support,73.9,,,published,FOCUS_UG_UNI_1Y_SG,F15
+Age group,30 to 39,Undergraduate,2025,resources,83.5,,,published,FOCUS_UG_UNI_1Y_SG,G15
+Age group,30 to 39,Undergraduate,2025,overall,78.7,,,published,FOCUS_UG_UNI_1Y_SG,H15
+Age group,40 and over,Undergraduate,2025,skills,81.3,,,published,FOCUS_UG_UNI_1Y_SG,C16
+Age group,40 and over,Undergraduate,2025,peer_engagement,33.8,,,published,FOCUS_UG_UNI_1Y_SG,D16
+Age group,40 and over,Undergraduate,2025,teaching,84.2,,,published,FOCUS_UG_UNI_1Y_SG,E16
+Age group,40 and over,Undergraduate,2025,support,75.7,,,published,FOCUS_UG_UNI_1Y_SG,F16
+Age group,40 and over,Undergraduate,2025,resources,84.6,,,published,FOCUS_UG_UNI_1Y_SG,G16
+Age group,40 and over,Undergraduate,2025,overall,82.0,,,published,FOCUS_UG_UNI_1Y_SG,H16
+First Nations†,First Nations,Undergraduate,2025,skills,81.2,,,published,FOCUS_UG_UNI_1Y_SG,C17
+First Nations†,First Nations,Undergraduate,2025,peer_engagement,51.3,,,published,FOCUS_UG_UNI_1Y_SG,D17
+First Nations†,First Nations,Undergraduate,2025,teaching,79.5,,,published,FOCUS_UG_UNI_1Y_SG,E17
+First Nations†,First Nations,Undergraduate,2025,support,71.7,,,published,FOCUS_UG_UNI_1Y_SG,F17
+First Nations†,First Nations,Undergraduate,2025,resources,83.5,,,published,FOCUS_UG_UNI_1Y_SG,G17
+First Nations†,First Nations,Undergraduate,2025,overall,78.5,,,published,FOCUS_UG_UNI_1Y_SG,H17
+First Nations†,Non-Indigenous,Undergraduate,2025,skills,80.1,,,published,FOCUS_UG_UNI_1Y_SG,C18
+First Nations†,Non-Indigenous,Undergraduate,2025,peer_engagement,57.9,,,published,FOCUS_UG_UNI_1Y_SG,D18
+First Nations†,Non-Indigenous,Undergraduate,2025,teaching,79.4,,,published,FOCUS_UG_UNI_1Y_SG,E18
+First Nations†,Non-Indigenous,Undergraduate,2025,support,68.4,,,published,FOCUS_UG_UNI_1Y_SG,F18
+First Nations†,Non-Indigenous,Undergraduate,2025,resources,83.1,,,published,FOCUS_UG_UNI_1Y_SG,G18
+First Nations†,Non-Indigenous,Undergraduate,2025,overall,76.1,,,published,FOCUS_UG_UNI_1Y_SG,H18
+Home language,English,Undergraduate,2025,skills,80.4,,,published,FOCUS_UG_UNI_1Y_SG,C19
+Home language,English,Undergraduate,2025,peer_engagement,58.2,,,published,FOCUS_UG_UNI_1Y_SG,D19
+Home language,English,Undergraduate,2025,teaching,79.6,,,published,FOCUS_UG_UNI_1Y_SG,E19
+Home language,English,Undergraduate,2025,support,68.7,,,published,FOCUS_UG_UNI_1Y_SG,F19
+Home language,English,Undergraduate,2025,resources,83.3,,,published,FOCUS_UG_UNI_1Y_SG,G19
+Home language,English,Undergraduate,2025,overall,76.3,,,published,FOCUS_UG_UNI_1Y_SG,H19
+Home language,Other,Undergraduate,2025,skills,83.5,,,published,FOCUS_UG_UNI_1Y_SG,C20
+Home language,Other,Undergraduate,2025,peer_engagement,68.5,,,published,FOCUS_UG_UNI_1Y_SG,D20
+Home language,Other,Undergraduate,2025,teaching,81.9,,,published,FOCUS_UG_UNI_1Y_SG,E20
+Home language,Other,Undergraduate,2025,support,77.6,,,published,FOCUS_UG_UNI_1Y_SG,F20
+Home language,Other,Undergraduate,2025,resources,86.9,,,published,FOCUS_UG_UNI_1Y_SG,G20
+Home language,Other,Undergraduate,2025,overall,75.6,,,published,FOCUS_UG_UNI_1Y_SG,H20
+Disability,Disability,Undergraduate,2025,skills,77.8,,,published,FOCUS_UG_UNI_1Y_SG,C21
+Disability,Disability,Undergraduate,2025,peer_engagement,55.4,,,published,FOCUS_UG_UNI_1Y_SG,D21
+Disability,Disability,Undergraduate,2025,teaching,77.8,,,published,FOCUS_UG_UNI_1Y_SG,E21
+Disability,Disability,Undergraduate,2025,support,65.3,,,published,FOCUS_UG_UNI_1Y_SG,F21
+Disability,Disability,Undergraduate,2025,resources,80.1,,,published,FOCUS_UG_UNI_1Y_SG,G21
+Disability,Disability,Undergraduate,2025,overall,74.2,,,published,FOCUS_UG_UNI_1Y_SG,H21
+Disability,No disability,Undergraduate,2025,skills,81.3,,,published,FOCUS_UG_UNI_1Y_SG,C22
+Disability,No disability,Undergraduate,2025,peer_engagement,60.5,,,published,FOCUS_UG_UNI_1Y_SG,D22
+Disability,No disability,Undergraduate,2025,teaching,80.2,,,published,FOCUS_UG_UNI_1Y_SG,E22
+Disability,No disability,Undergraduate,2025,support,71.1,,,published,FOCUS_UG_UNI_1Y_SG,F22
+Disability,No disability,Undergraduate,2025,resources,84.4,,,published,FOCUS_UG_UNI_1Y_SG,G22
+Disability,No disability,Undergraduate,2025,overall,76.5,,,published,FOCUS_UG_UNI_1Y_SG,H22
+International,Domestic student,Undergraduate,2025,skills,80.1,,,published,FOCUS_UG_UNI_1Y_SG,C23
+International,Domestic student,Undergraduate,2025,peer_engagement,57.7,,,published,FOCUS_UG_UNI_1Y_SG,D23
+International,Domestic student,Undergraduate,2025,teaching,79.4,,,published,FOCUS_UG_UNI_1Y_SG,E23
+International,Domestic student,Undergraduate,2025,support,68.5,,,published,FOCUS_UG_UNI_1Y_SG,F23
+International,Domestic student,Undergraduate,2025,resources,83.1,,,published,FOCUS_UG_UNI_1Y_SG,G23
+International,Domestic student,Undergraduate,2025,overall,76.2,,,published,FOCUS_UG_UNI_1Y_SG,H23
+International,International student,Undergraduate,2025,skills,84.6,,,published,FOCUS_UG_UNI_1Y_SG,C24
+International,International student,Undergraduate,2025,peer_engagement,70.7,,,published,FOCUS_UG_UNI_1Y_SG,D24
+International,International student,Undergraduate,2025,teaching,82.7,,,published,FOCUS_UG_UNI_1Y_SG,E24
+International,International student,Undergraduate,2025,support,78.3,,,published,FOCUS_UG_UNI_1Y_SG,F24
+International,International student,Undergraduate,2025,resources,87.5,,,published,FOCUS_UG_UNI_1Y_SG,G24
+International,International student,Undergraduate,2025,overall,76.2,,,published,FOCUS_UG_UNI_1Y_SG,H24
+First in family,First in family**,Undergraduate,2025,skills,80.8,,,published,FOCUS_UG_UNI_1Y_SG,C25
+First in family,First in family**,Undergraduate,2025,peer_engagement,56.1,,,published,FOCUS_UG_UNI_1Y_SG,D25
+First in family,First in family**,Undergraduate,2025,teaching,83.0,,,published,FOCUS_UG_UNI_1Y_SG,E25
+First in family,First in family**,Undergraduate,2025,support,74.5,,,published,FOCUS_UG_UNI_1Y_SG,F25
+First in family,First in family**,Undergraduate,2025,resources,86.8,,,published,FOCUS_UG_UNI_1Y_SG,G25
+First in family,First in family**,Undergraduate,2025,overall,80.3,,,published,FOCUS_UG_UNI_1Y_SG,H25
+First in family,Not first in family**,Undergraduate,2025,skills,79.2,,,published,FOCUS_UG_UNI_1Y_SG,C26
+First in family,Not first in family**,Undergraduate,2025,peer_engagement,63.3,,,published,FOCUS_UG_UNI_1Y_SG,D26
+First in family,Not first in family**,Undergraduate,2025,teaching,82.3,,,published,FOCUS_UG_UNI_1Y_SG,E26
+First in family,Not first in family**,Undergraduate,2025,support,71.8,,,published,FOCUS_UG_UNI_1Y_SG,F26
+First in family,Not first in family**,Undergraduate,2025,resources,86.5,,,published,FOCUS_UG_UNI_1Y_SG,G26
+First in family,Not first in family**,Undergraduate,2025,overall,79.2,,,published,FOCUS_UG_UNI_1Y_SG,H26
+Previous higher education experience,Current institution**,Undergraduate,2025,skills,80.6,,,published,FOCUS_UG_UNI_1Y_SG,C27
+Previous higher education experience,Current institution**,Undergraduate,2025,peer_engagement,57.0,,,published,FOCUS_UG_UNI_1Y_SG,D27
+Previous higher education experience,Current institution**,Undergraduate,2025,teaching,81.9,,,published,FOCUS_UG_UNI_1Y_SG,E27
+Previous higher education experience,Current institution**,Undergraduate,2025,support,71.8,,,published,FOCUS_UG_UNI_1Y_SG,F27
+Previous higher education experience,Current institution**,Undergraduate,2025,resources,85.0,,,published,FOCUS_UG_UNI_1Y_SG,G27
+Previous higher education experience,Current institution**,Undergraduate,2025,overall,78.7,,,published,FOCUS_UG_UNI_1Y_SG,H27
+Previous higher education experience,Another institution**,Undergraduate,2025,skills,80.2,,,published,FOCUS_UG_UNI_1Y_SG,C28
+Previous higher education experience,Another institution**,Undergraduate,2025,peer_engagement,52.5,,,published,FOCUS_UG_UNI_1Y_SG,D28
+Previous higher education experience,Another institution**,Undergraduate,2025,teaching,84.1,,,published,FOCUS_UG_UNI_1Y_SG,E28
+Previous higher education experience,Another institution**,Undergraduate,2025,support,76.2,,,published,FOCUS_UG_UNI_1Y_SG,F28
+Previous higher education experience,Another institution**,Undergraduate,2025,resources,86.4,,,published,FOCUS_UG_UNI_1Y_SG,G28
+Previous higher education experience,Another institution**,Undergraduate,2025,overall,80.9,,,published,FOCUS_UG_UNI_1Y_SG,H28
+Previous higher education experience,New to higher education**,Undergraduate,2025,skills,79.5,,,published,FOCUS_UG_UNI_1Y_SG,C29
+Previous higher education experience,New to higher education**,Undergraduate,2025,peer_engagement,63.3,,,published,FOCUS_UG_UNI_1Y_SG,D29
+Previous higher education experience,New to higher education**,Undergraduate,2025,teaching,82.0,,,published,FOCUS_UG_UNI_1Y_SG,E29
+Previous higher education experience,New to higher education**,Undergraduate,2025,support,72.8,,,published,FOCUS_UG_UNI_1Y_SG,F29
+Previous higher education experience,New to higher education**,Undergraduate,2025,resources,86.8,,,published,FOCUS_UG_UNI_1Y_SG,G29
+Previous higher education experience,New to higher education**,Undergraduate,2025,overall,78.8,,,published,FOCUS_UG_UNI_1Y_SG,H29
+Socio-economic status†,High*** ††,Undergraduate,2025,skills,79.3,,,published,FOCUS_UG_UNI_1Y_SG,C30
+Socio-economic status†,High*** ††,Undergraduate,2025,peer_engagement,61.4,,,published,FOCUS_UG_UNI_1Y_SG,D30
+Socio-economic status†,High*** ††,Undergraduate,2025,teaching,79.4,,,published,FOCUS_UG_UNI_1Y_SG,E30
+Socio-economic status†,High*** ††,Undergraduate,2025,support,65.6,,,published,FOCUS_UG_UNI_1Y_SG,F30
+Socio-economic status†,High*** ††,Undergraduate,2025,resources,82.7,,,published,FOCUS_UG_UNI_1Y_SG,G30
+Socio-economic status†,High*** ††,Undergraduate,2025,overall,75.7,,,published,FOCUS_UG_UNI_1Y_SG,H30
+Socio-economic status†,Medium*** ††,Undergraduate,2025,skills,80.6,,,published,FOCUS_UG_UNI_1Y_SG,C31
+Socio-economic status†,Medium*** ††,Undergraduate,2025,peer_engagement,57.4,,,published,FOCUS_UG_UNI_1Y_SG,D31
+Socio-economic status†,Medium*** ††,Undergraduate,2025,teaching,79.4,,,published,FOCUS_UG_UNI_1Y_SG,E31
+Socio-economic status†,Medium*** ††,Undergraduate,2025,support,69.3,,,published,FOCUS_UG_UNI_1Y_SG,F31
+Socio-economic status†,Medium*** ††,Undergraduate,2025,resources,83.4,,,published,FOCUS_UG_UNI_1Y_SG,G31
+Socio-economic status†,Medium*** ††,Undergraduate,2025,overall,76.5,,,published,FOCUS_UG_UNI_1Y_SG,H31
+Socio-economic status†,Low*** ††,Undergraduate,2025,skills,80.4,,,published,FOCUS_UG_UNI_1Y_SG,C32
+Socio-economic status†,Low*** ††,Undergraduate,2025,peer_engagement,51.8,,,published,FOCUS_UG_UNI_1Y_SG,D32
+Socio-economic status†,Low*** ††,Undergraduate,2025,teaching,79.6,,,published,FOCUS_UG_UNI_1Y_SG,E32
+Socio-economic status†,Low*** ††,Undergraduate,2025,support,71.5,,,published,FOCUS_UG_UNI_1Y_SG,F32
+Socio-economic status†,Low*** ††,Undergraduate,2025,resources,83.1,,,published,FOCUS_UG_UNI_1Y_SG,G32
+Socio-economic status†,Low*** ††,Undergraduate,2025,overall,76.3,,,published,FOCUS_UG_UNI_1Y_SG,H32
+Locality†,Metro*** †††,Undergraduate,2025,skills,80.0,,,published,FOCUS_UG_UNI_1Y_SG,C33
+Locality†,Metro*** †††,Undergraduate,2025,peer_engagement,59.4,,,published,FOCUS_UG_UNI_1Y_SG,D33
+Locality†,Metro*** †††,Undergraduate,2025,teaching,79.2,,,published,FOCUS_UG_UNI_1Y_SG,E33
+Locality†,Metro*** †††,Undergraduate,2025,support,68.2,,,published,FOCUS_UG_UNI_1Y_SG,F33
+Locality†,Metro*** †††,Undergraduate,2025,resources,83.2,,,published,FOCUS_UG_UNI_1Y_SG,G33
+Locality†,Metro*** †††,Undergraduate,2025,overall,75.8,,,published,FOCUS_UG_UNI_1Y_SG,H33
+Locality†,Regional/Remote*** †††,Undergraduate,2025,skills,80.5,,,published,FOCUS_UG_UNI_1Y_SG,C34
+Locality†,Regional/Remote*** †††,Undergraduate,2025,peer_engagement,51.5,,,published,FOCUS_UG_UNI_1Y_SG,D34
+Locality†,Regional/Remote*** †††,Undergraduate,2025,teaching,80.2,,,published,FOCUS_UG_UNI_1Y_SG,E34
+Locality†,Regional/Remote*** †††,Undergraduate,2025,support,69.4,,,published,FOCUS_UG_UNI_1Y_SG,F34
+Locality†,Regional/Remote*** †††,Undergraduate,2025,resources,83.0,,,published,FOCUS_UG_UNI_1Y_SG,G34
+Locality†,Regional/Remote*** †††,Undergraduate,2025,overall,77.7,,,published,FOCUS_UG_UNI_1Y_SG,H34
+Total,Total,Undergraduate,2025,skills,80.9,,,published,FOCUS_UG_UNI_1Y_SG,C35
+Total,Total,Undergraduate,2025,peer_engagement,59.9,,,published,FOCUS_UG_UNI_1Y_SG,D35
+Total,Total,Undergraduate,2025,teaching,80.0,,,published,FOCUS_UG_UNI_1Y_SG,E35
+Total,Total,Undergraduate,2025,support,70.4,,,published,FOCUS_UG_UNI_1Y_SG,F35
+Total,Total,Undergraduate,2025,resources,83.9,,,published,FOCUS_UG_UNI_1Y_SG,G35
+Total,Total,Undergraduate,2025,overall,76.2,,,published,FOCUS_UG_UNI_1Y_SG,H35
+Stage of studies,Commencing,Postgraduate coursework,2025,skills,82.8,,,published,FOCUS_PGC_UNI_1Y_SG,C5
+Stage of studies,Commencing,Postgraduate coursework,2025,peer_engagement,56.8,,,published,FOCUS_PGC_UNI_1Y_SG,D5
+Stage of studies,Commencing,Postgraduate coursework,2025,teaching,84.7,,,published,FOCUS_PGC_UNI_1Y_SG,E5
+Stage of studies,Commencing,Postgraduate coursework,2025,support,77.2,,,published,FOCUS_PGC_UNI_1Y_SG,F5
+Stage of studies,Commencing,Postgraduate coursework,2025,resources,86.9,,,published,FOCUS_PGC_UNI_1Y_SG,G5
+Stage of studies,Commencing,Postgraduate coursework,2025,overall,78.6,,,published,FOCUS_PGC_UNI_1Y_SG,H5
+Stage of studies,Later year*,Postgraduate coursework,2025,skills,84.4,,,published,FOCUS_PGC_UNI_1Y_SG,C6
+Stage of studies,Later year*,Postgraduate coursework,2025,peer_engagement,64.3,,,published,FOCUS_PGC_UNI_1Y_SG,D6
+Stage of studies,Later year*,Postgraduate coursework,2025,teaching,82.4,,,published,FOCUS_PGC_UNI_1Y_SG,E6
+Stage of studies,Later year*,Postgraduate coursework,2025,support,76.4,,,published,FOCUS_PGC_UNI_1Y_SG,F6
+Stage of studies,Later year*,Postgraduate coursework,2025,resources,85.8,,,published,FOCUS_PGC_UNI_1Y_SG,G6
+Stage of studies,Later year*,Postgraduate coursework,2025,overall,75.7,,,published,FOCUS_PGC_UNI_1Y_SG,H6
+Study mode,Internal/Multi-mode,Postgraduate coursework,2025,skills,84.8,,,published,FOCUS_PGC_UNI_1Y_SG,C7
+Study mode,Internal/Multi-mode,Postgraduate coursework,2025,peer_engagement,72.6,,,published,FOCUS_PGC_UNI_1Y_SG,D7
+Study mode,Internal/Multi-mode,Postgraduate coursework,2025,teaching,83.3,,,published,FOCUS_PGC_UNI_1Y_SG,E7
+Study mode,Internal/Multi-mode,Postgraduate coursework,2025,support,77.1,,,published,FOCUS_PGC_UNI_1Y_SG,F7
+Study mode,Internal/Multi-mode,Postgraduate coursework,2025,resources,86.7,,,published,FOCUS_PGC_UNI_1Y_SG,G7
+Study mode,Internal/Multi-mode,Postgraduate coursework,2025,overall,75.7,,,published,FOCUS_PGC_UNI_1Y_SG,H7
+Study mode,External,Postgraduate coursework,2025,skills,80.2,,,published,FOCUS_PGC_UNI_1Y_SG,C8
+Study mode,External,Postgraduate coursework,2025,peer_engagement,25.2,,,published,FOCUS_PGC_UNI_1Y_SG,D8
+Study mode,External,Postgraduate coursework,2025,teaching,84.1,,,published,FOCUS_PGC_UNI_1Y_SG,E8
+Study mode,External,Postgraduate coursework,2025,support,75.6,,,published,FOCUS_PGC_UNI_1Y_SG,F8
+Study mode,External,Postgraduate coursework,2025,resources,82.6,,,published,FOCUS_PGC_UNI_1Y_SG,G8
+Study mode,External,Postgraduate coursework,2025,overall,81.1,,,published,FOCUS_PGC_UNI_1Y_SG,H8
+Provider type,NUHEIs,Postgraduate coursework,2025,skills,,,,unavailable,FOCUS_PGC_UNI_1Y_SG,C9
+Provider type,NUHEIs,Postgraduate coursework,2025,peer_engagement,,,,unavailable,FOCUS_PGC_UNI_1Y_SG,D9
+Provider type,NUHEIs,Postgraduate coursework,2025,teaching,,,,unavailable,FOCUS_PGC_UNI_1Y_SG,E9
+Provider type,NUHEIs,Postgraduate coursework,2025,support,,,,unavailable,FOCUS_PGC_UNI_1Y_SG,F9
+Provider type,NUHEIs,Postgraduate coursework,2025,resources,,,,unavailable,FOCUS_PGC_UNI_1Y_SG,G9
+Provider type,NUHEIs,Postgraduate coursework,2025,overall,,,,unavailable,FOCUS_PGC_UNI_1Y_SG,H9
+Provider type,Universities,Postgraduate coursework,2025,skills,83.7,,,published,FOCUS_PGC_UNI_1Y_SG,C10
+Provider type,Universities,Postgraduate coursework,2025,peer_engagement,60.8,,,published,FOCUS_PGC_UNI_1Y_SG,D10
+Provider type,Universities,Postgraduate coursework,2025,teaching,83.5,,,published,FOCUS_PGC_UNI_1Y_SG,E10
+Provider type,Universities,Postgraduate coursework,2025,support,76.8,,,published,FOCUS_PGC_UNI_1Y_SG,F10
+Provider type,Universities,Postgraduate coursework,2025,resources,86.3,,,published,FOCUS_PGC_UNI_1Y_SG,G10
+Provider type,Universities,Postgraduate coursework,2025,overall,77.1,,,published,FOCUS_PGC_UNI_1Y_SG,H10
+Gender,Male,Postgraduate coursework,2025,skills,81.8,,,published,FOCUS_PGC_UNI_1Y_SG,C11
+Gender,Male,Postgraduate coursework,2025,peer_engagement,64.7,,,published,FOCUS_PGC_UNI_1Y_SG,D11
+Gender,Male,Postgraduate coursework,2025,teaching,81.5,,,published,FOCUS_PGC_UNI_1Y_SG,E11
+Gender,Male,Postgraduate coursework,2025,support,76.3,,,published,FOCUS_PGC_UNI_1Y_SG,F11
+Gender,Male,Postgraduate coursework,2025,resources,86.6,,,published,FOCUS_PGC_UNI_1Y_SG,G11
+Gender,Male,Postgraduate coursework,2025,overall,74.7,,,published,FOCUS_PGC_UNI_1Y_SG,H11
+Gender,Female,Postgraduate coursework,2025,skills,84.8,,,published,FOCUS_PGC_UNI_1Y_SG,C12
+Gender,Female,Postgraduate coursework,2025,peer_engagement,58.4,,,published,FOCUS_PGC_UNI_1Y_SG,D12
+Gender,Female,Postgraduate coursework,2025,teaching,84.7,,,published,FOCUS_PGC_UNI_1Y_SG,E12
+Gender,Female,Postgraduate coursework,2025,support,77.2,,,published,FOCUS_PGC_UNI_1Y_SG,F12
+Gender,Female,Postgraduate coursework,2025,resources,86.2,,,published,FOCUS_PGC_UNI_1Y_SG,G12
+Gender,Female,Postgraduate coursework,2025,overall,78.5,,,published,FOCUS_PGC_UNI_1Y_SG,H12
+Age group,Under 25,Postgraduate coursework,2025,skills,85.0,,,published,FOCUS_PGC_UNI_1Y_SG,C13
+Age group,Under 25,Postgraduate coursework,2025,peer_engagement,73.5,,,published,FOCUS_PGC_UNI_1Y_SG,D13
+Age group,Under 25,Postgraduate coursework,2025,teaching,82.8,,,published,FOCUS_PGC_UNI_1Y_SG,E13
+Age group,Under 25,Postgraduate coursework,2025,support,76.8,,,published,FOCUS_PGC_UNI_1Y_SG,F13
+Age group,Under 25,Postgraduate coursework,2025,resources,87.4,,,published,FOCUS_PGC_UNI_1Y_SG,G13
+Age group,Under 25,Postgraduate coursework,2025,overall,74.7,,,published,FOCUS_PGC_UNI_1Y_SG,H13
+Age group,25 to 29,Postgraduate coursework,2025,skills,83.9,,,published,FOCUS_PGC_UNI_1Y_SG,C14
+Age group,25 to 29,Postgraduate coursework,2025,peer_engagement,67.3,,,published,FOCUS_PGC_UNI_1Y_SG,D14
+Age group,25 to 29,Postgraduate coursework,2025,teaching,82.3,,,published,FOCUS_PGC_UNI_1Y_SG,E14
+Age group,25 to 29,Postgraduate coursework,2025,support,76.9,,,published,FOCUS_PGC_UNI_1Y_SG,F14
+Age group,25 to 29,Postgraduate coursework,2025,resources,85.5,,,published,FOCUS_PGC_UNI_1Y_SG,G14
+Age group,25 to 29,Postgraduate coursework,2025,overall,74.8,,,published,FOCUS_PGC_UNI_1Y_SG,H14
+Age group,30 to 39,Postgraduate coursework,2025,skills,83.0,,,published,FOCUS_PGC_UNI_1Y_SG,C15
+Age group,30 to 39,Postgraduate coursework,2025,peer_engagement,52.5,,,published,FOCUS_PGC_UNI_1Y_SG,D15
+Age group,30 to 39,Postgraduate coursework,2025,teaching,84.3,,,published,FOCUS_PGC_UNI_1Y_SG,E15
+Age group,30 to 39,Postgraduate coursework,2025,support,77.5,,,published,FOCUS_PGC_UNI_1Y_SG,F15
+Age group,30 to 39,Postgraduate coursework,2025,resources,85.9,,,published,FOCUS_PGC_UNI_1Y_SG,G15
+Age group,30 to 39,Postgraduate coursework,2025,overall,79.3,,,published,FOCUS_PGC_UNI_1Y_SG,H15
+Age group,40 and over,Postgraduate coursework,2025,skills,81.4,,,published,FOCUS_PGC_UNI_1Y_SG,C16
+Age group,40 and over,Postgraduate coursework,2025,peer_engagement,35.2,,,published,FOCUS_PGC_UNI_1Y_SG,D16
+Age group,40 and over,Postgraduate coursework,2025,teaching,85.7,,,published,FOCUS_PGC_UNI_1Y_SG,E16
+Age group,40 and over,Postgraduate coursework,2025,support,75.0,,,published,FOCUS_PGC_UNI_1Y_SG,F16
+Age group,40 and over,Postgraduate coursework,2025,resources,85.2,,,published,FOCUS_PGC_UNI_1Y_SG,G16
+Age group,40 and over,Postgraduate coursework,2025,overall,82.6,,,published,FOCUS_PGC_UNI_1Y_SG,H16
+First Nations†,First Nations,Postgraduate coursework,2025,skills,80.0,,,published,FOCUS_PGC_UNI_1Y_SG,C17
+First Nations†,First Nations,Postgraduate coursework,2025,peer_engagement,40.4,,,published,FOCUS_PGC_UNI_1Y_SG,D17
+First Nations†,First Nations,Postgraduate coursework,2025,teaching,80.0,,,published,FOCUS_PGC_UNI_1Y_SG,E17
+First Nations†,First Nations,Postgraduate coursework,2025,support,64.0,,,published,FOCUS_PGC_UNI_1Y_SG,F17
+First Nations†,First Nations,Postgraduate coursework,2025,resources,82.5,,,published,FOCUS_PGC_UNI_1Y_SG,G17
+First Nations†,First Nations,Postgraduate coursework,2025,overall,77.2,,,published,FOCUS_PGC_UNI_1Y_SG,H17
+First Nations†,Non-Indigenous,Postgraduate coursework,2025,skills,80.9,,,published,FOCUS_PGC_UNI_1Y_SG,C18
+First Nations†,Non-Indigenous,Postgraduate coursework,2025,peer_engagement,41.6,,,published,FOCUS_PGC_UNI_1Y_SG,D18
+First Nations†,Non-Indigenous,Postgraduate coursework,2025,teaching,82.8,,,published,FOCUS_PGC_UNI_1Y_SG,E18
+First Nations†,Non-Indigenous,Postgraduate coursework,2025,support,69.7,,,published,FOCUS_PGC_UNI_1Y_SG,F18
+First Nations†,Non-Indigenous,Postgraduate coursework,2025,resources,79.7,,,published,FOCUS_PGC_UNI_1Y_SG,G18
+First Nations†,Non-Indigenous,Postgraduate coursework,2025,overall,78.8,,,published,FOCUS_PGC_UNI_1Y_SG,H18
+Home language,English,Postgraduate coursework,2025,skills,81.8,,,published,FOCUS_PGC_UNI_1Y_SG,C19
+Home language,English,Postgraduate coursework,2025,peer_engagement,49.1,,,published,FOCUS_PGC_UNI_1Y_SG,D19
+Home language,English,Postgraduate coursework,2025,teaching,83.1,,,published,FOCUS_PGC_UNI_1Y_SG,E19
+Home language,English,Postgraduate coursework,2025,support,72.4,,,published,FOCUS_PGC_UNI_1Y_SG,F19
+Home language,English,Postgraduate coursework,2025,resources,82.2,,,published,FOCUS_PGC_UNI_1Y_SG,G19
+Home language,English,Postgraduate coursework,2025,overall,78.3,,,published,FOCUS_PGC_UNI_1Y_SG,H19
+Home language,Other,Postgraduate coursework,2025,skills,85.7,,,published,FOCUS_PGC_UNI_1Y_SG,C20
+Home language,Other,Postgraduate coursework,2025,peer_engagement,73.6,,,published,FOCUS_PGC_UNI_1Y_SG,D20
+Home language,Other,Postgraduate coursework,2025,teaching,83.9,,,published,FOCUS_PGC_UNI_1Y_SG,E20
+Home language,Other,Postgraduate coursework,2025,support,80.0,,,published,FOCUS_PGC_UNI_1Y_SG,F20
+Home language,Other,Postgraduate coursework,2025,resources,89.3,,,published,FOCUS_PGC_UNI_1Y_SG,G20
+Home language,Other,Postgraduate coursework,2025,overall,75.7,,,published,FOCUS_PGC_UNI_1Y_SG,H20
+Disability,Disability,Postgraduate coursework,2025,skills,77.6,,,published,FOCUS_PGC_UNI_1Y_SG,C21
+Disability,Disability,Postgraduate coursework,2025,peer_engagement,51.6,,,published,FOCUS_PGC_UNI_1Y_SG,D21
+Disability,Disability,Postgraduate coursework,2025,teaching,78.7,,,published,FOCUS_PGC_UNI_1Y_SG,E21
+Disability,Disability,Postgraduate coursework,2025,support,66.8,,,published,FOCUS_PGC_UNI_1Y_SG,F21
+Disability,Disability,Postgraduate coursework,2025,resources,76.8,,,published,FOCUS_PGC_UNI_1Y_SG,G21
+Disability,Disability,Postgraduate coursework,2025,overall,73.0,,,published,FOCUS_PGC_UNI_1Y_SG,H21
+Disability,No disability,Postgraduate coursework,2025,skills,84.1,,,published,FOCUS_PGC_UNI_1Y_SG,C22
+Disability,No disability,Postgraduate coursework,2025,peer_engagement,61.4,,,published,FOCUS_PGC_UNI_1Y_SG,D22
+Disability,No disability,Postgraduate coursework,2025,teaching,83.8,,,published,FOCUS_PGC_UNI_1Y_SG,E22
+Disability,No disability,Postgraduate coursework,2025,support,77.4,,,published,FOCUS_PGC_UNI_1Y_SG,F22
+Disability,No disability,Postgraduate coursework,2025,resources,86.9,,,published,FOCUS_PGC_UNI_1Y_SG,G22
+Disability,No disability,Postgraduate coursework,2025,overall,77.3,,,published,FOCUS_PGC_UNI_1Y_SG,H22
+International,Domestic student,Postgraduate coursework,2025,skills,80.9,,,published,FOCUS_PGC_UNI_1Y_SG,C23
+International,Domestic student,Postgraduate coursework,2025,peer_engagement,41.6,,,published,FOCUS_PGC_UNI_1Y_SG,D23
+International,Domestic student,Postgraduate coursework,2025,teaching,82.8,,,published,FOCUS_PGC_UNI_1Y_SG,E23
+International,Domestic student,Postgraduate coursework,2025,support,69.5,,,published,FOCUS_PGC_UNI_1Y_SG,F23
+International,Domestic student,Postgraduate coursework,2025,resources,79.8,,,published,FOCUS_PGC_UNI_1Y_SG,G23
+International,Domestic student,Postgraduate coursework,2025,overall,78.7,,,published,FOCUS_PGC_UNI_1Y_SG,H23
+International,International student,Postgraduate coursework,2025,skills,85.9,,,published,FOCUS_PGC_UNI_1Y_SG,C24
+International,International student,Postgraduate coursework,2025,peer_engagement,76.3,,,published,FOCUS_PGC_UNI_1Y_SG,D24
+International,International student,Postgraduate coursework,2025,teaching,84.0,,,published,FOCUS_PGC_UNI_1Y_SG,E24
+International,International student,Postgraduate coursework,2025,support,80.2,,,published,FOCUS_PGC_UNI_1Y_SG,F24
+International,International student,Postgraduate coursework,2025,resources,89.3,,,published,FOCUS_PGC_UNI_1Y_SG,G24
+International,International student,Postgraduate coursework,2025,overall,75.7,,,published,FOCUS_PGC_UNI_1Y_SG,H24
+First in family,First in family**,Postgraduate coursework,2025,skills,82.8,,,published,FOCUS_PGC_UNI_1Y_SG,C25
+First in family,First in family**,Postgraduate coursework,2025,peer_engagement,48.9,,,published,FOCUS_PGC_UNI_1Y_SG,D25
+First in family,First in family**,Postgraduate coursework,2025,teaching,85.7,,,published,FOCUS_PGC_UNI_1Y_SG,E25
+First in family,First in family**,Postgraduate coursework,2025,support,77.4,,,published,FOCUS_PGC_UNI_1Y_SG,F25
+First in family,First in family**,Postgraduate coursework,2025,resources,87.2,,,published,FOCUS_PGC_UNI_1Y_SG,G25
+First in family,First in family**,Postgraduate coursework,2025,overall,80.2,,,published,FOCUS_PGC_UNI_1Y_SG,H25
+First in family,Not first in family**,Postgraduate coursework,2025,skills,82.9,,,published,FOCUS_PGC_UNI_1Y_SG,C26
+First in family,Not first in family**,Postgraduate coursework,2025,peer_engagement,59.4,,,published,FOCUS_PGC_UNI_1Y_SG,D26
+First in family,Not first in family**,Postgraduate coursework,2025,teaching,84.8,,,published,FOCUS_PGC_UNI_1Y_SG,E26
+First in family,Not first in family**,Postgraduate coursework,2025,support,76.6,,,published,FOCUS_PGC_UNI_1Y_SG,F26
+First in family,Not first in family**,Postgraduate coursework,2025,resources,86.5,,,published,FOCUS_PGC_UNI_1Y_SG,G26
+First in family,Not first in family**,Postgraduate coursework,2025,overall,78.4,,,published,FOCUS_PGC_UNI_1Y_SG,H26
+Previous higher education experience,Current institution**,Postgraduate coursework,2025,skills,81.8,,,published,FOCUS_PGC_UNI_1Y_SG,C27
+Previous higher education experience,Current institution**,Postgraduate coursework,2025,peer_engagement,55.9,,,published,FOCUS_PGC_UNI_1Y_SG,D27
+Previous higher education experience,Current institution**,Postgraduate coursework,2025,teaching,83.6,,,published,FOCUS_PGC_UNI_1Y_SG,E27
+Previous higher education experience,Current institution**,Postgraduate coursework,2025,support,73.1,,,published,FOCUS_PGC_UNI_1Y_SG,F27
+Previous higher education experience,Current institution**,Postgraduate coursework,2025,resources,83.9,,,published,FOCUS_PGC_UNI_1Y_SG,G27
+Previous higher education experience,Current institution**,Postgraduate coursework,2025,overall,77.7,,,published,FOCUS_PGC_UNI_1Y_SG,H27
+Previous higher education experience,Another institution**,Postgraduate coursework,2025,skills,82.5,,,published,FOCUS_PGC_UNI_1Y_SG,C28
+Previous higher education experience,Another institution**,Postgraduate coursework,2025,peer_engagement,54.6,,,published,FOCUS_PGC_UNI_1Y_SG,D28
+Previous higher education experience,Another institution**,Postgraduate coursework,2025,teaching,84.7,,,published,FOCUS_PGC_UNI_1Y_SG,E28
+Previous higher education experience,Another institution**,Postgraduate coursework,2025,support,76.4,,,published,FOCUS_PGC_UNI_1Y_SG,F28
+Previous higher education experience,Another institution**,Postgraduate coursework,2025,resources,86.7,,,published,FOCUS_PGC_UNI_1Y_SG,G28
+Previous higher education experience,Another institution**,Postgraduate coursework,2025,overall,78.3,,,published,FOCUS_PGC_UNI_1Y_SG,H28
+Previous higher education experience,New to higher education**,Postgraduate coursework,2025,skills,85.6,,,published,FOCUS_PGC_UNI_1Y_SG,C29
+Previous higher education experience,New to higher education**,Postgraduate coursework,2025,peer_engagement,67.8,,,published,FOCUS_PGC_UNI_1Y_SG,D29
+Previous higher education experience,New to higher education**,Postgraduate coursework,2025,teaching,86.2,,,published,FOCUS_PGC_UNI_1Y_SG,E29
+Previous higher education experience,New to higher education**,Postgraduate coursework,2025,support,84.1,,,published,FOCUS_PGC_UNI_1Y_SG,F29
+Previous higher education experience,New to higher education**,Postgraduate coursework,2025,resources,91.0,,,published,FOCUS_PGC_UNI_1Y_SG,G29
+Previous higher education experience,New to higher education**,Postgraduate coursework,2025,overall,81.0,,,published,FOCUS_PGC_UNI_1Y_SG,H29
+Socio-economic status†,High*** ††,Postgraduate coursework,2025,skills,80.0,,,published,FOCUS_PGC_UNI_1Y_SG,C30
+Socio-economic status†,High*** ††,Postgraduate coursework,2025,peer_engagement,47.3,,,published,FOCUS_PGC_UNI_1Y_SG,D30
+Socio-economic status†,High*** ††,Postgraduate coursework,2025,teaching,82.0,,,published,FOCUS_PGC_UNI_1Y_SG,E30
+Socio-economic status†,High*** ††,Postgraduate coursework,2025,support,65.5,,,published,FOCUS_PGC_UNI_1Y_SG,F30
+Socio-economic status†,High*** ††,Postgraduate coursework,2025,resources,78.2,,,published,FOCUS_PGC_UNI_1Y_SG,G30
+Socio-economic status†,High*** ††,Postgraduate coursework,2025,overall,77.5,,,published,FOCUS_PGC_UNI_1Y_SG,H30
+Socio-economic status†,Medium*** ††,Postgraduate coursework,2025,skills,81.6,,,published,FOCUS_PGC_UNI_1Y_SG,C31
+Socio-economic status†,Medium*** ††,Postgraduate coursework,2025,peer_engagement,39.3,,,published,FOCUS_PGC_UNI_1Y_SG,D31
+Socio-economic status†,Medium*** ††,Postgraduate coursework,2025,teaching,83.3,,,published,FOCUS_PGC_UNI_1Y_SG,E31
+Socio-economic status†,Medium*** ††,Postgraduate coursework,2025,support,71.9,,,published,FOCUS_PGC_UNI_1Y_SG,F31
+Socio-economic status†,Medium*** ††,Postgraduate coursework,2025,resources,80.9,,,published,FOCUS_PGC_UNI_1Y_SG,G31
+Socio-economic status†,Medium*** ††,Postgraduate coursework,2025,overall,79.6,,,published,FOCUS_PGC_UNI_1Y_SG,H31
+Socio-economic status†,Low*** ††,Postgraduate coursework,2025,skills,80.8,,,published,FOCUS_PGC_UNI_1Y_SG,C32
+Socio-economic status†,Low*** ††,Postgraduate coursework,2025,peer_engagement,34.6,,,published,FOCUS_PGC_UNI_1Y_SG,D32
+Socio-economic status†,Low*** ††,Postgraduate coursework,2025,teaching,83.0,,,published,FOCUS_PGC_UNI_1Y_SG,E32
+Socio-economic status†,Low*** ††,Postgraduate coursework,2025,support,71.8,,,published,FOCUS_PGC_UNI_1Y_SG,F32
+Socio-economic status†,Low*** ††,Postgraduate coursework,2025,resources,81.2,,,published,FOCUS_PGC_UNI_1Y_SG,G32
+Socio-economic status†,Low*** ††,Postgraduate coursework,2025,overall,79.2,,,published,FOCUS_PGC_UNI_1Y_SG,H32
+Locality†,Metro*** †††,Postgraduate coursework,2025,skills,81.1,,,published,FOCUS_PGC_UNI_1Y_SG,C33
+Locality†,Metro*** †††,Postgraduate coursework,2025,peer_engagement,44.2,,,published,FOCUS_PGC_UNI_1Y_SG,D33
+Locality†,Metro*** †††,Postgraduate coursework,2025,teaching,82.7,,,published,FOCUS_PGC_UNI_1Y_SG,E33
+Locality†,Metro*** †††,Postgraduate coursework,2025,support,69.4,,,published,FOCUS_PGC_UNI_1Y_SG,F33
+Locality†,Metro*** †††,Postgraduate coursework,2025,resources,79.8,,,published,FOCUS_PGC_UNI_1Y_SG,G33
+Locality†,Metro*** †††,Postgraduate coursework,2025,overall,78.5,,,published,FOCUS_PGC_UNI_1Y_SG,H33
+Locality†,Regional/Remote*** †††,Postgraduate coursework,2025,skills,79.9,,,published,FOCUS_PGC_UNI_1Y_SG,C34
+Locality†,Regional/Remote*** †††,Postgraduate coursework,2025,peer_engagement,31.3,,,published,FOCUS_PGC_UNI_1Y_SG,D34
+Locality†,Regional/Remote*** †††,Postgraduate coursework,2025,teaching,83.1,,,published,FOCUS_PGC_UNI_1Y_SG,E34
+Locality†,Regional/Remote*** †††,Postgraduate coursework,2025,support,70.1,,,published,FOCUS_PGC_UNI_1Y_SG,F34
+Locality†,Regional/Remote*** †††,Postgraduate coursework,2025,resources,80.0,,,published,FOCUS_PGC_UNI_1Y_SG,G34
+Locality†,Regional/Remote*** †††,Postgraduate coursework,2025,overall,80.1,,,published,FOCUS_PGC_UNI_1Y_SG,H34
+Total,Total,Postgraduate coursework,2025,skills,83.7,,,published,FOCUS_PGC_UNI_1Y_SG,C35
+Total,Total,Postgraduate coursework,2025,peer_engagement,60.8,,,published,FOCUS_PGC_UNI_1Y_SG,D35
+Total,Total,Postgraduate coursework,2025,teaching,83.5,,,published,FOCUS_PGC_UNI_1Y_SG,E35
+Total,Total,Postgraduate coursework,2025,support,76.8,,,published,FOCUS_PGC_UNI_1Y_SG,F35
+Total,Total,Postgraduate coursework,2025,resources,86.3,,,published,FOCUS_PGC_UNI_1Y_SG,G35
+Total,Total,Postgraduate coursework,2025,overall,77.1,,,published,FOCUS_PGC_UNI_1Y_SG,H35
