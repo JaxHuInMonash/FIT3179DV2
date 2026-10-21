@@ -1,0 +1,8 @@
+rank,metric,label,explanation,positive_pct,year,level,provider_type,from_file,source_sheet,source_cell
+1,resources,Learning resources,"Libraries, IT, teaching spaces and course materials",83.9,2025,Undergraduate,Universities,national_benchmarks.csv,FOCUS_UG_ALL_17-YY_HEPTYPE,AU6
+2,skills,Skills development,"Thinking, writing, problem-solving and work-ready skills",80.9,2025,Undergraduate,Universities,national_benchmarks.csv,FOCUS_UG_ALL_17-YY_HEPTYPE,K6
+3,teaching,Teaching quality,"Clear, engaging and helpful teaching",80.0,2025,Undergraduate,Universities,national_benchmarks.csv,FOCUS_UG_ALL_17-YY_HEPTYPE,AC6
+4,overall,Overall experience,Overall quality of the educational experience,76.2,2025,Undergraduate,Universities,national_benchmarks.csv,FOCUS_UG_ALL_17-YY_HEPTYPE,BD6
+5,support,Student support,"Help with study, careers, health and admin",70.4,2025,Undergraduate,Universities,national_benchmarks.csv,FOCUS_UG_ALL_17-YY_HEPTYPE,AL6
+6,peer_engagement,Peer engagement,Studying and connecting with other students,59.9,2025,Undergraduate,Universities,national_benchmarks.csv,FOCUS_UG_ALL_17-YY_HEPTYPE,T6
+7,belonging,Sense of belonging,Feeling part of the university community,46.3,2025,Undergraduate,Universities,belonging_trends.csv,BELONG_UG_ALL_17-YY_HEPTYPE,K6

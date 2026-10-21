@@ -1,0 +1,395 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Parallel coordinates: each line is one university, connecting its 2025 undergraduate ratings on six measures. Two chosen universities and the national university average are highlighted.",
+  "width": "container",
+  "height": 380,
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
+  "padding": {
+    "left": 5,
+    "right": 10,
+    "top": 10,
+    "bottom": 5
+  },
+  "params": [
+    {
+      "name": "pick",
+      "value": "Monash University",
+      "bind": {
+        "input": "select",
+        "name": "University A: ",
+        "options": [
+          "Australian Catholic University",
+          "Australian University of Theology",
+          "Avondale University",
+          "Bond University",
+          "Central Queensland University",
+          "Charles Darwin University",
+          "Charles Sturt University",
+          "Curtin University",
+          "Deakin University",
+          "Edith Cowan University",
+          "Federation University Australia",
+          "Flinders University",
+          "Griffith University",
+          "James Cook University",
+          "La Trobe University",
+          "Macquarie University",
+          "Monash University",
+          "Murdoch University",
+          "Queensland University of Technology",
+          "RMIT University",
+          "Southern Cross University",
+          "Swinburne University of Technology",
+          "The Australian National University",
+          "The University of Adelaide",
+          "The University of Melbourne",
+          "The University of Notre Dame Australia",
+          "The University of Queensland",
+          "The University of South Australia",
+          "The University of Sydney",
+          "The University of Western Australia",
+          "Torrens University",
+          "University of Canberra",
+          "University of Divinity",
+          "University of New England",
+          "University of New South Wales",
+          "University of Newcastle",
+          "University of Southern Queensland",
+          "University of Tasmania",
+          "University of Technology Sydney",
+          "University of Wollongong",
+          "University of the Sunshine Coast",
+          "Victoria University",
+          "Western Sydney University"
+        ]
+      }
+    },
+    {
+      "name": "pickB",
+      "value": "University of New England",
+      "bind": {
+        "input": "select",
+        "name": "University B: ",
+        "options": [
+          "Australian Catholic University",
+          "Australian University of Theology",
+          "Avondale University",
+          "Bond University",
+          "Central Queensland University",
+          "Charles Darwin University",
+          "Charles Sturt University",
+          "Curtin University",
+          "Deakin University",
+          "Edith Cowan University",
+          "Federation University Australia",
+          "Flinders University",
+          "Griffith University",
+          "James Cook University",
+          "La Trobe University",
+          "Macquarie University",
+          "Monash University",
+          "Murdoch University",
+          "Queensland University of Technology",
+          "RMIT University",
+          "Southern Cross University",
+          "Swinburne University of Technology",
+          "The Australian National University",
+          "The University of Adelaide",
+          "The University of Melbourne",
+          "The University of Notre Dame Australia",
+          "The University of Queensland",
+          "The University of South Australia",
+          "The University of Sydney",
+          "The University of Western Australia",
+          "Torrens University",
+          "University of Canberra",
+          "University of Divinity",
+          "University of New England",
+          "University of New South Wales",
+          "University of Newcastle",
+          "University of Southern Queensland",
+          "University of Tasmania",
+          "University of Technology Sydney",
+          "University of Wollongong",
+          "University of the Sunshine Coast",
+          "Victoria University",
+          "Western Sydney University"
+        ]
+      }
+    }
+  ],
+  "transform": [],
+  "encoding": {
+    "x": {
+      "field": "measure",
+      "type": "nominal",
+      "sort": {
+        "field": "measure_order"
+      },
+      "title": null,
+      "scale": {
+        "padding": 0.02
+      },
+      "axis": {
+        "orient": "bottom",
+        "labelAngle": 0,
+        "labelFontSize": 12.5,
+        "labelFontWeight": 600,
+        "labelColor": "#1f1e1c",
+        "domain": false,
+        "ticks": false,
+        "grid": true,
+        "gridColor": "#c3c2b7",
+        "gridWidth": 1,
+        "labelLimit": 140,
+        "labelPadding": 10
+      }
+    },
+    "y": {
+      "field": "positive_pct",
+      "type": "quantitative",
+      "title": null,
+      "scale": {
+        "domain": [
+          25,
+          100
+        ]
+      },
+      "axis": {
+        "tickCount": 8,
+        "domain": false,
+        "ticks": false,
+        "grid": false,
+        "labelExpr": "datum.value + '%'"
+      }
+    }
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/university_scores.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.level == 'Undergraduate' && datum.year == 2025 && isValid(datum.positive_pct)"
+        },
+        {
+          "calculate": "{'resources': 'Learning resources', 'skills': 'Skills development', 'teaching': 'Teaching quality', 'overall': 'Overall experience', 'support': 'Student support', 'peer_engagement': 'Peer engagement'}[datum.metric]",
+          "as": "measure"
+        },
+        {
+          "calculate": "{'resources': 1, 'skills': 2, 'teaching': 3, 'overall': 4, 'support': 5, 'peer_engagement': 6}[datum.metric]",
+          "as": "measure_order"
+        },
+        {
+          "calculate": "datum.institution == pick ? 'A' : (datum.institution == pickB ? 'B' : 'other')",
+          "as": "role"
+        }
+      ],
+      "layer": [
+        {
+          "transform": [
+            {
+              "filter": "datum.role == 'other'"
+            }
+          ],
+          "mark": {
+            "type": "line",
+            "strokeWidth": 1,
+            "color": "#9a988f",
+            "opacity": 0.35
+          },
+          "encoding": {
+            "detail": {
+              "field": "institution"
+            },
+            "tooltip": [
+              {
+                "field": "institution",
+                "title": "University"
+              }
+            ]
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "datum.role != 'other'"
+            }
+          ],
+          "mark": {
+            "type": "line",
+            "strokeWidth": 3
+          },
+          "encoding": {
+            "detail": {
+              "field": "institution"
+            },
+            "color": {
+              "field": "role",
+              "type": "nominal",
+              "scale": {
+                "domain": [
+                  "A",
+                  "B"
+                ],
+                "range": [
+                  "#1c5cab",
+                  "#b5481c"
+                ]
+              },
+              "legend": null
+            }
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "datum.role != 'other'"
+            }
+          ],
+          "mark": {
+            "type": "point",
+            "filled": true,
+            "size": 70,
+            "stroke": "#ffffff",
+            "strokeWidth": 1.5,
+            "opacity": 1
+          },
+          "encoding": {
+            "color": {
+              "field": "role",
+              "type": "nominal",
+              "scale": {
+                "domain": [
+                  "A",
+                  "B"
+                ],
+                "range": [
+                  "#1c5cab",
+                  "#b5481c"
+                ]
+              },
+              "legend": null
+            },
+            "tooltip": [
+              {
+                "field": "institution",
+                "title": "University"
+              },
+              {
+                "field": "measure",
+                "title": "Measure"
+              },
+              {
+                "field": "positive_pct",
+                "title": "Rated positively (%)",
+                "format": ".1f"
+              }
+            ]
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "datum.role != 'other'"
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "fontSize": 11.5,
+            "fontWeight": 700
+          },
+          "encoding": {
+            "text": {
+              "field": "positive_pct",
+              "format": ".0f"
+            },
+            "yOffset": {
+              "condition": {
+                "test": "datum.role == 'A'",
+                "value": -13
+              },
+              "value": 14
+            },
+            "color": {
+              "field": "role",
+              "type": "nominal",
+              "scale": {
+                "domain": [
+                  "A",
+                  "B"
+                ],
+                "range": [
+                  "#1c5cab",
+                  "#b5481c"
+                ]
+              },
+              "legend": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "data": {
+        "url": "data/national_benchmarks.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.provider_type == 'Universities' && datum.level == 'Undergraduate' && datum.year == 2025"
+        },
+        {
+          "calculate": "{'resources': 'Learning resources', 'skills': 'Skills development', 'teaching': 'Teaching quality', 'overall': 'Overall experience', 'support': 'Student support', 'peer_engagement': 'Peer engagement'}[datum.metric]",
+          "as": "measure"
+        },
+        {
+          "calculate": "{'resources': 1, 'skills': 2, 'teaching': 3, 'overall': 4, 'support': 5, 'peer_engagement': 6}[datum.metric]",
+          "as": "measure_order"
+        },
+        {
+          "calculate": "'All universities'",
+          "as": "institution"
+        }
+      ],
+      "layer": [
+        {
+          "mark": {
+            "type": "line",
+            "strokeWidth": 2,
+            "color": "#1f1e1c"
+          }
+        },
+        {
+          "mark": {
+            "type": "point",
+            "shape": "diamond",
+            "filled": true,
+            "size": 60,
+            "color": "#1f1e1c"
+          },
+          "encoding": {
+            "tooltip": [
+              {
+                "field": "institution",
+                "title": "Benchmark"
+              },
+              {
+                "field": "measure",
+                "title": "Measure"
+              },
+              {
+                "field": "positive_pct",
+                "title": "Rated positively (%)",
+                "format": ".1f"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

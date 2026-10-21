@@ -1,0 +1,169 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Waffle small multiples: out of every 100 undergraduates at Australian universities, how many rated each part of their experience positively in 2025.",
+  "data": {
+    "url": "data/derived/key_measures_2025.csv"
+  },
+  "transform": [
+    {
+      "calculate": "sequence(0, 100)",
+      "as": "cell"
+    },
+    {
+      "flatten": [
+        "cell"
+      ]
+    },
+    {
+      "calculate": "datum.cell % 10",
+      "as": "col"
+    },
+    {
+      "calculate": "floor(datum.cell / 10)",
+      "as": "row"
+    },
+    {
+      "calculate": "datum.cell < round(datum.positive_pct)",
+      "as": "positive"
+    },
+    {
+      "calculate": "format(datum.positive_pct, '.1f') + '%'",
+      "as": "pct_label"
+    },
+    {
+      "calculate": "datum.positive ? 'Rated positively' : 'Did not rate positively'",
+      "as": "status"
+    }
+  ],
+  "facet": {
+    "field": "label",
+    "type": "nominal",
+    "sort": {
+      "field": "rank",
+      "op": "min"
+    },
+    "header": {
+      "title": null,
+      "labelFont": "\"Source Sans 3\", \"Segoe UI\", sans-serif",
+      "labelFontSize": 14,
+      "labelFontWeight": 600,
+      "labelColor": "#1f1e1c",
+      "labelOrient": "bottom",
+      "labelPadding": 6,
+      "labelLimit": 0
+    }
+  },
+  "columns": 7,
+  "spacing": {
+    "column": 18,
+    "row": 28
+  },
+  "spec": {
+    "width": 118,
+    "height": 140,
+    "layer": [
+      {
+        "mark": {
+          "type": "square",
+          "size": 92,
+          "opacity": 1
+        },
+        "encoding": {
+          "x": {
+            "field": "col",
+            "type": "quantitative",
+            "scale": {
+              "domain": [
+                -0.5,
+                9.5
+              ]
+            },
+            "axis": null
+          },
+          "y": {
+            "field": "row",
+            "type": "quantitative",
+            "scale": {
+              "domain": [
+                -0.5,
+                12.6
+              ]
+            },
+            "axis": null
+          },
+          "color": {
+            "field": "status",
+            "type": "nominal",
+            "scale": {
+              "domain": [
+                "Rated positively",
+                "Did not rate positively"
+              ],
+              "range": [
+                "#1c5cab",
+                "#e1e0d9"
+              ]
+            },
+            "legend": {
+              "title": null,
+              "orient": "top",
+              "direction": "horizontal",
+              "symbolType": "square",
+              "labelFontSize": 13,
+              "labelLimit": 0
+            }
+          },
+          "tooltip": [
+            {
+              "field": "label",
+              "title": "Measure"
+            },
+            {
+              "field": "explanation",
+              "title": "What it covers"
+            },
+            {
+              "field": "pct_label",
+              "title": "Rated positively"
+            }
+          ]
+        }
+      },
+      {
+        "transform": [
+          {
+            "filter": "datum.cell == 0"
+          }
+        ],
+        "mark": {
+          "type": "text",
+          "align": "left",
+          "baseline": "middle",
+          "font": "Fraunces",
+          "fontSize": 24,
+          "fontWeight": 700,
+          "color": "#0d366b",
+          "dx": -6
+        },
+        "encoding": {
+          "x": {
+            "datum": -0.5,
+            "type": "quantitative"
+          },
+          "y": {
+            "datum": 11.6,
+            "type": "quantitative"
+          },
+          "text": {
+            "field": "pct_label"
+          }
+        }
+      }
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

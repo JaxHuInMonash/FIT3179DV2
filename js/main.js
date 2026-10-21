@@ -1,14 +1,18 @@
 // Embeds every Vega-Lite specification on the page.
 // Each spec lives in /specs as readable JSON; this file only supplies a shared theme.
 
+// Font names that end in a number must be quoted inside the font string,
+// or Vega's text measurement falls back to another font and truncates labels.
+const SANS = '"Source Sans 3", "Segoe UI", sans-serif';
+
 const theme = {
   background: null,
-  font: "Source Sans 3",
+  font: SANS,
   view: { stroke: null },
   title: { font: "Fraunces", fontWeight: 600, color: "#1f1e1c" },
   axis: {
-    labelFont: "Source Sans 3",
-    titleFont: "Source Sans 3",
+    labelFont: SANS,
+    titleFont: SANS,
     labelColor: "#52514e",
     titleColor: "#52514e",
     labelFontSize: 12,
@@ -19,8 +23,8 @@ const theme = {
     tickColor: "#c3c2b7"
   },
   legend: {
-    labelFont: "Source Sans 3",
-    titleFont: "Source Sans 3",
+    labelFont: SANS,
+    titleFont: SANS,
     labelColor: "#52514e",
     titleColor: "#1f1e1c",
     labelFontSize: 12,
@@ -28,13 +32,18 @@ const theme = {
     titleFontWeight: 600,
     titleLimit: 320
   },
-  text: { font: "Source Sans 3" }
+  text: { font: SANS }
 };
 
 const charts = [
+  { el: "#chart-waffle", spec: "specs/waffle_measures.vl.json" },
+  { el: "#chart-trend", spec: "specs/trend_overall_belonging.vl.json" },
   { el: "#map-home-state", spec: "specs/map_home_state.vl.json" },
   { el: "#map-flows", spec: "specs/map_flows.vl.json" },
-  { el: "#map-universities", spec: "specs/map_universities.vl.json" }
+  { el: "#map-universities", spec: "specs/map_universities.vl.json" },
+  { el: "#chart-heatmap", spec: "specs/heatmap_study_areas.vl.json" },
+  { el: "#chart-box", spec: "specs/boxplot_universities.vl.json" },
+  { el: "#chart-parallel", spec: "specs/parallel_universities.vl.json" }
 ];
 
 const options = {
@@ -44,10 +53,42 @@ const options = {
   tooltip: { theme: "light" }
 };
 
-for (const { el, spec } of charts) {
-  vegaEmbed(el, spec, options).catch((err) => {
-    console.error(`Could not render ${spec}`, err);
-    const node = document.querySelector(el);
-    if (node) node.textContent = "This chart could not be loaded.";
-  });
+const views = {};
+
+// Vega measures label widths when it draws, so wait for the web fonts first;
+// otherwise labels are truncated using the fallback font's (wider) metrics.
+const fontsReady = Promise.all([
+  document.fonts.load('400 12px "Source Sans 3"'),
+  document.fonts.load('600 12px "Source Sans 3"'),
+  document.fonts.load('700 24px "Fraunces"')
+]).catch(() => null).then(() => document.fonts.ready);
+
+const embedded = charts.map(({ el, spec }) =>
+  fontsReady.then(() => vegaEmbed(el, spec, options))
+    .then((result) => { views[el] = result.view; })
+    .catch((err) => {
+      console.error(`Could not render ${spec}`, err);
+      const node = document.querySelector(el);
+      if (node) node.textContent = "This chart could not be loaded.";
+    })
+);
+
+// Keep "University A" in the parallel-coordinates chart and the highlighted
+// university in the box plot in step, in both directions.
+function linkSignal(name, elA, elB) {
+  const a = views[elA];
+  const b = views[elB];
+  if (!a || !b) return;
+  let syncing = false;
+  const copy = (from, to) => (_, value) => {
+    if (syncing || to.signal(name) === value) return;
+    syncing = true;
+    to.signal(name, value).runAsync().finally(() => { syncing = false; });
+    const select = document.querySelector(`${to === a ? elA : elB} select[name="${name}"]`);
+    if (select) select.value = value;
+  };
+  a.addSignalListener(name, copy(a, b));
+  b.addSignalListener(name, copy(b, a));
 }
+
+Promise.all(embedded).then(() => linkSignal("pick", "#chart-box", "#chart-parallel"));

@@ -1,0 +1,245 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Heatmap: positive ratings for six parts of the student experience in 21 study areas (undergraduates at universities, 2025). A toggle switches between the actual rating and the difference from all study areas combined.",
+  "width": "container",
+  "height": {
+    "step": 26
+  },
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
+  "data": {
+    "url": "data/study_area_scores.csv"
+  },
+  "params": [
+    {
+      "name": "view",
+      "value": "actual",
+      "bind": {
+        "input": "radio",
+        "options": [
+          "actual",
+          "gap"
+        ],
+        "labels": [
+          "Actual rating",
+          "Compared with all study areas"
+        ],
+        "name": "Show: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.level == 'Undergraduate' && datum.year == 2025"
+    },
+    {
+      "calculate": "replace(datum.group, /\\u00a0/g, ' ')",
+      "as": "area"
+    },
+    {
+      "calculate": "datum.group == 'All study areas' ? datum.positive_pct : null",
+      "as": "all_value"
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "max",
+          "field": "all_value",
+          "as": "all_areas"
+        }
+      ],
+      "groupby": [
+        "metric"
+      ]
+    },
+    {
+      "filter": "datum.group != 'All study areas'"
+    },
+    {
+      "calculate": "datum.positive_pct - datum.all_areas",
+      "as": "gap"
+    },
+    {
+      "calculate": "view == 'actual' ? datum.positive_pct : datum.gap",
+      "as": "shown"
+    },
+    {
+      "calculate": "{'resources': 'Learning resources', 'skills': 'Skills development', 'teaching': 'Teaching quality', 'overall': 'Overall experience', 'support': 'Student support', 'peer_engagement': 'Peer engagement'}[datum.metric]",
+      "as": "measure"
+    },
+    {
+      "calculate": "{'resources': 1, 'skills': 2, 'teaching': 3, 'overall': 4, 'support': 5, 'peer_engagement': 6}[datum.metric]",
+      "as": "measure_order"
+    },
+    {
+      "calculate": "datum.metric == 'overall' ? datum.positive_pct : null",
+      "as": "overall_value"
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "max",
+          "field": "overall_value",
+          "as": "area_overall"
+        }
+      ],
+      "groupby": [
+        "area"
+      ]
+    },
+    {
+      "calculate": "view == 'actual' ? format(datum.positive_pct, '.0f') : (datum.gap > 0 ? '+' : '') + format(datum.gap, '.0f')",
+      "as": "cell_label"
+    },
+    {
+      "calculate": "(datum.gap >= 0 ? '+' : '') + format(datum.gap, '.1f') + ' points'",
+      "as": "gap_label"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "measure",
+      "type": "nominal",
+      "sort": {
+        "field": "measure_order"
+      },
+      "title": null,
+      "axis": {
+        "orient": "top",
+        "labelAngle": 0,
+        "labelFontSize": 12.5,
+        "labelFontWeight": 600,
+        "labelColor": "#1f1e1c",
+        "domain": false,
+        "ticks": false,
+        "labelLimit": 140
+      }
+    },
+    "y": {
+      "field": "area",
+      "type": "nominal",
+      "sort": {
+        "field": "area_overall",
+        "order": "descending"
+      },
+      "title": null,
+      "axis": {
+        "domain": false,
+        "ticks": false,
+        "labelFontSize": 12.5,
+        "labelLimit": 260,
+        "labelPadding": 8
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rect",
+        "stroke": "#ffffff",
+        "strokeWidth": 2,
+        "cornerRadius": 2
+      },
+      "encoding": {
+        "color": {
+          "field": "shown",
+          "type": "quantitative",
+          "scale": {
+            "domain": {
+              "expr": "view == 'actual' ? [45, 90] : [-12, 12]"
+            },
+            "scheme": {
+              "expr": "view == 'actual' ? 'blues' : 'blueorange'"
+            },
+            "reverse": {
+              "expr": "view == 'gap'"
+            },
+            "clamp": true
+          },
+          "legend": {
+            "title": {
+              "expr": "view == 'actual' ? 'Rated positively (%)' : 'Points above or below all study areas'"
+            },
+            "orient": "top",
+            "direction": "horizontal",
+            "gradientLength": 220
+          }
+        },
+        "opacity": {
+          "condition": {
+            "param": "row_hover",
+            "empty": true,
+            "value": 1
+          },
+          "value": 0.35
+        },
+        "tooltip": [
+          {
+            "field": "area",
+            "title": "Study area"
+          },
+          {
+            "field": "measure",
+            "title": "Measure"
+          },
+          {
+            "field": "positive_pct",
+            "title": "Rated positively (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "all_areas",
+            "title": "All study areas (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "gap_label",
+            "title": "Difference"
+          }
+        ]
+      },
+      "params": [
+        {
+          "name": "row_hover",
+          "select": {
+            "type": "point",
+            "on": "pointerover",
+            "clear": "pointerout",
+            "fields": [
+              "group"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mark": {
+        "type": "text",
+        "fontSize": 11.5,
+        "fontWeight": 600
+      },
+      "encoding": {
+        "text": {
+          "field": "cell_label"
+        },
+        "color": {
+          "condition": {
+            "test": "view == 'actual' ? datum.positive_pct > 72 : abs(datum.gap) > 7",
+            "value": "#ffffff"
+          },
+          "value": "#1f1e1c"
+        },
+        "opacity": {
+          "condition": {
+            "param": "row_hover",
+            "empty": true,
+            "value": 1
+          },
+          "value": 0.35
+        }
+      }
+    }
+  ]
+}

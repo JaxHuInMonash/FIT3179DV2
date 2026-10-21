@@ -1,0 +1,279 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Box plot with every university shown as a dot: how widely the 43 universities' undergraduate ratings spread on each measure in 2025. A selected university is highlighted.",
+  "width": "container",
+  "height": {
+    "step": 58
+  },
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
+  "data": {
+    "url": "data/university_scores.csv"
+  },
+  "params": [
+    {
+      "name": "pick",
+      "value": "Monash University",
+      "bind": {
+        "input": "select",
+        "name": "Highlight: ",
+        "options": [
+          "Australian Catholic University",
+          "Australian University of Theology",
+          "Avondale University",
+          "Bond University",
+          "Central Queensland University",
+          "Charles Darwin University",
+          "Charles Sturt University",
+          "Curtin University",
+          "Deakin University",
+          "Edith Cowan University",
+          "Federation University Australia",
+          "Flinders University",
+          "Griffith University",
+          "James Cook University",
+          "La Trobe University",
+          "Macquarie University",
+          "Monash University",
+          "Murdoch University",
+          "Queensland University of Technology",
+          "RMIT University",
+          "Southern Cross University",
+          "Swinburne University of Technology",
+          "The Australian National University",
+          "The University of Adelaide",
+          "The University of Melbourne",
+          "The University of Notre Dame Australia",
+          "The University of Queensland",
+          "The University of South Australia",
+          "The University of Sydney",
+          "The University of Western Australia",
+          "Torrens University",
+          "University of Canberra",
+          "University of Divinity",
+          "University of New England",
+          "University of New South Wales",
+          "University of Newcastle",
+          "University of Southern Queensland",
+          "University of Tasmania",
+          "University of Technology Sydney",
+          "University of Wollongong",
+          "University of the Sunshine Coast",
+          "Victoria University",
+          "Western Sydney University"
+        ]
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.level == 'Undergraduate' && datum.year == 2025 && isValid(datum.positive_pct)"
+    },
+    {
+      "calculate": "{'resources': 'Learning resources', 'skills': 'Skills development', 'teaching': 'Teaching quality', 'overall': 'Overall experience', 'support': 'Student support', 'peer_engagement': 'Peer engagement'}[datum.metric]",
+      "as": "measure"
+    },
+    {
+      "calculate": "{'resources': 1, 'skills': 2, 'teaching': 3, 'overall': 4, 'support': 5, 'peer_engagement': 6}[datum.metric]",
+      "as": "measure_order"
+    },
+    {
+      "window": [
+        {
+          "op": "row_number",
+          "as": "idx"
+        }
+      ],
+      "groupby": [
+        "metric"
+      ],
+      "sort": [
+        {
+          "field": "institution"
+        }
+      ]
+    },
+    {
+      "calculate": "((datum.idx * 37) % 43) / 43 - 0.5",
+      "as": "jitter"
+    },
+    {
+      "calculate": "isValid(datum.ci_low) ? format(datum.ci_low, '.1f') + '–' + format(datum.ci_high, '.1f') + '%' : 'not published'",
+      "as": "likely_range"
+    }
+  ],
+  "encoding": {
+    "y": {
+      "field": "measure",
+      "type": "nominal",
+      "sort": {
+        "field": "measure_order"
+      },
+      "title": null,
+      "axis": {
+        "domain": false,
+        "ticks": false,
+        "labelFontSize": 13,
+        "labelFontWeight": 600,
+        "labelColor": "#1f1e1c",
+        "labelPadding": 10
+      }
+    },
+    "x": {
+      "field": "positive_pct",
+      "type": "quantitative",
+      "title": "Rated positively (%)",
+      "scale": {
+        "domain": [
+          25,
+          100
+        ]
+      },
+      "axis": {
+        "grid": true,
+        "tickCount": 8,
+        "domain": false,
+        "labelExpr": "datum.value + '%'"
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "boxplot",
+        "extent": "min-max",
+        "size": 26,
+        "median": {
+          "color": "#0d366b",
+          "strokeWidth": 2.5
+        },
+        "box": {
+          "color": "#cde2fb",
+          "stroke": "#86b6ef"
+        },
+        "rule": {
+          "color": "#86b6ef"
+        },
+        "ticks": false
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 26,
+        "color": "#52514e",
+        "opacity": 0.55
+      },
+      "encoding": {
+        "yOffset": {
+          "field": "jitter",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              -0.5,
+              0.5
+            ],
+            "range": [
+              -20,
+              20
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "institution",
+            "title": "University"
+          },
+          {
+            "field": "measure",
+            "title": "Measure"
+          },
+          {
+            "field": "positive_pct",
+            "title": "Rated positively (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "likely_range",
+            "title": "Likely range (survey margin)"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.institution == pick"
+        }
+      ],
+      "layer": [
+        {
+          "mark": {
+            "type": "circle",
+            "size": 150,
+            "color": "#1c5cab",
+            "stroke": "#ffffff",
+            "strokeWidth": 2,
+            "opacity": 1
+          },
+          "encoding": {
+            "tooltip": [
+              {
+                "field": "institution",
+                "title": "University"
+              },
+              {
+                "field": "measure",
+                "title": "Measure"
+              },
+              {
+                "field": "positive_pct",
+                "title": "Rated positively (%)",
+                "format": ".1f"
+              },
+              {
+                "field": "likely_range",
+                "title": "Likely range (survey margin)"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "dy": -16,
+            "fontSize": 12,
+            "fontWeight": 700,
+            "color": "#ffffff",
+            "stroke": "#ffffff",
+            "strokeWidth": 4,
+            "strokeJoin": "round"
+          },
+          "encoding": {
+            "text": {
+              "field": "positive_pct",
+              "format": ".1f"
+            }
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "dy": -16,
+            "fontSize": 12,
+            "fontWeight": 700,
+            "color": "#1c5cab"
+          },
+          "encoding": {
+            "text": {
+              "field": "positive_pct",
+              "format": ".1f"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

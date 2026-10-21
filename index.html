@@ -42,22 +42,31 @@
         <p>Every year, the national <strong>Student Experience Survey</strong> asks a large sample of current students to rate their course. In this story, a <em>positive rating</em> means a student chose one of the top answers on the survey's scale, such as "good" or "excellent".</p>
       </div>
 
-      <div class="grid-2">
-        <figure class="chart placeholder" id="chart-waffle">
-          <figcaption>
-            <h3>About 76 in every 100 undergraduates rate their overall experience positively</h3>
-            <p class="sub">Each square is one student in 100 · Universities, 2025</p>
-          </figcaption>
-          <div class="todo">Planned: waffle chart (100 squares), 76.2% filled</div>
-        </figure>
-        <figure class="chart placeholder" id="chart-trend">
-          <figcaption>
-            <h3>Overall experience and belonging have both slipped since 2019</h3>
-            <p class="sub">Positive ratings, undergraduates at universities, 2017–2025</p>
-          </figcaption>
-          <div class="todo">Planned: annotated line chart (overall experience vs sense of belonging)</div>
-        </figure>
-      </div>
+      <figure class="chart wide" id="fig-waffle">
+        <figcaption>
+          <h3>Students rate resources and teaching well, but fewer than half feel they belong</h3>
+          <p class="sub">Out of every 100 undergraduates at Australian universities, how many rated each part of their experience positively, 2025</p>
+        </figcaption>
+        <div class="vis" id="chart-waffle"></div>
+        <p class="note">Each grid has 100 squares, rounded to whole students; hover over a grid for the exact figure. Sense of belonging comes from a separate question in the same survey. It sits about 30 points below overall experience, so many students who are happy with their course still do not feel part of their university.</p>
+        <p class="source">Source: QILT Student Experience Survey 2025, National Report Tables (universities, undergraduates). <a href="specs/waffle_measures.vl.json">Chart spec</a></p>
+      </figure>
+
+      <figure class="chart wide" id="fig-trend">
+        <figcaption>
+          <h3>Both measures fell sharply in 2020, and neither has returned to its 2019 level</h3>
+          <p class="sub">Share of undergraduates at universities rating their overall experience positively, and reporting a sense of belonging, 2017–2025</p>
+        </figcaption>
+        <div class="split">
+          <div class="vis" id="chart-trend"></div>
+          <aside class="annotation">
+            <p class="big-num">−4.5</p>
+            <p>points: the drop in sense of belonging between 2019 (50.8%) and 2025 (46.3%).</p>
+            <p>Overall experience fell 10 points in 2020 as teaching moved online, then recovered most of the way, to 76.2% in 2025, still 2.2 points below 2019.</p>
+          </aside>
+        </div>
+        <p class="source">Source: QILT Student Experience Survey 2025, National Report Tables (time series 2017–2025). <a href="specs/trend_overall_belonging.vl.json">Chart spec</a></p>
+      </figure>
     </div>
   </section>
 
@@ -121,21 +130,45 @@
       <div class="prose">
         <p>Nationally, learning resources (83.9%) and teaching (80.0%) earn the highest positive ratings from undergraduates. Peer engagement, meaning how much students connect with each other, earns the lowest (59.9%).</p>
       </div>
-      <figure class="chart placeholder wide" id="chart-heatmap">
-        <figcaption><h3>Study areas share the same strengths and the same weak spot</h3>
-        <p class="sub">Positive ratings by study area and part of the experience, undergraduates, 2025</p></figcaption>
-        <div class="todo">Planned: heatmap, 21 study areas × 6 measures</div>
+      <figure class="chart wide" id="fig-heatmap">
+        <figcaption>
+          <h3>In 16 of 21 study areas, peer engagement is the weakest part of the experience</h3>
+          <p class="sub">Positive ratings by study area, undergraduates at universities, 2025. Rows are sorted by overall experience. Switch to "Compared with all study areas" to see where each field stands out.</p>
+        </figcaption>
+        <div class="vis" id="chart-heatmap"></div>
+        <div class="callouts">
+          <div><span class="dot above"></span><strong>Hands-on fields score higher.</strong> Veterinary science, rehabilitation and medicine, where students learn in small groups and placements, have some of the highest peer-engagement ratings (73–83%).</div>
+          <div><span class="dot below"></span><strong>Computing lags behind.</strong> Only 64.4% of computing and information systems students rate their overall experience positively, 12 points below all study areas, with the lowest teaching rating too.</div>
+        </div>
+        <p class="note">A student studying a double degree can be counted in two study areas.</p>
+        <p class="source">Source: QILT Student Experience Survey 2025, National Report Tables (study area, universities). <a href="specs/heatmap_study_areas.vl.json">Chart spec</a></p>
       </figure>
-      <div class="grid-2">
-        <figure class="chart placeholder" id="chart-box">
-          <figcaption><h3>Universities differ most on peer engagement and support</h3><p class="sub">Spread of university scores for each measure, 2025</p></figcaption>
-          <div class="todo">Planned: box plot with every university as a point</div>
-        </figure>
-        <figure class="chart placeholder" id="chart-parallel">
-          <figcaption><h3>Compare the profile of any two universities</h3><p class="sub">Six measures, 2025 · pick universities to highlight</p></figcaption>
-          <div class="todo">Planned: parallel coordinates with highlighting</div>
-        </figure>
-      </div>
+
+      <figure class="chart wide" id="fig-box">
+        <figcaption>
+          <h3>Universities give similar learning resources but very different chances to connect with other students</h3>
+          <p class="sub">Spread of the 43 universities' undergraduate ratings on each measure, 2025. Each grey dot is one university; the blue dot is the university you highlight.</p>
+        </figcaption>
+        <div class="split">
+          <div class="vis" id="chart-box"></div>
+          <aside class="annotation">
+            <p><strong>How to read it.</strong> The shaded box holds the middle half of universities, the dark line inside it is the middle university, and the thin line runs from the lowest to the highest.</p>
+            <p>On <strong>learning resources</strong>, the middle half of universities sit within 3.4 points of each other.</p>
+            <p>On <strong>peer engagement</strong>, scores run from 28.2% (University of New England, where many students study online) to 84.9% (Bond University).</p>
+          </aside>
+        </div>
+        <p class="source">Source: QILT Student Experience Survey 2025, National Report Tables (institution, universities). <a href="specs/boxplot_universities.vl.json">Chart spec</a></p>
+      </figure>
+
+      <figure class="chart wide" id="fig-parallel">
+        <figcaption>
+          <h3>Compare any two universities across all six measures</h3>
+          <p class="sub">Each grey line is one university, 2025 undergraduate ratings. The black line is the average for all universities. Choose two universities to compare them directly.</p>
+        </figcaption>
+        <div class="vis" id="chart-parallel"></div>
+        <p class="note">University A is also highlighted in the box plot above. Each score comes from a sample of students, so a difference of a point or two may not be a real gap. Hover over a dot in the box plot to see each university's likely range.</p>
+        <p class="source">Source: QILT Student Experience Survey 2025, National Report Tables (institution, universities). <a href="specs/parallel_universities.vl.json">Chart spec</a></p>
+      </figure>
     </div>
   </section>
 

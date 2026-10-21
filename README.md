@@ -82,8 +82,12 @@ how sketch marks will be awarded.
 | `specs/*.vl.json` | One readable Vega-Lite specification per chart. |
 | `data/` | Prepared CSVs (see [data notes](data/README.md)); `data/geo/` holds boundaries and locations (see [geo notes](data/geo/README.md)). |
 
-Built so far (19 Oct 2026): the three maps (choropleth, flow map and proportional-symbol
-map). The remaining charts are labelled placeholders on the page.
+Built so far (21 Oct 2026): sections 1–3, eight charts: waffle small multiples, trend line,
+choropleth, flow map, proportional-symbol map, heatmap, box plot and parallel coordinates.
+Section 4 (dumbbell, support bars, isotype) is still placeholders.
+
+`data/derived/key_measures_2025.csv` is produced by `scripts/derive_key_measures.py`
+(rows copied unchanged from the national benchmark and belonging tables).
 
 Preview locally (the specs load data over HTTP, so opening the file directly will not work):
 
