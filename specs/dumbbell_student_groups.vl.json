@@ -1,0 +1,268 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Dumbbell chart: positive ratings on six measures for different groups of undergraduates at universities, 2025. Choose which characteristic to compare (stage of studies, study mode, age and others).",
+  "width": "container",
+  "height": {
+    "step": 46
+  },
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
+  "data": {
+    "url": "data/student_group_scores.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "positive_pct": "number",
+        "ci_low": "number",
+        "ci_high": "number",
+        "year": "number"
+      }
+    }
+  },
+  "params": [
+    {
+      "name": "compare",
+      "value": "Stage of studies",
+      "bind": {
+        "input": "select",
+        "name": "Compare students by: ",
+        "options": [
+          "Stage of studies",
+          "Study mode",
+          "Age group",
+          "Gender",
+          "International",
+          "Home language",
+          "Disability",
+          "First Nations†",
+          "First in family",
+          "Previous higher education experience",
+          "Socio-economic status†",
+          "Locality†"
+        ],
+        "labels": [
+          "Year of study (first year vs later)",
+          "Study mode (on campus vs online)",
+          "Age",
+          "Gender",
+          "Domestic vs international",
+          "Language spoken at home",
+          "Disability",
+          "First Nations students",
+          "First in family to attend university",
+          "Previous study",
+          "Socio-economic background",
+          "Where students live (city vs regional)"
+        ]
+      }
+    },
+    {
+      "name": "coverage_text",
+      "expr": "'Who is included: ' + ({'First in family': 'first-year students only', 'Previous higher education experience': 'first-year students only', 'First Nations†': 'domestic students only', 'Socio-economic status†': 'domestic students only', 'Locality†': 'domestic, government-supported students only'}[compare] || 'all undergraduates at universities')"
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.level == 'Undergraduate' && datum.group_type == compare && isValid(datum.positive_pct)"
+    },
+    {
+      "calculate": "trim(replace(datum.group, /[*†]/g, ''))",
+      "as": "group_clean"
+    },
+    {
+      "calculate": "{'Commencing': 'First year', 'Later year': 'Later years', 'Internal/Multi-mode': 'On campus or mixed', 'External': 'Fully online', 'Domestic student': 'Domestic', 'International student': 'International', 'Other': 'Language other than English', 'English': 'English', 'Another institution': 'Studied at another institution', 'Current institution': 'Studied here before', 'New to higher education': 'New to higher education', 'Regional/Remote': 'Regional or remote', 'Metro': 'Metropolitan', 'High': 'High SES', 'Medium': 'Medium SES', 'Low': 'Low SES'}[datum.group_clean] || datum.group_clean",
+      "as": "who"
+    },
+    {
+      "calculate": "{'resources': 'Learning resources', 'skills': 'Skills development', 'teaching': 'Teaching quality', 'overall': 'Overall experience', 'support': 'Student support', 'peer_engagement': 'Peer engagement'}[datum.metric]",
+      "as": "measure"
+    },
+    {
+      "calculate": "{'resources': 1, 'skills': 2, 'teaching': 3, 'overall': 4, 'support': 5, 'peer_engagement': 6}[datum.metric]",
+      "as": "measure_order"
+    },
+    {
+      "calculate": "indexof(['Commencing', 'Internal/Multi-mode', 'Under 25', 'Male', 'Domestic student', 'English', 'No disability', 'Non-Indigenous', 'Not first in family', 'New to higher education', 'High', 'Metro', 'Later year', 'External', '25 to 29', 'Female', 'International student', 'Other', 'Disability', 'First Nations', 'First in family', 'Current institution', 'Medium', 'Regional/Remote', '30 to 39', 'Another institution', 'Low', '40 and over'], datum.group_clean)",
+      "as": "order_raw"
+    },
+    {
+      "calculate": "{'First in family': 'First-year students only', 'Previous higher education experience': 'First-year students only', 'First Nations†': 'Domestic students only', 'Socio-economic status†': 'Domestic students only', 'Locality†': 'Domestic, government-supported students only'}[compare] || 'All undergraduates at universities'",
+      "as": "coverage"
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "min",
+          "field": "positive_pct",
+          "as": "lo"
+        },
+        {
+          "op": "max",
+          "field": "positive_pct",
+          "as": "hi"
+        }
+      ],
+      "groupby": [
+        "metric"
+      ]
+    },
+    {
+      "calculate": "format(datum.hi - datum.lo, '.1f') + ' points'",
+      "as": "gap_label"
+    }
+  ],
+  "encoding": {
+    "y": {
+      "field": "measure",
+      "type": "nominal",
+      "sort": {
+        "field": "measure_order"
+      },
+      "title": null,
+      "axis": {
+        "domain": false,
+        "ticks": false,
+        "labelFontSize": 13,
+        "labelFontWeight": 600,
+        "labelColor": "#1f1e1c",
+        "labelPadding": 10,
+        "grid": true,
+        "gridColor": "#f0efec"
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rule",
+        "color": "#c3c2b7",
+        "strokeWidth": 3,
+        "strokeCap": "round"
+      },
+      "encoding": {
+        "x": {
+          "aggregate": "min",
+          "field": "positive_pct",
+          "type": "quantitative",
+          "title": "Rated positively (%)",
+          "scale": {
+            "domain": [
+              20,
+              95
+            ]
+          },
+          "axis": {
+            "grid": true,
+            "domain": false,
+            "tickCount": 8,
+            "labelExpr": "datum.value + '%'"
+          }
+        },
+        "x2": {
+          "aggregate": "max",
+          "field": "positive_pct"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 150,
+        "opacity": 1,
+        "stroke": "#ffffff",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "x": {
+          "field": "positive_pct",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "who",
+          "type": "nominal",
+          "sort": {
+            "field": "order_raw"
+          },
+          "scale": {
+            "range": [
+              "#1c5cab",
+              "#b5481c",
+              "#1baf7a",
+              "#6250d6"
+            ]
+          },
+          "legend": {
+            "title": null,
+            "orient": "top",
+            "direction": "horizontal",
+            "symbolSize": 140,
+            "labelFontSize": 13,
+            "labelLimit": 0,
+            "columnPadding": 18
+          }
+        },
+        "tooltip": [
+          {
+            "field": "who",
+            "title": "Group"
+          },
+          {
+            "field": "measure",
+            "title": "Measure"
+          },
+          {
+            "field": "positive_pct",
+            "title": "Rated positively (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "gap_label",
+            "title": "Gap between groups"
+          },
+          {
+            "field": "coverage",
+            "title": "Who is included"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.positive_pct == datum.hi"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 12,
+        "fontSize": 12,
+        "fontWeight": 600,
+        "color": "#52514e"
+      },
+      "encoding": {
+        "x": {
+          "field": "positive_pct",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "gap_label"
+        }
+      }
+    }
+  ],
+  "title": {
+    "text": {
+      "expr": "coverage_text"
+    },
+    "anchor": "start",
+    "fontSize": 12.5,
+    "fontWeight": 400,
+    "font": "\"Source Sans 3\", \"Segoe UI\", sans-serif",
+    "color": "#52514e",
+    "offset": 10,
+    "orient": "bottom"
+  }
+}

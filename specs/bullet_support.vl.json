@@ -1,0 +1,278 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Bullet chart: share of students who found each support service helpful, 2025. Bars show undergraduates (all, first-year or later-year); ticks show postgraduate coursework students; rows stay in the order of the all-undergraduate rating; background bands mark under half, half to three-quarters, and three-quarters or more.",
+  "width": "container",
+  "height": {
+    "step": 44
+  },
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
+  "data": {
+    "url": "data/experience_items.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "positive_pct": "number",
+        "ci_low": "number",
+        "ci_high": "number",
+        "year": "number"
+      }
+    }
+  },
+  "params": [
+    {
+      "name": "stage",
+      "value": "Total",
+      "bind": {
+        "input": "radio",
+        "options": [
+          "Total",
+          "Commencing",
+          "Later year"
+        ],
+        "labels": [
+          "All undergraduates",
+          "First year",
+          "Later years"
+        ],
+        "name": "Bars show: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.family == 'SUPP' && isValid(datum.positive_pct)"
+    },
+    {
+      "calculate": "trim(replace(datum.item, 'Helpful support and services: ', ''))",
+      "as": "service_raw"
+    },
+    {
+      "calculate": "{'enrolment process and support': 'Enrolment help', 'induction/orientation activities': 'Orientation activities', 'online learning platform': 'Online learning platform', 'career development services': 'Career services', 'study or learning support services': 'Study and learning support', 'counsellors and or health services': 'Counselling and health services', 'financial and or legal advisors': 'Financial or legal advice'}[datum.service_raw] || datum.service_raw",
+      "as": "service"
+    },
+    {
+      "calculate": "datum.level == 'Undergraduate' && datum.stage == stage ? datum.positive_pct : null",
+      "as": "ug"
+    },
+    {
+      "calculate": "datum.level == 'Postgraduate coursework' && datum.stage == 'Total' ? datum.positive_pct : null",
+      "as": "pg"
+    },
+    {
+      "calculate": "datum.level == 'Undergraduate' && datum.stage == 'Total' ? datum.positive_pct : null",
+      "as": "ug_all"
+    },
+    {
+      "aggregate": [
+        {
+          "op": "max",
+          "field": "ug",
+          "as": "ug"
+        },
+        {
+          "op": "max",
+          "field": "pg",
+          "as": "pg"
+        },
+        {
+          "op": "max",
+          "field": "ug_all",
+          "as": "ug_all"
+        }
+      ],
+      "groupby": [
+        "service"
+      ]
+    },
+    {
+      "calculate": "format(datum.ug, '.1f') + '%'",
+      "as": "ug_label"
+    },
+    {
+      "calculate": "stage == 'Total' ? 'All undergraduates' : (stage == 'Commencing' ? 'First-year undergraduates' : 'Later-year undergraduates')",
+      "as": "ug_who"
+    },
+    {
+      "calculate": "max(datum.ug, datum.pg)",
+      "as": "label_x"
+    }
+  ],
+  "encoding": {
+    "y": {
+      "field": "service",
+      "type": "nominal",
+      "sort": {
+        "field": "ug_all",
+        "order": "descending"
+      },
+      "title": null,
+      "axis": {
+        "domain": false,
+        "ticks": false,
+        "labelFontSize": 13,
+        "labelFontWeight": 600,
+        "labelColor": "#1f1e1c",
+        "labelPadding": 10,
+        "labelLimit": 0
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rect",
+        "color": "#f0efec",
+        "height": {
+          "band": 0.8
+        }
+      },
+      "encoding": {
+        "x": {
+          "datum": 0,
+          "type": "quantitative"
+        },
+        "x2": {
+          "datum": 50
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "rect",
+        "color": "#e4e2db",
+        "height": {
+          "band": 0.8
+        }
+      },
+      "encoding": {
+        "x": {
+          "datum": 50,
+          "type": "quantitative"
+        },
+        "x2": {
+          "datum": 75
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "rect",
+        "color": "#d6d4cc",
+        "height": {
+          "band": 0.8
+        }
+      },
+      "encoding": {
+        "x": {
+          "datum": 75,
+          "type": "quantitative"
+        },
+        "x2": {
+          "datum": 100
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "bar",
+        "color": "#1c5cab",
+        "height": {
+          "band": 0.34
+        },
+        "cornerRadiusEnd": 3
+      },
+      "encoding": {
+        "x": {
+          "field": "ug",
+          "type": "quantitative",
+          "title": "Found the service helpful (%)",
+          "scale": {
+            "domain": [
+              0,
+              100
+            ]
+          },
+          "axis": {
+            "values": [
+              0,
+              25,
+              50,
+              75,
+              100
+            ],
+            "labelExpr": "datum.value + '%'",
+            "domain": false,
+            "grid": false
+          }
+        },
+        "tooltip": [
+          {
+            "field": "service",
+            "title": "Service"
+          },
+          {
+            "field": "ug_who",
+            "title": "Bar"
+          },
+          {
+            "field": "ug",
+            "title": "Found it helpful (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "pg",
+            "title": "Postgraduates (tick) (%)",
+            "format": ".1f"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "tick",
+        "color": "#1f1e1c",
+        "thickness": 3,
+        "size": 30
+      },
+      "encoding": {
+        "x": {
+          "field": "pg",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "service",
+            "title": "Service"
+          },
+          {
+            "field": "pg",
+            "title": "Postgraduates found it helpful (%)",
+            "format": ".1f"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 10,
+        "fontSize": 12.5,
+        "fontWeight": 700,
+        "color": "#0d366b"
+      },
+      "encoding": {
+        "x": {
+          "field": "label_x",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "ug_label"
+        }
+      }
+    }
+  ]
+}

@@ -103,7 +103,16 @@
     },
     {
       "data": {
-        "url": "data/university_scores.csv"
+        "url": "data/university_scores.csv",
+        "format": {
+          "type": "csv",
+          "parse": {
+            "positive_pct": "number",
+            "ci_low": "number",
+            "ci_high": "number",
+            "year": "number"
+          }
+        }
       },
       "transform": [
         {

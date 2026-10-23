@@ -1,0 +1,221 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Isotype (pictogram) chart: the ten most common reasons for considering leaving, among undergraduates at universities who considered leaving in 2025. Each figure stands for 1 in 20 of those students; students could give several reasons.",
+  "width": "container",
+  "height": {
+    "step": 40
+  },
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
+  "data": {
+    "url": "data/leaving_reasons.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "positive_pct": "number",
+        "year": "number",
+        "ci_low": "number",
+        "ci_high": "number"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum.level == 'Undergraduate' && (datum.year == 2025 || datum.year == 2019)"
+    },
+    {
+      "calculate": "trim(replace(datum.reason, /\\*/g, ''))",
+      "as": "reason_clean"
+    },
+    {
+      "calculate": "datum.year == 2025 ? datum.positive_pct : null",
+      "as": "pct_2025"
+    },
+    {
+      "calculate": "datum.year == 2019 ? datum.positive_pct : null",
+      "as": "pct_2019"
+    },
+    {
+      "aggregate": [
+        {
+          "op": "max",
+          "field": "pct_2025",
+          "as": "pct"
+        },
+        {
+          "op": "max",
+          "field": "pct_2019",
+          "as": "pct_2019"
+        }
+      ],
+      "groupby": [
+        "reason_clean"
+      ]
+    },
+    {
+      "filter": "isValid(datum.pct) && datum.reason_clean != 'Other reasons'"
+    },
+    {
+      "window": [
+        {
+          "op": "row_number",
+          "as": "rank"
+        }
+      ],
+      "sort": [
+        {
+          "field": "pct",
+          "order": "descending"
+        }
+      ]
+    },
+    {
+      "filter": "datum.rank <= 10"
+    },
+    {
+      "calculate": "round(datum.pct / 5)",
+      "as": "figures"
+    },
+    {
+      "calculate": "isValid(datum.pct_2019) ? format(datum.pct_2019, '.1f') + '%' : 'not asked in 2019 (new question)'",
+      "as": "was_2019"
+    },
+    {
+      "calculate": "sequence(0, 20)",
+      "as": "slot"
+    },
+    {
+      "flatten": [
+        "slot"
+      ]
+    },
+    {
+      "calculate": "datum.slot < datum.figures",
+      "as": "filled"
+    },
+    {
+      "calculate": "format(datum.pct, '.1f') + '%'",
+      "as": "pct_label"
+    }
+  ],
+  "encoding": {
+    "y": {
+      "field": "reason_clean",
+      "type": "nominal",
+      "sort": {
+        "field": "rank"
+      },
+      "title": null,
+      "axis": {
+        "domain": false,
+        "ticks": false,
+        "labelFontSize": 13,
+        "labelFontWeight": 600,
+        "labelColor": "#1f1e1c",
+        "labelPadding": 12,
+        "labelLimit": 0
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "point",
+        "shape": "M -0.28 -0.72 A 0.28 0.28 0 1 1 0.28 -0.72 A 0.28 0.28 0 1 1 -0.28 -0.72 Z M -0.5 1 L -0.5 0.02 Q -0.5 -0.34 -0.14 -0.34 L 0.14 -0.34 Q 0.5 -0.34 0.5 0.02 L 0.5 1 Z",
+        "filled": true,
+        "size": 380,
+        "opacity": 1,
+        "strokeWidth": 0
+      },
+      "params": [
+        {
+          "name": "row_hover",
+          "select": {
+            "type": "point",
+            "on": "pointerover",
+            "clear": "pointerout",
+            "fields": [
+              "reason_clean"
+            ]
+          }
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "slot",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              -0.6,
+              23.5
+            ]
+          },
+          "axis": null
+        },
+        "color": {
+          "field": "filled",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              true,
+              false
+            ],
+            "range": [
+              "#b5481c",
+              "#e4e2db"
+            ]
+          },
+          "legend": null
+        },
+        "opacity": {
+          "condition": {
+            "param": "row_hover",
+            "empty": true,
+            "value": 1
+          },
+          "value": 0.4
+        },
+        "tooltip": [
+          {
+            "field": "reason_clean",
+            "title": "Reason"
+          },
+          {
+            "field": "pct_label",
+            "title": "Share of those who considered leaving (2025)"
+          },
+          {
+            "field": "was_2019",
+            "title": "In 2019"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.slot == 0"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "fontSize": 14,
+        "fontWeight": 700,
+        "color": "#1f1e1c",
+        "font": "Fraunces"
+      },
+      "encoding": {
+        "x": {
+          "datum": 20.4,
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "pct_label"
+        }
+      }
+    }
+  ]
+}

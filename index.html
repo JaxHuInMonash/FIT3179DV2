@@ -180,19 +180,48 @@
       <div class="prose">
         <p>The broad ratings hide the details of daily student life: getting help, meeting other students, and deciding whether to stay.</p>
       </div>
-      <div class="grid-2">
-        <figure class="chart placeholder" id="chart-stage">
-          <figcaption><h3>First-year and later-year students rate their experience differently</h3><p class="sub">Commencing vs later-year undergraduates, 2025</p></figcaption>
-          <div class="todo">Planned: dumbbell chart</div>
-        </figure>
-        <figure class="chart placeholder" id="chart-support">
-          <figcaption><h3>Which support services students find helpful</h3><p class="sub">Individual survey items, 2025</p></figcaption>
-          <div class="todo">Planned: ranked bars</div>
-        </figure>
-      </div>
-      <figure class="chart placeholder wide" id="chart-leaving">
-        <figcaption><h3>Why students think about leaving</h3><p class="sub">Among students who considered leaving, 2025 (students could give more than one reason)</p></figcaption>
-        <div class="todo">Planned: isotype / pictogram chart</div>
+      <figure class="chart wide" id="fig-groups">
+        <figcaption>
+          <h3>First-year students are more positive than later-year students, and online students rarely connect with peers</h3>
+          <p class="sub">Positive ratings for different groups of undergraduates at universities, 2025. Choose a characteristic to compare; the number at the end of each row is the gap between the highest and lowest group.</p>
+        </figcaption>
+        <div class="vis" id="chart-groups"></div>
+        <div class="callouts">
+          <div><span class="dot above"></span><strong>Year of study.</strong> 79.2% of first-year students rate their overall experience positively, compared with 71.6% of later-year students. The gap is widest for overall experience (7.6 points) and student support (7.5).</div>
+          <div><span class="dot below"></span><strong>Study mode.</strong> Only 22.3% of fully online students rate peer engagement positively, against 64.5% on campus, yet online students are slightly <em>more</em> positive overall (79.4% vs 75.8%).</div>
+        </div>
+        <p class="source">Source: QILT Student Experience Survey 2025, National Report Tables (demographic and contextual groups, universities). <a href="specs/dumbbell_student_groups.vl.json">Chart spec</a></p>
+      </figure>
+
+      <figure class="chart wide" id="fig-support">
+        <figcaption>
+          <h3>The online learning platform is the most helpful service; only about half of students find career services helpful</h3>
+          <p class="sub">Share of students who found each support service helpful, 2025. Bars show undergraduates; black ticks show postgraduate coursework students. Shaded bands mark under half, half to three-quarters, and three-quarters or more.</p>
+        </figcaption>
+        <div class="split">
+          <div class="vis" id="chart-support"></div>
+          <aside class="annotation">
+            <p class="big-num">−8</p>
+            <p>points: the fall in students finding <strong>orientation</strong> (61.7% → 53.8%) and <strong>study support</strong> (65.6% → 58.0%) helpful between first year and later years.</p>
+            <p>Postgraduates rate every service as more helpful than undergraduates do.</p>
+            <p class="small">Students who did not use a service are not counted in its rating.</p>
+          </aside>
+        </div>
+        <p class="source">Source: QILT Student Experience Survey 2025, National Report Tables (support items by stage, universities). <a href="specs/bullet_support.vl.json">Chart spec</a></p>
+      </figure>
+
+      <figure class="chart wide" id="fig-leaving">
+        <figcaption>
+          <h3>Stress, mental health and money are the main reasons students think about leaving</h3>
+          <p class="sub">The ten most common reasons, among undergraduates at universities who considered leaving in 2025. Each figure stands for 1 in 20 of those students; students could choose more than one reason.</p>
+        </figcaption>
+        <div class="vis" id="chart-leaving"></div>
+        <div class="callouts">
+          <div><span class="dot below"></span><strong>Money worries have grown.</strong> 35.9% cited financial difficulties in 2025, up from 23.0% in 2019. Paid work responsibilities rose from 17.5% to 25.3%.</div>
+          <div><span class="dot above"></span><strong>Belonging matters here too.</strong> 21.4% cited a lack of connection to their institution, about as many as cited boredom or a lack of academic support.</div>
+        </div>
+        <p class="note">These percentages are of students who <em>considered</em> leaving, not of all students, and they do not add up to 100% because students could give several reasons. Stress and mental health were added as separate reasons after 2019, so they have no 2019 figure. Figures are rounded to the nearest 1 in 20.</p>
+        <p class="source">Source: QILT Student Experience Survey 2025, National Report Tables (reasons for considering early departure, universities). <a href="specs/isotype_leaving.vl.json">Chart spec</a></p>
       </figure>
     </div>
   </section>

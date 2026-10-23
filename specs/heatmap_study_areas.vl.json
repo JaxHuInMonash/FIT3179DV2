@@ -10,7 +10,16 @@
     "contains": "padding"
   },
   "data": {
-    "url": "data/study_area_scores.csv"
+    "url": "data/study_area_scores.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "positive_pct": "number",
+        "ci_low": "number",
+        "ci_high": "number",
+        "year": "number"
+      }
+    }
   },
   "params": [
     {

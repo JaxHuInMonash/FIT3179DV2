@@ -3,98 +3,293 @@
   "description": "Line chart: share of undergraduates at universities rating their overall experience positively, and share reporting a sense of belonging, 2017–2025.",
   "width": "container",
   "height": 300,
-  "autosize": {"type": "fit-x", "contains": "padding"},
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
   "encoding": {
     "x": {
       "field": "year",
       "type": "ordinal",
       "title": null,
-      "axis": {"labelAngle": 0, "domain": true, "ticks": false, "labelPadding": 8}
+      "axis": {
+        "labelAngle": 0,
+        "domain": true,
+        "ticks": false,
+        "labelPadding": 8
+      }
     },
     "y": {
       "field": "positive_pct",
       "type": "quantitative",
       "title": "Positive (%)",
-      "scale": {"domain": [30, 90]},
-      "axis": {"tickCount": 6, "domain": false, "ticks": false, "labelExpr": "datum.value + '%'"}
+      "scale": {
+        "domain": [
+          30,
+          90
+        ]
+      },
+      "axis": {
+        "tickCount": 6,
+        "domain": false,
+        "ticks": false,
+        "labelExpr": "datum.value + '%'"
+      }
     }
   },
   "layer": [
     {
-      "data": {"values": [{"year": 2020}]},
-      "mark": {"type": "rect", "color": "#f2f0ea"},
+      "data": {
+        "values": [
+          {
+            "year": 2020
+          }
+        ]
+      },
+      "mark": {
+        "type": "rect",
+        "color": "#f2f0ea"
+      },
       "encoding": {
-        "x": {"field": "year", "type": "ordinal", "bandPosition": 0},
-        "y": {"datum": 30},
-        "y2": {"datum": 90}
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "bandPosition": 0
+        },
+        "y": {
+          "datum": 30
+        },
+        "y2": {
+          "datum": 90
+        }
       }
     },
     {
-      "data": {"values": [{"year": 2020, "note": "2020: COVID-19 moves study online"}]},
-      "mark": {"type": "text", "align": "left", "dx": -36, "dy": 0, "fontSize": 11.5, "fontStyle": "italic", "color": "#52514e"},
+      "data": {
+        "values": [
+          {
+            "year": 2020,
+            "note": "2020: COVID-19 moves study online"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": -36,
+        "dy": 0,
+        "fontSize": 11.5,
+        "fontStyle": "italic",
+        "color": "#52514e"
+      },
       "encoding": {
-        "x": {"field": "year", "type": "ordinal"},
-        "y": {"datum": 88},
-        "text": {"field": "note"}
+        "x": {
+          "field": "year",
+          "type": "ordinal"
+        },
+        "y": {
+          "datum": 88
+        },
+        "text": {
+          "field": "note"
+        }
       }
     },
     {
-      "data": {"url": "data/national_benchmarks.csv"},
+      "data": {
+        "url": "data/national_benchmarks.csv",
+        "format": {
+          "type": "csv",
+          "parse": {
+            "positive_pct": "number",
+            "ci_low": "number",
+            "ci_high": "number",
+            "year": "number"
+          }
+        }
+      },
       "transform": [
-        {"filter": "datum.provider_type == 'Universities' && datum.level == 'Undergraduate' && datum.metric == 'overall'"},
-        {"calculate": "'Overall experience'", "as": "series"}
+        {
+          "filter": "datum.provider_type == 'Universities' && datum.level == 'Undergraduate' && datum.metric == 'overall'"
+        },
+        {
+          "calculate": "'Overall experience'",
+          "as": "series"
+        }
       ],
       "layer": [
-        {"mark": {"type": "line", "strokeWidth": 2.5, "color": "#1c5cab"}},
         {
-          "mark": {"type": "point", "filled": true, "size": 55, "color": "#1c5cab", "stroke": "#ffffff", "strokeWidth": 1.5},
+          "mark": {
+            "type": "line",
+            "strokeWidth": 2.5,
+            "color": "#1c5cab"
+          }
+        },
+        {
+          "mark": {
+            "type": "point",
+            "filled": true,
+            "size": 55,
+            "color": "#1c5cab",
+            "stroke": "#ffffff",
+            "strokeWidth": 1.5
+          },
           "encoding": {
             "tooltip": [
-              {"field": "series", "title": "Measure"},
-              {"field": "year", "title": "Year"},
-              {"field": "positive_pct", "title": "Positive (%)", "format": ".1f"}
+              {
+                "field": "series",
+                "title": "Measure"
+              },
+              {
+                "field": "year",
+                "title": "Year"
+              },
+              {
+                "field": "positive_pct",
+                "title": "Positive (%)",
+                "format": ".1f"
+              }
             ]
           }
         },
         {
-          "transform": [{"filter": "datum.year == 2025 || datum.year == 2019 || datum.year == 2020"}],
-          "mark": {"type": "text", "dy": -14, "fontSize": 12, "fontWeight": 600, "color": "#1f1e1c"},
-          "encoding": {"text": {"field": "positive_pct", "format": ".1f"}}
+          "transform": [
+            {
+              "filter": "datum.year == 2025 || datum.year == 2019 || datum.year == 2020"
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "dy": -14,
+            "fontSize": 12,
+            "fontWeight": 600,
+            "color": "#1f1e1c"
+          },
+          "encoding": {
+            "text": {
+              "field": "positive_pct",
+              "format": ".1f"
+            }
+          }
         },
         {
-          "transform": [{"filter": "datum.year == 2025"}],
-          "mark": {"type": "text", "align": "left", "dx": 12, "fontSize": 13, "fontWeight": 700, "color": "#1c5cab"},
-          "encoding": {"text": {"field": "series"}}
+          "transform": [
+            {
+              "filter": "datum.year == 2025"
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "dx": 12,
+            "fontSize": 13,
+            "fontWeight": 700,
+            "color": "#1c5cab"
+          },
+          "encoding": {
+            "text": {
+              "field": "series"
+            }
+          }
         }
       ]
     },
     {
-      "data": {"url": "data/belonging_trends.csv"},
+      "data": {
+        "url": "data/belonging_trends.csv",
+        "format": {
+          "type": "csv",
+          "parse": {
+            "positive_pct": "number",
+            "ci_low": "number",
+            "ci_high": "number",
+            "year": "number"
+          }
+        }
+      },
       "transform": [
-        {"filter": "datum.provider_type == 'Universities' && datum.level == 'Undergraduate'"},
-        {"calculate": "'Sense of belonging'", "as": "series"}
+        {
+          "filter": "datum.provider_type == 'Universities' && datum.level == 'Undergraduate'"
+        },
+        {
+          "calculate": "'Sense of belonging'",
+          "as": "series"
+        }
       ],
       "layer": [
-        {"mark": {"type": "line", "strokeWidth": 2.5, "color": "#b5481c"}},
         {
-          "mark": {"type": "point", "filled": true, "size": 55, "color": "#b5481c", "stroke": "#ffffff", "strokeWidth": 1.5},
+          "mark": {
+            "type": "line",
+            "strokeWidth": 2.5,
+            "color": "#b5481c"
+          }
+        },
+        {
+          "mark": {
+            "type": "point",
+            "filled": true,
+            "size": 55,
+            "color": "#b5481c",
+            "stroke": "#ffffff",
+            "strokeWidth": 1.5
+          },
           "encoding": {
             "tooltip": [
-              {"field": "series", "title": "Measure"},
-              {"field": "year", "title": "Year"},
-              {"field": "positive_pct", "title": "Positive (%)", "format": ".1f"}
+              {
+                "field": "series",
+                "title": "Measure"
+              },
+              {
+                "field": "year",
+                "title": "Year"
+              },
+              {
+                "field": "positive_pct",
+                "title": "Positive (%)",
+                "format": ".1f"
+              }
             ]
           }
         },
         {
-          "transform": [{"filter": "datum.year == 2025 || datum.year == 2019 || datum.year == 2020"}],
-          "mark": {"type": "text", "dy": 16, "fontSize": 12, "fontWeight": 600, "color": "#1f1e1c"},
-          "encoding": {"text": {"field": "positive_pct", "format": ".1f"}}
+          "transform": [
+            {
+              "filter": "datum.year == 2025 || datum.year == 2019 || datum.year == 2020"
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "dy": 16,
+            "fontSize": 12,
+            "fontWeight": 600,
+            "color": "#1f1e1c"
+          },
+          "encoding": {
+            "text": {
+              "field": "positive_pct",
+              "format": ".1f"
+            }
+          }
         },
         {
-          "transform": [{"filter": "datum.year == 2025"}],
-          "mark": {"type": "text", "align": "left", "dx": 12, "fontSize": 13, "fontWeight": 700, "color": "#b5481c"},
-          "encoding": {"text": {"field": "series"}}
+          "transform": [
+            {
+              "filter": "datum.year == 2025"
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "dx": 12,
+            "fontSize": 13,
+            "fontWeight": 700,
+            "color": "#b5481c"
+          },
+          "encoding": {
+            "text": {
+              "field": "series"
+            }
+          }
         }
       ]
     }

@@ -170,7 +170,16 @@
   "layer": [
     {
       "data": {
-        "url": "data/university_scores.csv"
+        "url": "data/university_scores.csv",
+        "format": {
+          "type": "csv",
+          "parse": {
+            "positive_pct": "number",
+            "ci_low": "number",
+            "ci_high": "number",
+            "year": "number"
+          }
+        }
       },
       "transform": [
         {
@@ -336,7 +345,16 @@
     },
     {
       "data": {
-        "url": "data/national_benchmarks.csv"
+        "url": "data/national_benchmarks.csv",
+        "format": {
+          "type": "csv",
+          "parse": {
+            "positive_pct": "number",
+            "ci_low": "number",
+            "ci_high": "number",
+            "year": "number"
+          }
+        }
       },
       "transform": [
         {

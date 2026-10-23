@@ -43,7 +43,10 @@ const charts = [
   { el: "#map-universities", spec: "specs/map_universities.vl.json" },
   { el: "#chart-heatmap", spec: "specs/heatmap_study_areas.vl.json" },
   { el: "#chart-box", spec: "specs/boxplot_universities.vl.json" },
-  { el: "#chart-parallel", spec: "specs/parallel_universities.vl.json" }
+  { el: "#chart-parallel", spec: "specs/parallel_universities.vl.json" },
+  { el: "#chart-groups", spec: "specs/dumbbell_student_groups.vl.json" },
+  { el: "#chart-support", spec: "specs/bullet_support.vl.json" },
+  { el: "#chart-leaving", spec: "specs/isotype_leaving.vl.json" }
 ];
 
 const options = {
