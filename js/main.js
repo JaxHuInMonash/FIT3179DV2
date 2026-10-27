@@ -97,12 +97,14 @@ function linkSignal(name, elA, elB) {
   b.addSignalListener(name, copy(b, a));
 }
 
-// On the university map, picking a new area in "Zoom to" starts again at 1x zoom.
+// On the university map, picking a new area in "Zoom to" starts again at 1x zoom
+// with no drag offset.
 function resetZoomOnFocus(el) {
   const view = views[el];
   if (!view) return;
   view.addSignalListener("focus", () => {
-    if (view.signal("zoom") === 1) return;
+    view.signal("panLon", 0).signal("panLat", 0);
+    if (view.signal("zoom") === 1) { view.runAsync(); return; }
     view.signal("zoom", 1).runAsync();
     const slider = document.querySelector(`${el} input[name="zoom"]`);
     if (slider) {
@@ -113,7 +115,50 @@ function resetZoomOnFocus(el) {
   });
 }
 
+// Drag to pan the university map. Vega-Lite has no built-in panning for map
+// projections, so pointer movement is converted into a longitude/latitude offset
+// (panLon, panLat signals in the spec) that shifts the projection centre.
+function enableMapDrag(el) {
+  const view = views[el];
+  const svg = document.querySelector(`${el} svg`);
+  if (!view || !svg) return;
+  svg.classList.add("draggable-map");
+  let start = null;
+
+  svg.addEventListener("pointerdown", (event) => {
+    if (event.button !== 0) return;
+    start = {
+      x: event.clientX,
+      y: event.clientY,
+      lon: view.signal("panLon"),
+      lat: view.signal("panLat")
+    };
+    svg.setPointerCapture(event.pointerId);
+    svg.classList.add("dragging");
+  });
+
+  svg.addEventListener("pointermove", (event) => {
+    if (!start) return;
+    const scale = view.signal("mapScale");                 // pixels per radian
+    const lat = view.signal("centreLat") * Math.PI / 180;
+    const degPerPx = 180 / Math.PI / scale;
+    const dLon = -(event.clientX - start.x) * degPerPx / Math.max(Math.cos(lat), 0.3);
+    const dLat = (event.clientY - start.y) * degPerPx;
+    view.signal("panLon", start.lon + dLon).signal("panLat", start.lat + dLat).runAsync();
+  });
+
+  const stop = (event) => {
+    if (!start) return;
+    start = null;
+    svg.classList.remove("dragging");
+    if (svg.hasPointerCapture(event.pointerId)) svg.releasePointerCapture(event.pointerId);
+  };
+  svg.addEventListener("pointerup", stop);
+  svg.addEventListener("pointercancel", stop);
+}
+
 Promise.all(embedded).then(() => {
   linkSignal("pick", "#chart-box", "#chart-parallel");
   resetZoomOnFocus("#map-universities");
+  enableMapDrag("#map-universities");
 });
