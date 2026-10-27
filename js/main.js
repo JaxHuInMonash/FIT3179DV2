@@ -53,7 +53,10 @@ const options = {
   config: theme,
   actions: false,
   renderer: "svg",
-  tooltip: { theme: "light" }
+  tooltip: { theme: "light" },
+  // Always fetch the latest spec and data files instead of a cached copy, so
+  // edits show up on a normal refresh (the files are small, so this costs little).
+  loader: { http: { cache: "no-store" } }
 };
 
 const views = {};
@@ -94,4 +97,23 @@ function linkSignal(name, elA, elB) {
   b.addSignalListener(name, copy(b, a));
 }
 
-Promise.all(embedded).then(() => linkSignal("pick", "#chart-box", "#chart-parallel"));
+// On the university map, picking a new area in "Zoom to" starts again at 1x zoom.
+function resetZoomOnFocus(el) {
+  const view = views[el];
+  if (!view) return;
+  view.addSignalListener("focus", () => {
+    if (view.signal("zoom") === 1) return;
+    view.signal("zoom", 1).runAsync();
+    const slider = document.querySelector(`${el} input[name="zoom"]`);
+    if (slider) {
+      slider.value = 1;
+      const shown = slider.parentNode.querySelector(".vega-bind-value");
+      if (shown) shown.textContent = "1";
+    }
+  });
+}
+
+Promise.all(embedded).then(() => {
+  linkSignal("pick", "#chart-box", "#chart-parallel");
+  resetZoomOnFocus("#map-universities");
+});
