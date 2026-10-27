@@ -102,16 +102,18 @@ function linkSignal(name, elA, elB) {
 function resetZoomOnFocus(el) {
   const view = views[el];
   if (!view) return;
+  // Signal listeners run while Vega is updating, so the reset is scheduled to
+  // run once that update has finished.
   view.addSignalListener("focus", () => {
-    view.signal("panLon", 0).signal("panLat", 0);
-    if (view.signal("zoom") === 1) { view.runAsync(); return; }
-    view.signal("zoom", 1).runAsync();
-    const slider = document.querySelector(`${el} input[name="zoom"]`);
-    if (slider) {
-      slider.value = 1;
-      const shown = slider.parentNode.querySelector(".vega-bind-value");
-      if (shown) shown.textContent = "1";
-    }
+    view.runAfter(() => {
+      view.signal("panLon", 0).signal("panLat", 0).signal("zoom", 1).runAsync();
+      const slider = document.querySelector(`${el} input[name="zoom"]`);
+      if (slider) {
+        slider.value = 1;
+        const shown = slider.parentNode.querySelector(".vega-bind-value");
+        if (shown) shown.textContent = "1";
+      }
+    });
   });
 }
 
@@ -124,41 +126,66 @@ function enableMapDrag(el) {
   if (!view || !svg) return;
   svg.classList.add("draggable-map");
   let start = null;
+  view._dragMoved = false;
 
-  svg.addEventListener("pointerdown", (event) => {
-    if (event.button !== 0) return;
-    start = {
-      x: event.clientX,
-      y: event.clientY,
-      lon: view.signal("panLon"),
-      lat: view.signal("panLat")
-    };
-    svg.setPointerCapture(event.pointerId);
-    svg.classList.add("dragging");
-  });
-
-  svg.addEventListener("pointermove", (event) => {
+  // Movement and release are tracked on the window (not with pointer capture) so
+  // that an ordinary click still reaches the state or circle under the pointer.
+  const move = (event) => {
     if (!start) return;
+    if (Math.abs(event.clientX - start.x) + Math.abs(event.clientY - start.y) > 4) view._dragMoved = true;
+    if (!view._dragMoved) return;
     const scale = view.signal("mapScale");                 // pixels per radian
     const lat = view.signal("centreLat") * Math.PI / 180;
     const degPerPx = 180 / Math.PI / scale;
     const dLon = -(event.clientX - start.x) * degPerPx / Math.max(Math.cos(lat), 0.3);
     const dLat = (event.clientY - start.y) * degPerPx;
     view.signal("panLon", start.lon + dLon).signal("panLat", start.lat + dLat).runAsync();
-  });
-
-  const stop = (event) => {
+  };
+  const stop = () => {
     if (!start) return;
     start = null;
     svg.classList.remove("dragging");
-    if (svg.hasPointerCapture(event.pointerId)) svg.releasePointerCapture(event.pointerId);
+    window.removeEventListener("pointermove", move);
+    window.removeEventListener("pointerup", stop);
+    window.removeEventListener("pointercancel", stop);
   };
-  svg.addEventListener("pointerup", stop);
-  svg.addEventListener("pointercancel", stop);
+
+  svg.addEventListener("pointerdown", (event) => {
+    if (event.button !== 0) return;
+    start = { x: event.clientX, y: event.clientY, lon: view.signal("panLon"), lat: view.signal("panLat") };
+    view._dragMoved = false;
+    svg.classList.add("dragging");
+    window.addEventListener("pointermove", move);
+    window.addEventListener("pointerup", stop);
+    window.addEventListener("pointercancel", stop);
+  });
+}
+
+// Click a state on the university map to zoom to it, exactly as if it had been
+// chosen in "Zoom to"; clicking a university circle selects that university's
+// state, and clicking the selected state again returns to all of Australia.
+// The dropdown is updated so it always shows the current choice.
+const STATES = ["New South Wales", "Victoria", "Queensland", "Western Australia",
+  "South Australia", "Tasmania", "Northern Territory", "Australian Capital Territory"];
+
+function enableStateClick(el) {
+  const view = views[el];
+  if (!view) return;
+  view.addEventListener("click", (event, item) => {
+    if (view._dragMoved || !item || !item.datum) return;     // end of a drag, or empty space
+    const datum = item.datum;
+    const clicked = datum.properties ? datum.properties.name : datum.state;
+    if (!STATES.includes(clicked)) return;                    // e.g. multi-state ACU
+    const next = view.signal("focus") === clicked ? "Australia" : clicked;
+    view.signal("focus", next).runAsync();
+    const select = document.querySelector(`${el} select[name="focus"]`);
+    if (select) select.value = next;
+  });
 }
 
 Promise.all(embedded).then(() => {
   linkSignal("pick", "#chart-box", "#chart-parallel");
   resetZoomOnFocus("#map-universities");
   enableMapDrag("#map-universities");
+  enableStateClick("#map-universities");
 });

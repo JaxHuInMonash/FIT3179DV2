@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Proportional symbol map: each university at its main campus. Circle area = students enrolled at the selected course level (2024). Colour = 2025 overall-experience rating relative to the national university benchmark. Drag the map to move around. Choose a state to zoom to it (keeping its neighbours in view), and use the zoom slider to look closer; as you zoom in, the view moves toward the state's capital, where most universities are.",
+  "description": "Proportional symbol map: each university at its main campus. Circle area = students enrolled at the selected course level (2024). Colour = 2025 overall-experience rating relative to the national university benchmark. Drag the map to move around. Click a state (or choose one from the list) to zoom to it (keeping its neighbours in view), and use the zoom slider to look closer; as you zoom in, the view moves toward the state's capital, where most universities are.",
   "width": "container",
   "height": 540,
   "autosize": {
@@ -152,7 +152,6 @@
       },
       "mark": {
         "type": "geoshape",
-        "fill": "#f0eee8",
         "clip": true
       },
       "encoding": {
@@ -169,8 +168,29 @@
             "value": 1.8
           },
           "value": 1.2
+        },
+        "fill": {
+          "condition": {
+            "param": "stateHover",
+            "empty": false,
+            "value": "#e5e2d9"
+          },
+          "value": "#f0eee8"
         }
-      }
+      },
+      "params": [
+        {
+          "name": "stateHover",
+          "select": {
+            "type": "point",
+            "on": "pointerover",
+            "clear": "pointerout",
+            "fields": [
+              "properties.name"
+            ]
+          }
+        }
+      ]
     },
     {
       "data": {
